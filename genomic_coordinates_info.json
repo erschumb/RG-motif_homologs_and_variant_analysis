@@ -1,0 +1,54 @@
+[
+    {
+        "protein": "Q3KQU3",
+        "prot_region": [
+            325,
+            333
+        ],
+        "prot_seq": "GRGCDPGRG",
+        "intervals": [
+            {
+                "chrom": "1",
+                "start": 36176321,
+                "end": 36176347,
+                "strand": "+"
+            }
+        ],
+        "dna": "GGTAGGGGCTGCGACCCTGGGAGAGGC"
+    },
+    {
+        "protein": "Q9Y4Z0",
+        "prot_region": [
+            1,
+            100
+        ],
+        "prot_seq": "MLPLSLLKTAQNHPMLVELKNGETYNGHLVSCDNWMNINLREVICTSRDGDKFWRMPECYIRGSTIKYLRIPDEIIDMVKEEVVAKGRGRGGLQQQKQQK",
+        "intervals": [
+            {
+                "chrom": "19",
+                "start": 18323018,
+                "end": 18323020,
+                "strand": "-"
+            },
+            {
+                "chrom": "19",
+                "start": 18316024,
+                "end": 18316065,
+                "strand": "-"
+            },
+            {
+                "chrom": "19",
+                "start": 18312604,
+                "end": 18312702,
+                "strand": "-"
+            },
+            {
+                "chrom": "19",
+                "start": 18309706,
+                "end": 18309861,
+                "strand": "-"
+            }
+        ],
+        "dna": "ATGCTTCCCTTGTCACTGCTGAAGACGGCTCAGAATCACCCCATGTTGGTGGAGCTGAAAAATGGGGAGACGTACAATGGACACCTGGTGAGCTGCGACAACTGGATGAACATTAACCTGCGAGAAGTCATCTGCACGTCCAGGGACGGGGACAAGTTCTGGCGGATGCCCGAGTGCTACATCCGCGGCAGCACCATCAAGTACCTGCGCATCCCCGACGAGATCATCGACATGGTCAAGGAGGAGGTGGTGGCCAAGGGCCGCGGCCGCGGAGGCCTGCAGCAGCAGAAGCAGCAGAAA"
+    }
+]
