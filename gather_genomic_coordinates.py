@@ -43,12 +43,15 @@ logger.addHandler(handler)
 # ============================================================
 def _safe_get(url: str, headers: Optional[dict] = None, max_retries: int = 4, sleep: float = 1):
     """Robust GET request with retries."""
+    flag_not_found =  False
     for attempt in range(max_retries):
         try:
             r = requests.get(url, headers=headers, timeout=10)
             if r.status_code == 200:
                 return r
-            logger.warning(f"Status {r.status_code} for {url} (attempt {attempt+1})")
+            if not flag_not_found:
+                logger.warning(f"Status {r.status_code} for {url} (attempt {attempt+1})")
+            flag_not_found = True
         except Exception as e:
             logger.warning(f"Request failed ({attempt + 1}): {e}")
 
