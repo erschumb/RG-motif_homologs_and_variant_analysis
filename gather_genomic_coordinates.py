@@ -22,7 +22,9 @@ import time
 from multiprocessing import Pool, cpu_count
 from typing import List, Tuple, Optional
 from Bio.Seq import Seq
+from polars import corr
 import requests
+from torch import concat
 
 # ============================================================
 #   LOGGING SETUP
@@ -151,6 +153,7 @@ def _translation_check(dna: str, prot_seq: Optional[str], aa_start: int, aa_end:
 # ============================================================
 def _extract_forward(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional[str], protein_id: str, species: str):
     chrom, exons = _extract_exons(entry)
+    chrom = "chr" + str(chrom)
     first_aa = exons[0]["p_start"]
 
     exon_seqs, exon_cum, cum = [], [], 0
@@ -186,6 +189,7 @@ def _extract_forward(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
         })
 
     dna = concatenated[nt_start:nt_end + 1]
+    # print(dna)
     trans = _translation_check(dna, prot_seq, aa_start, aa_end, protein_id)
     return intervals, dna, trans
 
@@ -195,11 +199,15 @@ def _extract_forward(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
 # ============================================================
 def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional[str], protein_id: str, species: str):
     chrom, exons = _extract_exons(entry)
+    chrom = "chr" + str(chrom)
+    # print(exons)
     first_aa = exons[0]["p_start"]
 
     exon_seqs_rc, exon_cum, cum = [], [], 0
     for ex in exons:
         seq = _fetch_seq(chrom, ex["g_start"], ex["g_end"], species)
+        # print(seq)
+
         if seq is None:
             return None, None, None
         rc = str(Seq(seq).reverse_complement())
@@ -208,7 +216,12 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
         cum += len(rc)
 
     concatenated = "".join(exon_seqs_rc)
+    # print(concatenated)
+    # print(exon_cum)
+
     total_nt = len(concatenated)
+    # print(total_nt)
+
 
     nt_start = max(0, (aa_start - first_aa) * 3)
     nt_end = min(total_nt - 1, (aa_end - first_aa) * 3 + 2)
@@ -217,6 +230,8 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
     for ex, cum_start in zip(exons, exon_cum):
         ov_s = max(nt_start, cum_start)
         ov_e = min(nt_end, cum_start + ex["len"] - 1)
+        # print(ov_s, ov_e)
+
         if ov_s > ov_e:
             continue
 
@@ -232,8 +247,11 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
             "end": max(g_s, g_e),
             "strand": "-"
         })
+    # print(intervals)
 
     dna = concatenated[nt_start:nt_end + 1]
+    # print(dna)
+
     trans = _translation_check(dna, prot_seq, aa_start, aa_end, protein_id)
     return intervals, dna, trans
 
@@ -245,6 +263,7 @@ def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "
     url = f"https://www.ebi.ac.uk/proteins/api/coordinates/{protein_id}"
     r = _safe_get(url, headers={"Accept": "application/json"})
 
+    # print(r.json())
     if r is None:
         return None, "uniprot_lookup_failed"
 
@@ -253,11 +272,29 @@ def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "
         data = data_json[0] if isinstance(data_json, list) else data_json
     except Exception:
         return None, "uniprot_parse_failed"
+    # print(data)
+    # print(data["gnCoordinate"])
+    # print(len(data["gnCoordinate"]))
 
-    try:
-        entry = data["gnCoordinate"][0]
-    except Exception:
+    if len(data["gnCoordinate"]) == 0:
         return None, "uniprot_no_gnCoordinate"
+    elif len(data["gnCoordinate"]) == 1:
+        entry = data["gnCoordinate"][0]
+    else:
+        temp_entries = data["gnCoordinate"]
+        chrom_list_possible = []
+        for ikj in temp_entries:
+            chrom_list_possible.append(ikj["genomicLocation"]["chromosome"])
+        corr_chrom = [(i, x) for i, x in enumerate(chrom_list_possible) if "_" not in x]
+        # print(corr_chrom)
+
+        if len(corr_chrom) == 1:
+            entry = data["gnCoordinate"][corr_chrom[0][0]]
+        else:
+            return None, "uniprot_ambiguous_gnCoordinate"
+    
+    # print(entry)
+
 
     prot_seq = data.get("sequence")
     reverse = entry["genomicLocation"]["reverseStrand"]
