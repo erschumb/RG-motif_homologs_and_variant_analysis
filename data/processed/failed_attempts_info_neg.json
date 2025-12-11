@@ -1,0 +1,202 @@
+[
+    {
+        "protein": "Q9P1D8",
+        "region": [
+            4,
+            17
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "A4D2B8",
+        "region": [
+            178,
+            195
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q86UK7",
+        "region": [
+            322,
+            332
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q86UK7",
+        "region": [
+            380,
+            388
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "A0A0G2JQZ4",
+        "region": [
+            28,
+            37
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q8N7Y1",
+        "region": [
+            34,
+            39
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q86UX2",
+        "region": [
+            210,
+            216
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "P0CAT3",
+        "region": [
+            114,
+            121
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q8NFD4",
+        "region": [
+            39,
+            43
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q96MR7",
+        "region": [
+            137,
+            157
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "P0CZ25",
+        "region": [
+            130,
+            143
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q9H8W2",
+        "region": [
+            32,
+            36
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q8N9L7",
+        "region": [
+            112,
+            119
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "A6NFC9",
+        "region": [
+            308,
+            318
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q8IYB0",
+        "region": [
+            92,
+            96
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q5T4H9",
+        "region": [
+            15,
+            31
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "A4D250",
+        "region": [
+            74,
+            84
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "A8MTW9",
+        "region": [
+            41,
+            51
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "P0DP75",
+        "region": [
+            54,
+            62
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q6U949",
+        "region": [
+            6,
+            11
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q6U949",
+        "region": [
+            62,
+            69
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q71F78",
+        "region": [
+            23,
+            33
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q66K80",
+        "region": [
+            17,
+            24
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "P0C879",
+        "region": [
+            65,
+            74
+        ],
+        "reason": "uniprot_lookup_failed"
+    },
+    {
+        "protein": "Q8N8E1",
+        "region": [
+            30,
+            34
+        ],
+        "reason": "uniprot_lookup_failed"
+    }
+]

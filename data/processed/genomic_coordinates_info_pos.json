@@ -774,7 +774,8 @@
         ],
         "prot_seq": "",
         "intervals": [],
-        "dna": ""
+        "dna": "",
+        "warning": "translation_mismatch"
     },
     {
         "protein": "Q5TGY3",
@@ -784,7 +785,8 @@
         ],
         "prot_seq": "",
         "intervals": [],
-        "dna": ""
+        "dna": "",
+        "warning": "translation_mismatch"
     },
     {
         "protein": "P0DJD3",
@@ -2340,7 +2342,8 @@
         ],
         "prot_seq": "",
         "intervals": [],
-        "dna": ""
+        "dna": "",
+        "warning": "translation_mismatch"
     },
     {
         "protein": "Q14444",
@@ -3238,7 +3241,8 @@
         ],
         "prot_seq": "",
         "intervals": [],
-        "dna": ""
+        "dna": "",
+        "warning": "translation_mismatch"
     },
     {
         "protein": "Q9Y3X0",

@@ -1471,7 +1471,8 @@
         ],
         "prot_seq": "",
         "intervals": [],
-        "dna": ""
+        "dna": "",
+        "warning": "translation_mismatch"
     },
     {
         "protein": "F5H4A9",
@@ -3361,7 +3362,8 @@
         ],
         "prot_seq": "",
         "intervals": [],
-        "dna": ""
+        "dna": "",
+        "warning": "translation_mismatch"
     },
     {
         "protein": "Q9H7M6",
