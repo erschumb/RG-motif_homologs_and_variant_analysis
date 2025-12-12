@@ -106,7 +106,7 @@ def _extract_exons(entry: dict):
     and return (chrom, sorted_exons).
     """
     exons = []
-    chrom = entry["genomicLocation"]["chromosome"]
+    chrom = "chr" + str(entry["genomicLocation"]["chromosome"])
 
     for ex in entry["genomicLocation"]["exon"]:
         p_start, p_end = _parse_protein_location(ex["proteinLocation"])
@@ -153,7 +153,7 @@ def _translation_check(dna: str, prot_seq: Optional[str], aa_start: int, aa_end:
 # ============================================================
 def _extract_forward(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional[str], protein_id: str, species: str):
     chrom, exons = _extract_exons(entry)
-    chrom = "chr" + str(chrom)
+    # chrom = "chr" + str(chrom)
     first_aa = exons[0]["p_start"]
 
     exon_seqs, exon_cum, cum = [], [], 0
@@ -199,7 +199,7 @@ def _extract_forward(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
 # ============================================================
 def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional[str], protein_id: str, species: str):
     chrom, exons = _extract_exons(entry)
-    chrom = "chr" + str(chrom)
+    # chrom = "chr" + str(chrom)
     # print(exons)
     first_aa = exons[0]["p_start"]
 
@@ -255,6 +255,102 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
     trans = _translation_check(dna, prot_seq, aa_start, aa_end, protein_id)
     return intervals, dna, trans
 
+def fallback_ensembl_coordinates(
+        protein_id: str,
+        aa_start: int,
+        aa_end: int,
+        species: str = "human"
+    ):
+    """
+    Fallback strategy when UniProt does not provide gnCoordinate.
+    Uses Ensembl REST API directly:
+      1. Map UniProt protein -> Ensembl protein translation.
+      2. Map translation positions to genomic coordinates.
+
+    Returns:
+        {
+            "intervals": [...],
+            "dna": "...",
+            "prot_seq": translated,
+            "warning": "ensembl_fallback"
+        }
+        or (None, reason)
+    """
+
+    base = "https://rest.ensembl.org"
+    headers_json = {"Content-Type": "application/json"}
+
+    # Step 1. Map UniProt accession to Ensembl translation ID
+    url_xref = f"{base}/xrefs/id/{protein_id}?external_db=UniProtKB/Swiss-Prot"
+    r = _safe_get(url_xref, headers=headers_json)
+    if r is None:
+        return None, "ensembl_xref_failed"
+
+    try:
+        data = r.json()
+    except:
+        return None, "ensembl_xref_parse_failed"
+
+    # Filter Ensembl peptide xrefs
+    peptides = [x for x in data if x.get("type") == "translation"]
+    if not peptides:
+        return None, "ensembl_no_translation_id"
+
+    translation_id = peptides[0]["id"]  # choose the first one
+
+    # Step 2. Map AA positions to genomic coordinates
+    url_map = f"{base}/map/translation/{translation_id}/{aa_start}..{aa_end}"
+    r = _safe_get(url_map, headers=headers_json)
+    if r is None:
+        return None, "ensembl_map_failed"
+
+    try:
+        mapping = r.json()
+    except:
+        return None, "ensembl_map_parse_failed"
+
+    if "mappings" not in mapping or not mapping["mappings"]:
+        return None, "ensembl_map_empty"
+
+    intervals = []
+    chrom_seen = None
+
+    for m in mapping["mappings"]:
+        chrom = m["seq_region_name"]
+        if chrom_seen is None:
+            chrom_seen = chrom
+
+        # Normalize naming similar to UniProt path
+        chrom = "chr" + str(chrom)
+
+        intervals.append({
+            "chrom": chrom,
+            "start": m["start"],
+            "end": m["end"],
+            "strand": "+" if m["strand"] == 1 else "-"
+        })
+
+    # Step 3. Fetch the actual DNA sequence
+    dna = []
+    for iv in intervals:
+        seq = _fetch_seq(iv["chrom"], iv["start"], iv["end"], species)
+        if seq is None:
+            return None, "ensembl_dna_fetch_failed"
+        dna.append(seq if iv["strand"] == "+" else str(Seq(seq).reverse_complement()))
+
+    dna_concat = "".join(dna)
+
+    # Translate
+    prot_seq = str(Seq(dna_concat).translate())
+
+    return {
+        "intervals": intervals,
+        "dna": dna_concat,
+        "prot_seq": prot_seq,
+        "warning": "ensembl_fallback"
+    }, None
+
+
 
 # ============================================================
 #   MAIN API WRAPPER WITH FAILURE REASON
@@ -262,10 +358,15 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
 def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "human"):
     url = f"https://www.ebi.ac.uk/proteins/api/coordinates/{protein_id}"
     r = _safe_get(url, headers={"Accept": "application/json"})
-
+    warning_msg = None
     # print(r.json())
     if r is None:
-        return None, "uniprot_lookup_failed"
+        # Try Ensembl fallback
+        fallback, reason2 = fallback_ensembl_coordinates(protein_id, aa_start, aa_end, species)
+        if fallback is None:
+            return None, f"uniprot_lookup_failed_and_{reason2}"
+        return (fallback["intervals"], fallback["dna"], fallback["prot_seq"]), fallback.get("warning")
+        # return None, "uniprot_lookup_failed"
 
     try:
         data_json = r.json()
@@ -288,10 +389,11 @@ def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "
         corr_chrom = [(i, x) for i, x in enumerate(chrom_list_possible) if "_" not in x]
         # print(corr_chrom)
 
-        if len(corr_chrom) == 1:
-            entry = data["gnCoordinate"][corr_chrom[0][0]]
-        else:
-            return None, "uniprot_ambiguous_gnCoordinate"
+        if len(corr_chrom) > 1:
+            warning_msg = "multiple_possible_gnCoordinates"
+        elif len(corr_chrom) == 0:
+            return None, "only_ALT_chromosomes_found" 
+        entry = data["gnCoordinate"][corr_chrom[0][0]] 
     
     # print(entry)
 
@@ -311,7 +413,7 @@ def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "
         if len(trans) != expected_len:
             return (intervals, dna, trans), "translation_mismatch"
 
-    return (intervals, dna, trans), None
+    return (intervals, dna, trans), warning_msg
 
 
 # ============================================================
@@ -319,6 +421,8 @@ def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "
 # ============================================================
 def _process_single(region: Tuple[str, int, int, str]):
     protein_id, aa_start, aa_end, species = region
+    # print(protein_id)
+    
 
     output, reason = _get_exact_dna(protein_id, aa_start, aa_end, species)
 
