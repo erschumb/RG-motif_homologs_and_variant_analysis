@@ -188,6 +188,14 @@ def _extract_forward(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
             "strand": "+"
         })
 
+    # add merged coordinates
+    offset = 0
+    for iv in intervals:
+        length = iv["end"] - iv["start"] + 1
+        iv["merged_start"] = offset
+        iv["merged_end"] = offset + length - 1
+        offset += length
+
     dna = concatenated[nt_start:nt_end + 1]
     # print(dna)
     trans = _translation_check(dna, prot_seq, aa_start, aa_end, protein_id)
@@ -248,9 +256,14 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
             "strand": "-"
         })
     # print(intervals)
-
-    dna = concatenated[nt_start:nt_end + 1]
-    # print(dna)
+    offset = 0
+    for iv in intervals:
+        length = iv["end"] - iv["start"] + 1
+        iv["merged_start"] = offset
+        iv["merged_end"] = offset + length - 1
+        offset += length
+        dna = concatenated[nt_start:nt_end + 1]
+        # print(dna)
 
     trans = _translation_check(dna, prot_seq, aa_start, aa_end, protein_id)
     return intervals, dna, trans
@@ -414,7 +427,6 @@ def _get_exact_dna(protein_id: str, aa_start: int, aa_end: int, species: str = "
             return (intervals, dna, trans), "translation_mismatch"
 
     return (intervals, dna, trans), warning_msg
-
 
 # ============================================================
 #   MULTIPROCESSING WRAPPER
