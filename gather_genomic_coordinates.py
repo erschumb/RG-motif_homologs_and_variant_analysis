@@ -262,7 +262,7 @@ def _extract_reverse(entry: dict, aa_start: int, aa_end: int, prot_seq: Optional
         iv["merged_start"] = offset
         iv["merged_end"] = offset + length - 1
         offset += length
-        dna = concatenated[nt_start:nt_end + 1]
+    dna = concatenated[nt_start:nt_end + 1]
         # print(dna)
 
     trans = _translation_check(dna, prot_seq, aa_start, aa_end, protein_id)

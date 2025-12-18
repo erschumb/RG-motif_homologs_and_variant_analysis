@@ -11,11 +11,12 @@
                 "chrom": "chr6",
                 "start": 31764487,
                 "end": 31764516,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "CAGCGGGGCTGCACCAAGGGGCCAAGAGGC",
-        "region_id": "Q5SSQ6_135_144"
+        "dna": "CAGCGGGGCTGCACCAAGGGGCCAAGAGGC"
     },
     {
         "protein": "Q9ULH4",
@@ -29,11 +30,12 @@
                 "chrom": "chr6",
                 "start": 40392243,
                 "end": 40392272,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGGAGAGGGGCTGGGACGTCGGCCCGGGGC",
-        "region_id": "Q9ULH4_681_690"
+        "dna": "GGGAGAGGGGCTGGGACGTCGGCCCGGGGC"
     },
     {
         "protein": "Q8N878",
@@ -47,11 +49,12 @@
                 "chrom": "chr6",
                 "start": 168079068,
                 "end": 168079082,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CCGAGAGGGAGGGGC",
-        "region_id": "Q8N878_5_9"
+        "dna": "CCGAGAGGGAGGGGC"
     },
     {
         "protein": "P85299",
@@ -65,11 +68,12 @@
                 "chrom": "chr22",
                 "start": 44737182,
                 "end": 44737196,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GGCCGGGGCCGGGGC",
-        "region_id": "P85299_368_372"
+        "dna": "GGCCGGGGCCGGGGC"
     },
     {
         "protein": "Q9GZU7",
@@ -83,11 +87,12 @@
                 "chrom": "chr2",
                 "start": 218400133,
                 "end": 218400153,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GCTCGGGGCCCGCTGCGGGGC",
-        "region_id": "Q9GZU7_15_21"
+        "dna": "GCTCGGGGCCCGCTGCGGGGC"
     },
     {
         "protein": "Q14674",
@@ -101,11 +106,12 @@
                 "chrom": "chr12",
                 "start": 53288044,
                 "end": 53288073,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "AGACGGGGCACTGCTTCCCGGGGCCGGGGG",
-        "region_id": "Q14674_1417_1426"
+        "dna": "AGACGGGGCACTGCTTCCCGGGGCCGGGGG"
     },
     {
         "protein": "Q5VUG0",
@@ -119,11 +125,12 @@
                 "chrom": "chr10",
                 "start": 7171961,
                 "end": 7171975,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CGAAGGGGCCGCGGG",
-        "region_id": "Q5VUG0_779_783"
+        "dna": "CGAAGGGGCCGCGGG"
     },
     {
         "protein": "Q8N539",
@@ -137,11 +144,12 @@
                 "chrom": "chr9",
                 "start": 130924247,
                 "end": 130924270,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GCCCGGGGAACCCGGCCCCGGGGC",
-        "region_id": "Q8N539_227_234"
+        "dna": "GCCCGGGGAACCCGGCCCCGGGGC"
     },
     {
         "protein": "Q9HBH9",
@@ -155,11 +163,12 @@
                 "chrom": "chr19",
                 "start": 2046401,
                 "end": 2046427,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "AAGAGGGGCAAGAAGAAGAAGCGCGGC",
-        "region_id": "Q9HBH9_61_69"
+        "dna": "AAGAGGGGCAAGAAGAAGAAGCGCGGC"
     },
     {
         "protein": "O00453",
@@ -173,11 +182,12 @@
                 "chrom": "chr6",
                 "start": 31588596,
                 "end": 31588619,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CTCAGGGGCAGAGACAAGAGAGGC",
-        "region_id": "O00453_72_79"
+        "dna": "CTCAGGGGCAGAGACAAGAGAGGC"
     },
     {
         "protein": "P86481",
@@ -191,11 +201,12 @@
                 "chrom": "chr13",
                 "start": 57149112,
                 "end": 57149183,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
             }
         ],
-        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG",
-        "region_id": "P86481_73_96"
+        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG"
     },
     {
         "protein": "Q86XE3",
@@ -209,11 +220,12 @@
                 "chrom": "chr8",
                 "start": 17027610,
                 "end": 17027624,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CCCCGCGGCCGGGGG",
-        "region_id": "Q86XE3_111_115"
+        "dna": "CCCCGCGGCCGGGGG"
     },
     {
         "protein": "A0FGR8",
@@ -227,11 +239,12 @@
                 "chrom": "chr7",
                 "start": 158829335,
                 "end": 158829367,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GGCCGCGCGGCGCCTGAGAACCCCGGGGGCGTG",
-        "region_id": "A0FGR8_66_76"
+        "dna": "GGCCGCGCGGCGCCTGAGAACCCCGGGGGCGTG"
     },
     {
         "protein": "Q9UH36",
@@ -245,11 +258,12 @@
                 "chrom": "chr22",
                 "start": 26483990,
                 "end": 26484040,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
             }
         ],
-        "dna": "CCCCGGGGGAGAGAGGCGGCGCCCCGGGGGAGAGAGGCGGCGCCCCGGGGC",
-        "region_id": "Q9UH36_34_50"
+        "dna": "CCCCGGGGGAGAGAGGCGGCGCCCCGGGGGAGAGAGGCGGCGCCCCGGGGC"
     },
     {
         "protein": "A0A590UJ96",
@@ -263,11 +277,12 @@
                 "chrom": "chr17",
                 "start": 6579422,
                 "end": 6579454,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "TCATTCCTCTGGCTCAGTTTGGTGATGAAAATG",
-        "region_id": "A0A590UJ96_6_16"
+        "dna": "TCATTCCTCTGGCTCAGTTTGGTGATGAAAATG"
     },
     {
         "protein": "A0A590UJ96",
@@ -281,11 +296,12 @@
                 "chrom": "chr17",
                 "start": 6579311,
                 "end": 6579343,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "ACAAGTGCGGCTACTAGCTGGTCCCATCACGGG",
-        "region_id": "A0A590UJ96_43_53"
+        "dna": "ACAAGTGCGGCTACTAGCTGGTCCCATCACGGG"
     },
     {
         "protein": "P20339",
@@ -299,11 +315,12 @@
                 "chrom": "chr3",
                 "start": 19983755,
                 "end": 19983769,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCCAGAGGAAGAGGA",
-        "region_id": "P20339_194_198"
+        "dna": "GCCAGAGGAAGAGGA"
     },
     {
         "protein": "Q96SZ5",
@@ -317,11 +334,12 @@
                 "chrom": "chr10",
                 "start": 62805120,
                 "end": 62805146,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "TTCCGGGGCAGCGGGGGCGGCCGCGGC",
-        "region_id": "Q96SZ5_21_29"
+        "dna": "TTCCGGGGCAGCGGGGGCGGCCGCGGC"
     },
     {
         "protein": "P36021",
@@ -335,11 +353,12 @@
                 "chrom": "chrX",
                 "start": 74421890,
                 "end": 74421910,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "ACCCGCGGCACCGCGCGCGGC",
-        "region_id": "P36021_85_91"
+        "dna": "ACCCGCGGCACCGCGCGCGGC"
     },
     {
         "protein": "Q9HCU4",
@@ -353,11 +372,12 @@
                 "chrom": "chr1",
                 "start": 109273519,
                 "end": 109273557,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 38
             }
         ],
-        "dna": "TCCCGGGGCTCCTCCGCTAGTGAGGGCAGCCGGGGAGGC",
-        "region_id": "Q9HCU4_2865_2877"
+        "dna": "TCCCGGGGCTCCTCCGCTAGTGAGGGCAGCCGGGGAGGC"
     },
     {
         "protein": "Q9Y210",
@@ -371,11 +391,12 @@
                 "chrom": "chr11",
                 "start": 101583453,
                 "end": 101583476,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CGGAGGGGCAGTTCTCCCCGGGGC",
-        "region_id": "Q9Y210_10_17"
+        "dna": "CGGAGGGGCAGTTCTCCCCGGGGC"
     },
     {
         "protein": "Q8N205",
@@ -389,11 +410,12 @@
                 "chrom": "chr19",
                 "start": 36006435,
                 "end": 36006461,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGCCAGAGGGGGCCCCAGGGCAGGGGA",
-        "region_id": "Q8N205_277_285"
+        "dna": "GGCCAGAGGGGGCCCCAGGGCAGGGGA"
     },
     {
         "protein": "Q9UJJ9",
@@ -407,11 +429,12 @@
                 "chrom": "chr16",
                 "start": 1363056,
                 "end": 1363082,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CTGCGGGGTGACCCAGGACTGCGTGGG",
-        "region_id": "Q9UJJ9_295_303"
+        "dna": "CTGCGGGGTGACCCAGGACTGCGTGGG"
     },
     {
         "protein": "Q92504",
@@ -425,11 +448,12 @@
                 "chrom": "chr6",
                 "start": 33202607,
                 "end": 33202636,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "ACAAGAGGGGTTCAGAAGAGGCGAGGAGGG",
-        "region_id": "Q92504_283_292"
+        "dna": "ACAAGAGGGGTTCAGAAGAGGCGAGGAGGG"
     },
     {
         "protein": "P10301",
@@ -443,11 +467,12 @@
                 "chrom": "chr19",
                 "start": 49640048,
                 "end": 49640071,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGGCGGGGGCGGCCCCGGGGCGGG",
-        "region_id": "P10301_10_17"
+        "dna": "GGGCGGGGGCGGCCCCGGGGCGGG"
     },
     {
         "protein": "Q9UKV0",
@@ -461,11 +486,12 @@
                 "chrom": "chr7",
                 "start": 18590459,
                 "end": 18590479,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CTCAGAGGCAAAGATAGAGGA",
-        "region_id": "Q9UKV0_127_133"
+        "dna": "CTCAGAGGCAAAGATAGAGGA"
     },
     {
         "protein": "Q99683",
@@ -479,11 +505,12 @@
                 "chrom": "chr6",
                 "start": 136791915,
                 "end": 136791929,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "ACCCGAGGCCGGGGC",
-        "region_id": "Q99683_77_81"
+        "dna": "ACCCGAGGCCGGGGC"
     },
     {
         "protein": "O94826",
@@ -497,11 +524,12 @@
                 "chrom": "chr3",
                 "start": 100400734,
                 "end": 100400748,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCCAGAGGCCGGGGC",
-        "region_id": "O94826_68_72"
+        "dna": "GCCAGAGGCCGGGGC"
     },
     {
         "protein": "Q96KE9",
@@ -515,11 +543,12 @@
                 "chrom": "chr14",
                 "start": 105248799,
                 "end": 105248822,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CGGCGCGGCGCGAGGGCGCGGGGC",
-        "region_id": "Q96KE9_30_37"
+        "dna": "CGGCGCGGCGCGAGGGCGCGGGGC"
     },
     {
         "protein": "Q96L08",
@@ -533,11 +562,12 @@
                 "chrom": "chr9",
                 "start": 93058764,
                 "end": 93058790,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CTCCGTGGCAAGGCGAGGCCCCGGGGG",
-        "region_id": "Q96L08_8_16"
+        "dna": "CTCCGTGGCAAGGCGAGGCCCCGGGGG"
     },
     {
         "protein": "Q6PH81",
@@ -551,11 +581,12 @@
                 "chrom": "chr16",
                 "start": 46809646,
                 "end": 46809660,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "AGACGAGGAAGAGGA",
-        "region_id": "Q6PH81_97_101"
+        "dna": "AGACGAGGAAGAGGA"
     },
     {
         "protein": "Q12792",
@@ -569,11 +600,12 @@
                 "chrom": "chr12",
                 "start": 43795615,
                 "end": 43795647,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GGAAAAAGAGGAATTCGAAGACTAATTAGGGGC",
-        "region_id": "Q12792_331_341"
+        "dna": "GGAAAAAGAGGAATTCGAAGACTAATTAGGGGC"
     },
     {
         "protein": "Q49A92",
@@ -587,11 +619,12 @@
                 "chrom": "chr8",
                 "start": 68331118,
                 "end": 68331132,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCCCGCGGCCGGGGC",
-        "region_id": "Q49A92_36_40"
+        "dna": "GCCCGCGGCCGGGGC"
     },
     {
         "protein": "P49842",
@@ -605,11 +638,12 @@
                 "chrom": "chr6",
                 "start": 31972698,
                 "end": 31972715,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GTGCTGAGGAGCCAGGTG",
-        "region_id": "P49842_60_65"
+        "dna": "GTGCTGAGGAGCCAGGTG"
     },
     {
         "protein": "A0A1B0GVG6",
@@ -623,11 +657,12 @@
                 "chrom": "chr11",
                 "start": 62832595,
                 "end": 62832654,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
             }
         ],
-        "dna": "CAAAGAGGGCCCAGGGAGTGTGAGAGGGGGCTTCCCGAGGGTAGGGGTGAGCTCAGAGGC",
-        "region_id": "A0A1B0GVG6_33_52"
+        "dna": "CAAAGAGGGCCCAGGGAGTGTGAGAGGGGGCTTCCCGAGGGTAGGGGTGAGCTCAGAGGC"
     },
     {
         "protein": "Q6UX72",
@@ -641,11 +676,12 @@
                 "chrom": "chr16",
                 "start": 67150357,
                 "end": 67150371,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CCGCGAGGGCGAGGG",
-        "region_id": "Q6UX72_39_43"
+        "dna": "CCGCGAGGGCGAGGG"
     },
     {
         "protein": "Q12774",
@@ -659,11 +695,12 @@
                 "chrom": "chr7",
                 "start": 144365241,
                 "end": 144365273,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "TCCAGGGGGAGGAGCAGGAGCACTCGGGGAGGA",
-        "region_id": "Q12774_858_868"
+        "dna": "TCCAGGGGGAGGAGCAGGAGCACTCGGGGAGGA"
     },
     {
         "protein": "Q9P107",
@@ -677,11 +714,12 @@
                 "chrom": "chr19",
                 "start": 19630140,
                 "end": 19630166,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CCCAGAGGGAGTTTGCGGGGGCGGGGG",
-        "region_id": "Q9P107_904_912"
+        "dna": "CCCAGAGGGAGTTTGCGGGGGCGGGGG"
     },
     {
         "protein": "Q9ULI3",
@@ -695,11 +733,12 @@
                 "chrom": "chr3",
                 "start": 125055582,
                 "end": 125055617,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "CAGCGGGGACCCTCCGGCCGGGCCCCCAGAGGCGGG",
-        "region_id": "Q9ULI3_92_103"
+        "dna": "CAGCGGGGACCCTCCGGCCGGGCCCCCAGAGGCGGG"
     },
     {
         "protein": "Q5J8M3",
@@ -713,17 +752,20 @@
                 "chrom": "chr15",
                 "start": 34225187,
                 "end": 34225200,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 13
             },
             {
                 "chrom": "chr15",
                 "start": 34225536,
                 "end": 34225554,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 14,
+                "merged_end": 32
             }
         ],
-        "dna": "GGAGGAGGCAGCAGGGGTCGAAGTGACCGGGGC",
-        "region_id": "Q5J8M3_25_35"
+        "dna": "GGAGGAGGCAGCAGGGGTCGAAGTGACCGGGGC"
     },
     {
         "protein": "Q6B0I6",
@@ -737,11 +779,12 @@
                 "chrom": "chr11",
                 "start": 94998717,
                 "end": 94998734,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGCAGACGTGGTCGTGGT",
-        "region_id": "Q6B0I6_449_454"
+        "dna": "GGCAGACGTGGTCGTGGT"
     },
     {
         "protein": "Q8N9V6",
@@ -755,11 +798,12 @@
                 "chrom": "chr2",
                 "start": 70978700,
                 "end": 70978720,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GAAAGGGGAGAAGGGAGAGGT",
-        "region_id": "Q8N9V6_19_25"
+        "dna": "GAAAGGGGAGAAGGGAGAGGT"
     },
     {
         "protein": "A0A1B0GVM6",
@@ -773,11 +817,12 @@
                 "chrom": "chr11",
                 "start": 94512625,
                 "end": 94512651,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGGGCGCGCGGGGAACCCGGCCGCGGC",
-        "region_id": "A0A1B0GVM6_33_41"
+        "dna": "GGGGCGCGCGGGGAACCCGGCCGCGGC"
     },
     {
         "protein": "Q96JK4",
@@ -791,11 +836,12 @@
                 "chrom": "chr14",
                 "start": 99675228,
                 "end": 99675254,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CGGAGGGGCGGCGGGCGGCGGCGGGGG",
-        "region_id": "Q96JK4_651_659"
+        "dna": "CGGAGGGGCGGCGGGCGGCGGCGGGGG"
     },
     {
         "protein": "Q6ZMN7",
@@ -809,11 +855,12 @@
                 "chrom": "chr12",
                 "start": 41188873,
                 "end": 41188899,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGCCGGGGCGGGGGCGCGCGCGGGGGG",
-        "region_id": "Q6ZMN7_140_148"
+        "dna": "GGCCGGGGCGGGGGCGCGCGCGGGGGG"
     },
     {
         "protein": "Q6ZMN7",
@@ -827,11 +874,12 @@
                 "chrom": "chr12",
                 "start": 41188918,
                 "end": 41188932,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GGCCGCGGGCGGGGA",
-        "region_id": "Q6ZMN7_155_159"
+        "dna": "GGCCGCGGGCGGGGA"
     },
     {
         "protein": "P58004",
@@ -845,11 +893,12 @@
                 "chrom": "chr1",
                 "start": 28269204,
                 "end": 28269221,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGGCGAGGCCCTCGAGGG",
-        "region_id": "P58004_38_43"
+        "dna": "CGGCGAGGCCCTCGAGGG"
     },
     {
         "protein": "Q8IZS6",
@@ -863,11 +912,12 @@
                 "chrom": "chr6",
                 "start": 169751438,
                 "end": 169751452,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "AAGCGAGGCCGAGGC",
-        "region_id": "Q8IZS6_3_7"
+        "dna": "AAGCGAGGCCGAGGC"
     },
     {
         "protein": "Q969E3",
@@ -881,11 +931,12 @@
                 "chrom": "chr10",
                 "start": 5373973,
                 "end": 5373996,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGGGCCAGGGGTGGAGCCAGAGGC",
-        "region_id": "Q969E3_85_92"
+        "dna": "GGGGCCAGGGGTGGAGCCAGAGGC"
     },
     {
         "protein": "Q8TER5",
@@ -899,11 +950,12 @@
                 "chrom": "chr14",
                 "start": 21074889,
                 "end": 21074915,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGTCGAGGGGCTCTTAGCCGAGGAGGG",
-        "region_id": "Q8TER5_387_395"
+        "dna": "GGTCGAGGGGCTCTTAGCCGAGGAGGG"
     },
     {
         "protein": "Q86UF2",
@@ -917,11 +969,12 @@
                 "chrom": "chr7",
                 "start": 143755970,
                 "end": 143755993,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGAGGAGGAAGAGGCCCAAGAGGC",
-        "region_id": "Q86UF2_556_563"
+        "dna": "GGAGGAGGAAGAGGCCCAAGAGGC"
     },
     {
         "protein": "Q96LR7",
@@ -935,11 +988,12 @@
                 "chrom": "chr2",
                 "start": 11133428,
                 "end": 11133457,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GCCCGGGGTGGCCCTATGGCCAGCAGGGGT",
-        "region_id": "Q96LR7_32_41"
+        "dna": "GCCCGGGGTGGCCCTATGGCCAGCAGGGGT"
     },
     {
         "protein": "P86478",
@@ -953,11 +1007,12 @@
                 "chrom": "chr13",
                 "start": 57168821,
                 "end": 57168892,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
             }
         ],
-        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG",
-        "region_id": "P86478_73_96"
+        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG"
     },
     {
         "protein": "P53814",
@@ -971,11 +1026,12 @@
                 "chrom": "chr22",
                 "start": 31091266,
                 "end": 31091283,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGCCCCAGGGGGCGGGGC",
-        "region_id": "P53814_415_420"
+        "dna": "GGCCCCAGGGGGCGGGGC"
     },
     {
         "protein": "P53814",
@@ -989,11 +1045,12 @@
                 "chrom": "chr22",
                 "start": 31096771,
                 "end": 31096800,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GCACGGGGCCGGCCAGGGGAGGGGCGCGGC",
-        "region_id": "P53814_634_643"
+        "dna": "GCACGGGGCCGGCCAGGGGAGGGGCGCGGC"
     },
     {
         "protein": "Q9BRK4",
@@ -1007,11 +1064,12 @@
                 "chrom": "chr10",
                 "start": 101003855,
                 "end": 101003887,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GGGCGAGGGGCACTGCCTGGGCCAGCCCGAGGG",
-        "region_id": "Q9BRK4_253_263"
+        "dna": "GGGCGAGGGGCACTGCCTGGGCCAGCCCGAGGG"
     },
     {
         "protein": "Q86YJ5",
@@ -1025,11 +1083,12 @@
                 "chrom": "chr12",
                 "start": 57755616,
                 "end": 57755636,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CCCCGGGGGGGCCGGGGAGGC",
-        "region_id": "Q86YJ5_30_36"
+        "dna": "CCCCGGGGGGGCCGGGGAGGC"
     },
     {
         "protein": "Q8IV32",
@@ -1043,11 +1102,12 @@
                 "chrom": "chr3",
                 "start": 49163117,
                 "end": 49163131,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CCCAGGGGCAGAGGC",
-        "region_id": "Q8IV32_360_364"
+        "dna": "CCCAGGGGCAGAGGC"
     },
     {
         "protein": "Q8WYH8",
@@ -1061,17 +1121,20 @@
                 "chrom": "chr2",
                 "start": 241711470,
                 "end": 241711488,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 18
             },
             {
                 "chrom": "chr2",
                 "start": 241711978,
                 "end": 241712021,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 19,
+                "merged_end": 62
             }
         ],
-        "dna": "GGAGGGCGAGGGTTAAAAAAAGGCCGGGGTCAGAAAGAAAAAAGAGGGTCCCGGGGCCGAGGC",
-        "region_id": "Q8WYH8_124_144"
+        "dna": "GGAGGGCGAGGGTTAAAAAAAGGCCGGGGTCAGAAAGAAAAAAGAGGGTCCCGGGGCCGAGGC"
     },
     {
         "protein": "Q9NRR6",
@@ -1085,11 +1148,12 @@
                 "chrom": "chr9",
                 "start": 136438964,
                 "end": 136438993,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "TCCCGCGGGGTCCTGAGCAGTGAGAGAGGG",
-        "region_id": "Q9NRR6_143_152"
+        "dna": "TCCCGCGGGGTCCTGAGCAGTGAGAGAGGG"
     },
     {
         "protein": "Q9NYL2",
@@ -1103,11 +1167,12 @@
                 "chrom": "chr2",
                 "start": 173266715,
                 "end": 173266735,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GCCAGAGGGGACCACCGTGGA",
-        "region_id": "Q9NYL2_790_796"
+        "dna": "GCCAGAGGGGACCACCGTGGA"
     },
     {
         "protein": "Q5T7B8",
@@ -1121,11 +1186,12 @@
                 "chrom": "chr9",
                 "start": 34257702,
                 "end": 34257725,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGTAAAAGGGGTGGCTCCAGAGGG",
-        "region_id": "Q5T7B8_628_635"
+        "dna": "GGTAAAAGGGGTGGCTCCAGAGGG"
     },
     {
         "protein": "Q9NV92",
@@ -1139,11 +1205,12 @@
                 "chrom": "chr13",
                 "start": 79481357,
                 "end": 79481392,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "GGAGACCGCGGCTGCAGGAACGGAGGCGGAAGGGGC",
-        "region_id": "Q9NV92_52_63"
+        "dna": "GGAGACCGCGGCTGCAGGAACGGAGGCGGAAGGGGC"
     },
     {
         "protein": "O15399",
@@ -1157,11 +1224,12 @@
                 "chrom": "chr19",
                 "start": 48443869,
                 "end": 48443901,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "CACCGGGGCGGGGACCTGGGCACCCGCAGGGGC",
-        "region_id": "O15399_1315_1325"
+        "dna": "CACCGGGGCGGGGACCTGGGCACCCGCAGGGGC"
     },
     {
         "protein": "Q99832",
@@ -1175,11 +1243,12 @@
                 "chrom": "chr2",
                 "start": 73252829,
                 "end": 73252849,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GGCCGGGGCCGTGGTCGTGGC",
-        "region_id": "Q99832_534_540"
+        "dna": "GGCCGGGGCCGTGGTCGTGGC"
     },
     {
         "protein": "Q14657",
@@ -1193,11 +1262,12 @@
                 "chrom": "chrX",
                 "start": 154478838,
                 "end": 154478867,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGCCGGGGTGGCCACAGCTGCCGCGGGGGC",
-        "region_id": "Q14657_17_26"
+        "dna": "GGCCGGGGTGGCCACAGCTGCCGCGGGGGC"
     },
     {
         "protein": "Q9ULE0",
@@ -1211,17 +1281,20 @@
                 "chrom": "chrX",
                 "start": 10098578,
                 "end": 10098579,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 1
             },
             {
                 "chrom": "chrX",
                 "start": 10109778,
                 "end": 10109826,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 2,
+                "merged_end": 50
             }
         ],
-        "dna": "AGAGTCGCCAACATCCAGCAGCAGCTGGCCCGGCTTGACAATGAGTCCTGG",
-        "region_id": "Q9ULE0_368_384"
+        "dna": "AGAGTCGCCAACATCCAGCAGCAGCTGGCCCGGCTTGACAATGAGTCCTGG"
     },
     {
         "protein": "H3BV60",
@@ -1235,11 +1308,12 @@
                 "chrom": "chr19",
                 "start": 7914902,
                 "end": 7914919,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "ACCTTACCCAGCGGGCCA",
-        "region_id": "H3BV60_16_21"
+        "dna": "ACCTTACCCAGCGGGCCA"
     },
     {
         "protein": "Q4AC94",
@@ -1253,17 +1327,20 @@
                 "chrom": "chr11",
                 "start": 74170738,
                 "end": 74170765,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 27
             },
             {
                 "chrom": "chr11",
                 "start": 74168612,
                 "end": 74168613,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 28,
+                "merged_end": 29
             }
         ],
-        "dna": "GGGGGCAGCCGTGGGCGCAAAAAAAGAGGT",
-        "region_id": "Q4AC94_10_19"
+        "dna": "GGGGGCAGCCGTGGGCGCAAAAAAAGAGGT"
     },
     {
         "protein": "Q96DF8",
@@ -1277,11 +1354,12 @@
                 "chrom": "chr22",
                 "start": 19142548,
                 "end": 19142562,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CCCCGCGGCCGAGGC",
-        "region_id": "Q96DF8_126_130"
+        "dna": "CCCCGCGGCCGAGGC"
     },
     {
         "protein": "Q14159",
@@ -1295,11 +1373,12 @@
                 "chrom": "chr8",
                 "start": 47260962,
                 "end": 47260985,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CCCCGCGGCAGCCGCGCTCGGGGC",
-        "region_id": "Q14159_2_9"
+        "dna": "CCCCGCGGCAGCCGCGCTCGGGGC"
     },
     {
         "protein": "Q9H6Y5",
@@ -1313,17 +1392,20 @@
                 "chrom": "chrX",
                 "start": 49162920,
                 "end": 49162938,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 18
             },
             {
                 "chrom": "chrX",
                 "start": 49163783,
                 "end": 49163790,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 19,
+                "merged_end": 26
             }
         ],
-        "dna": "CCTAGGGGGAGCAGAGGAGGCCGCGGC",
-        "region_id": "Q9H6Y5_11_19"
+        "dna": "CCTAGGGGGAGCAGAGGAGGCCGCGGC"
     },
     {
         "protein": "Q8N2S1",
@@ -1337,11 +1419,12 @@
                 "chrom": "chr19",
                 "start": 40600105,
                 "end": 40600128,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CCCCGGGGGCCAGGGGGCCGGGGA",
-        "region_id": "Q8N2S1_127_134"
+        "dna": "CCCCGGGGGCCAGGGGGCCGGGGA"
     },
     {
         "protein": "A4D2H0",
@@ -1355,11 +1438,12 @@
                 "chrom": "chr7",
                 "start": 143573483,
                 "end": 143573506,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGAGGAGGAAGAGGCCCAAGAGGC",
-        "region_id": "A4D2H0_556_563"
+        "dna": "GGAGGAGGAAGAGGCCCAAGAGGC"
     },
     {
         "protein": "A0A1W2PPE3",
@@ -1373,11 +1457,12 @@
                 "chrom": "chr1",
                 "start": 244730825,
                 "end": 244730848,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GAGCGGGGCCCCCCTCCGCGCGGG",
-        "region_id": "A0A1W2PPE3_26_33"
+        "dna": "GAGCGGGGCCCCCCTCCGCGCGGG"
     },
     {
         "protein": "Q8IVW8",
@@ -1391,11 +1476,12 @@
                 "chrom": "chr17",
                 "start": 4499126,
                 "end": 4499146,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CGCCGGGGGGCGCAGCGAGGG",
-        "region_id": "Q8IVW8_27_33"
+        "dna": "CGCCGGGGGGCGCAGCGAGGG"
     },
     {
         "protein": "Q9UPR0",
@@ -1409,11 +1495,12 @@
                 "chrom": "chr3",
                 "start": 16885256,
                 "end": 16885273,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "ACCAGGGGACCCCGCGGC",
-        "region_id": "Q9UPR0_73_78"
+        "dna": "ACCAGGGGACCCCGCGGC"
     },
     {
         "protein": "Q8N119",
@@ -1427,11 +1514,12 @@
                 "chrom": "chr10",
                 "start": 125774045,
                 "end": 125774068,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CGGCGGGGTTGGCAGCCCCGGGGC",
-        "region_id": "Q8N119_154_161"
+        "dna": "CGGCGGGGTTGGCAGCCCCGGGGC"
     },
     {
         "protein": "P10398",
@@ -1445,11 +1533,12 @@
                 "chrom": "chrX",
                 "start": 47566991,
                 "end": 47567026,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "GGTAGTAGAGGAGGTAGTGATGGAACCCCCCGGGGG",
-        "region_id": "P10398_245_256"
+        "dna": "GGTAGTAGAGGAGGTAGTGATGGAACCCCCCGGGGG"
     },
     {
         "protein": "Q5TGI4",
@@ -1463,11 +1552,12 @@
                 "chrom": "chr6",
                 "start": 147509241,
                 "end": 147509264,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGCACCCGCGGGGACTCTCGCGGC",
-        "region_id": "Q5TGI4_105_112"
+        "dna": "GGCACCCGCGGGGACTCTCGCGGC"
     },
     {
         "protein": "Q15027",
@@ -1481,11 +1571,12 @@
                 "chrom": "chr17",
                 "start": 7348373,
                 "end": 7348411,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 38
             }
         ],
-        "dna": "ATTCGAGGGCGAAGAGGTGGCCGGGGGCGCCCAAGGGGG",
-        "region_id": "Q15027_526_538"
+        "dna": "ATTCGAGGGCGAAGAGGTGGCCGGGGGCGCCCAAGGGGG"
     },
     {
         "protein": "A0A1B0GWI6",
@@ -1499,11 +1590,12 @@
                 "chrom": "chrX",
                 "start": 71668728,
                 "end": 71668751,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GTTAGAGGGCCCCTACCCCGGGGC",
-        "region_id": "A0A1B0GWI6_309_316"
+        "dna": "GTTAGAGGGCCCCTACCCCGGGGC"
     },
     {
         "protein": "Q9HAS0",
@@ -1517,17 +1609,20 @@
                 "chrom": "chr17",
                 "start": 32342000,
                 "end": 32342013,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 13
             },
             {
                 "chrom": "chr17",
                 "start": 32341266,
                 "end": 32341284,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 14,
+                "merged_end": 32
             }
         ],
-        "dna": "TATCGCGGAAGCAGATTGGCACAGCAACGAGGG",
-        "region_id": "Q9HAS0_43_53"
+        "dna": "TATCGCGGAAGCAGATTGGCACAGCAACGAGGG"
     },
     {
         "protein": "Q96PV4",
@@ -1541,11 +1636,12 @@
                 "chrom": "chrX",
                 "start": 152990549,
                 "end": 152990563,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GGGAGAGGCCGGGGG",
-        "region_id": "Q96PV4_346_350"
+        "dna": "GGGAGAGGCCGGGGG"
     },
     {
         "protein": "A0A494C030",
@@ -1556,8 +1652,7 @@
         "prot_seq": "",
         "intervals": [],
         "dna": "",
-        "warning": "translation_mismatch",
-        "region_id": "A0A494C030_134_142"
+        "warning": "translation_mismatch"
     },
     {
         "protein": "F5H4A9",
@@ -1571,11 +1666,12 @@
                 "chrom": "chr3",
                 "start": 160226116,
                 "end": 160226142,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGCGGCGGCGGCCGGGGCCGGGGAGGC",
-        "region_id": "F5H4A9_161_169"
+        "dna": "GGCGGCGGCGGCCGGGGCCGGGGAGGC"
     },
     {
         "protein": "O94876",
@@ -1589,11 +1685,12 @@
                 "chrom": "chr3",
                 "start": 129828001,
                 "end": 129828033,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "AAGAGAGGGACAAGCTTGCATAGTAGGCGGGGC",
-        "region_id": "O94876_116_126"
+        "dna": "AAGAGAGGGACAAGCTTGCATAGTAGGCGGGGC"
     },
     {
         "protein": "Q8NFW8",
@@ -1607,11 +1704,12 @@
                 "chrom": "chr12",
                 "start": 22046346,
                 "end": 22046369,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CCGCGGGGGCGACCGTCCCGGGGC",
-        "region_id": "Q8NFW8_15_22"
+        "dna": "CCGCGGGGGCGACCGTCCCGGGGC"
     },
     {
         "protein": "Q8NFW8",
@@ -1625,11 +1723,12 @@
                 "chrom": "chr12",
                 "start": 22046394,
                 "end": 22046417,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "TCTCGCGGCGGCCAGGGCCGAGGT",
-        "region_id": "Q8NFW8_31_38"
+        "dna": "TCTCGCGGCGGCCAGGGCCGAGGT"
     },
     {
         "protein": "Q96NA8",
@@ -1643,11 +1742,12 @@
                 "chrom": "chr8",
                 "start": 142354677,
                 "end": 142354706,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GCCCGTGGAGGTGGCCTGGGGAGCCGTGGC",
-        "region_id": "Q96NA8_7_16"
+        "dna": "GCCCGTGGAGGTGGCCTGGGGAGCCGTGGC"
     },
     {
         "protein": "Q00975",
@@ -1661,11 +1761,12 @@
                 "chrom": "chr9",
                 "start": 138023456,
                 "end": 138023470,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GAGCGCGGCCGAGGC",
-        "region_id": "Q00975_905_909"
+        "dna": "GAGCGCGGCCGAGGC"
     },
     {
         "protein": "O00221",
@@ -1679,11 +1780,12 @@
                 "chrom": "chr6",
                 "start": 44265638,
                 "end": 44265655,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGCCGGGGGCGGGGAGGG",
-        "region_id": "O00221_37_42"
+        "dna": "CGCCGGGGGCGGGGAGGG"
     },
     {
         "protein": "Q9C0B5",
@@ -1697,11 +1799,12 @@
                 "chrom": "chr11",
                 "start": 57699273,
                 "end": 57699290,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGGCTAAGGGGCCGGGGA",
-        "region_id": "Q9C0B5_613_618"
+        "dna": "GGGCTAAGGGGCCGGGGA"
     },
     {
         "protein": "P42684",
@@ -1715,11 +1818,12 @@
                 "chrom": "chr1",
                 "start": 179229326,
                 "end": 179229343,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCCCGCGGGATCCGGGGC",
-        "region_id": "P42684_19_24"
+        "dna": "CCCCGCGGGATCCGGGGC"
     },
     {
         "protein": "Q86X52",
@@ -1733,11 +1837,12 @@
                 "chrom": "chr15",
                 "start": 101251256,
                 "end": 101251282,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGCGGGGCGCGCGGCGATGCGCGCGGG",
-        "region_id": "Q86X52_59_67"
+        "dna": "GGCGGGGCGCGCGGCGATGCGCGCGGG"
     },
     {
         "protein": "Q969R2",
@@ -1751,11 +1856,12 @@
                 "chrom": "chr22",
                 "start": 30694931,
                 "end": 30694966,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "AGCCGAGGCGGCGGCTGTGGCGGCCGCTCCCGCGGG",
-        "region_id": "Q969R2_8_19"
+        "dna": "AGCCGAGGCGGCGGCTGTGGCGGCCGCTCCCGCGGG"
     },
     {
         "protein": "O15240",
@@ -1769,11 +1875,12 @@
                 "chrom": "chr7",
                 "start": 101163794,
                 "end": 101163817,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CAGCGCGGCCTCGGGGGTCGGGGG",
-        "region_id": "O15240_343_350"
+        "dna": "CAGCGCGGCCTCGGGGGTCGGGGG"
     },
     {
         "protein": "Q9NWM0",
@@ -1787,11 +1894,12 @@
                 "chrom": "chr20",
                 "start": 4182296,
                 "end": 4182325,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "CCCAGAGGCCCTGAGATTGAGCCCCGGGGT",
-        "region_id": "Q9NWM0_273_282"
+        "dna": "CCCAGAGGCCCTGAGATTGAGCCCCGGGGT"
     },
     {
         "protein": "O60307",
@@ -1805,17 +1913,20 @@
                 "chrom": "chr19",
                 "start": 18107605,
                 "end": 18107618,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 13
             },
             {
                 "chrom": "chr19",
                 "start": 18121685,
                 "end": 18121685,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 14,
+                "merged_end": 14
             }
         ],
-        "dna": "CGCCGAGGACGTGGC",
-        "region_id": "O60307_20_24"
+        "dna": "CGCCGAGGACGTGGC"
     },
     {
         "protein": "Q14596",
@@ -1829,17 +1940,20 @@
                 "chrom": "chr17",
                 "start": 43201771,
                 "end": 43201780,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 9
             },
             {
                 "chrom": "chr17",
                 "start": 43202655,
                 "end": 43202665,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 10,
+                "merged_end": 20
             }
         ],
-        "dna": "ATCAGAGGAGAGCCCAGAGGC",
-        "region_id": "Q14596_852_858"
+        "dna": "ATCAGAGGAGAGCCCAGAGGC"
     },
     {
         "protein": "O00220",
@@ -1853,11 +1967,12 @@
                 "chrom": "chr8",
                 "start": 23224903,
                 "end": 23224923,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CCACGAGGCGGGGGCCGAGGA",
-        "region_id": "O00220_47_53"
+        "dna": "CCACGAGGCGGGGGCCGAGGA"
     },
     {
         "protein": "Q9UQC2",
@@ -1871,11 +1986,12 @@
                 "chrom": "chr11",
                 "start": 78223464,
                 "end": 78223484,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CACCGAGGCCCCAGCAGAGGA",
-        "region_id": "Q9UQC2_499_505"
+        "dna": "CACCGAGGCCCCAGCAGAGGA"
     },
     {
         "protein": "P86480",
@@ -1889,11 +2005,12 @@
                 "chrom": "chr13",
                 "start": 57162256,
                 "end": 57162327,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
             }
         ],
-        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG",
-        "region_id": "P86480_73_96"
+        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG"
     },
     {
         "protein": "Q9GZZ7",
@@ -1907,17 +2024,20 @@
                 "chrom": "chr20",
                 "start": 3660755,
                 "end": 3660771,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 16
             },
             {
                 "chrom": "chr20",
                 "start": 3660671,
                 "end": 3660671,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 17,
+                "merged_end": 17
             }
         ],
-        "dna": "CTACGCGGGCCTCGTGGG",
-        "region_id": "Q9GZZ7_189_194"
+        "dna": "CTACGCGGGCCTCGTGGG"
     },
     {
         "protein": "Q86SG6",
@@ -1931,17 +2051,20 @@
                 "chrom": "chr17",
                 "start": 28737730,
                 "end": 28737736,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 6
             },
             {
                 "chrom": "chr17",
                 "start": 28737819,
                 "end": 28737832,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 7,
+                "merged_end": 20
             }
         ],
-        "dna": "TGCAGAGGTATCCCCCGGGGA",
-        "region_id": "Q86SG6_295_301"
+        "dna": "TGCAGAGGTATCCCCCGGGGA"
     },
     {
         "protein": "Q8TBP5",
@@ -1955,11 +2078,12 @@
                 "chrom": "chr5",
                 "start": 100535729,
                 "end": 100535764,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "GGCCGTGGTCTGGCTGAAGCTGCGGGGCCGCGGGGC",
-        "region_id": "Q8TBP5_67_78"
+        "dna": "GGCCGTGGTCTGGCTGAAGCTGCGGGGCCGCGGGGC"
     },
     {
         "protein": "Q92574",
@@ -1973,11 +2097,12 @@
                 "chrom": "chr9",
                 "start": 132896625,
                 "end": 132896654,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GCCCGGGGCAGTAGTGGAAGCAGAGGTGGT",
-        "region_id": "Q92574_1026_1035"
+        "dna": "GCCCGGGGCAGTAGTGGAAGCAGAGGTGGT"
     },
     {
         "protein": "Q13724",
@@ -1991,11 +2116,12 @@
                 "chrom": "chr2",
                 "start": 74465143,
                 "end": 74465181,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 38
             }
         ],
-        "dna": "GCTCGGGGAGGCCCCGGGCGACGGGACGGCCGGGGCGGC",
-        "region_id": "Q13724_23_35"
+        "dna": "GCTCGGGGAGGCCCCGGGCGACGGGACGGCCGGGGCGGC"
     },
     {
         "protein": "Q9BXQ6",
@@ -2009,11 +2135,12 @@
                 "chrom": "chr22",
                 "start": 17121002,
                 "end": 17121034,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "CTCCGCGGGGGCTCCTTCCGCGGCCGGAGAGGC",
-        "region_id": "Q9BXQ6_32_42"
+        "dna": "CTCCGCGGGGGCTCCTTCCGCGGCCGGAGAGGC"
     },
     {
         "protein": "Q9BXQ6",
@@ -2027,11 +2154,12 @@
                 "chrom": "chr22",
                 "start": 17120939,
                 "end": 17120971,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "AGCCGCGGGGGAGGCGGCGGCAGACGCGGCGGG",
-        "region_id": "Q9BXQ6_53_63"
+        "dna": "AGCCGCGGGGGAGGCGGCGGCAGACGCGGCGGG"
     },
     {
         "protein": "Q9NTU4",
@@ -2045,11 +2173,12 @@
                 "chrom": "chr11",
                 "start": 64300819,
                 "end": 64300848,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "ACCCGCGGGTGGCACAGCCCGGGGCGGGGC",
-        "region_id": "Q9NTU4_62_71"
+        "dna": "ACCCGCGGGTGGCACAGCCCGGGGCGGGGC"
     },
     {
         "protein": "O76050",
@@ -2063,11 +2192,12 @@
                 "chrom": "chr10",
                 "start": 103494421,
                 "end": 103494453,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "CCCCGAGGAAACCCGAGCCGCGCGCCGCGGGGC",
-        "region_id": "O76050_12_22"
+        "dna": "CCCCGAGGAAACCCGAGCCGCGCGCCGCGGGGC"
     },
     {
         "protein": "P22735",
@@ -2081,11 +2211,12 @@
                 "chrom": "chr14",
                 "start": 24262137,
                 "end": 24262151,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "TCCAGGGGTCGAGGG",
-        "region_id": "P22735_68_72"
+        "dna": "TCCAGGGGTCGAGGG"
     },
     {
         "protein": "P86479",
@@ -2099,11 +2230,12 @@
                 "chrom": "chr13",
                 "start": 57155685,
                 "end": 57155756,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
             }
         ],
-        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG",
-        "region_id": "P86479_73_96"
+        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG"
     },
     {
         "protein": "A0A6Q8PHR7",
@@ -2117,11 +2249,12 @@
                 "chrom": "chr15",
                 "start": 81002148,
                 "end": 81002168,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GTGCGGGGAAGGCACCGCGGC",
-        "region_id": "A0A6Q8PHR7_3_9"
+        "dna": "GTGCGGGGAAGGCACCGCGGC"
     },
     {
         "protein": "A0A6Q8PHR7",
@@ -2135,11 +2268,12 @@
                 "chrom": "chr15",
                 "start": 81002190,
                 "end": 81002219,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGCCGCCGGGGCGGCGGCAGTGGCCGCGGC",
-        "region_id": "A0A6Q8PHR7_17_26"
+        "dna": "GGCCGCCGGGGCGGCGGCAGTGGCCGCGGC"
     },
     {
         "protein": "Q6NUI6",
@@ -2153,11 +2287,12 @@
                 "chrom": "chr22",
                 "start": 41237914,
                 "end": 41237934,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CCGCGCGGCCCTCCGCGCGGC",
-        "region_id": "Q6NUI6_380_386"
+        "dna": "CCGCGCGGCCCTCCGCGCGGC"
     },
     {
         "protein": "O75462",
@@ -2171,17 +2306,20 @@
                 "chrom": "chr19",
                 "start": 18594065,
                 "end": 18594086,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 21
             },
             {
                 "chrom": "chr19",
                 "start": 18593578,
                 "end": 18593579,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 22,
+                "merged_end": 23
             }
         ],
-        "dna": "GGCAGACGGGGCACGGCGAGAGGT",
-        "region_id": "O75462_412_419"
+        "dna": "GGCAGACGGGGCACGGCGAGAGGT"
     },
     {
         "protein": "Q86TL0",
@@ -2195,11 +2333,12 @@
                 "chrom": "chr19",
                 "start": 10544172,
                 "end": 10544189,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCGCGGGGTCCCAGAGGC",
-        "region_id": "Q86TL0_28_33"
+        "dna": "CCGCGGGGTCCCAGAGGC"
     },
     {
         "protein": "Q96S66",
@@ -2213,11 +2352,12 @@
                 "chrom": "chr1",
                 "start": 108934700,
                 "end": 108934726,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GCAAGAGGTGTGGCTGGACCACGTGGA",
-        "region_id": "Q96S66_534_542"
+        "dna": "GCAAGAGGTGTGGCTGGACCACGTGGA"
     },
     {
         "protein": "Q9UM47",
@@ -2231,11 +2371,12 @@
                 "chrom": "chr19",
                 "start": 15161385,
                 "end": 15161402,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGGCCCCGGGGGCGGGGC",
-        "region_id": "Q9UM47_2076_2081"
+        "dna": "GGGCCCCGGGGGCGGGGC"
     },
     {
         "protein": "Q13875",
@@ -2249,11 +2390,12 @@
                 "chrom": "chr3",
                 "start": 39502821,
                 "end": 39502850,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "CTCAGAGGGCCAGGCGCCAGCCGTGGGGGG",
-        "region_id": "Q13875_165_174"
+        "dna": "CTCAGAGGGCCAGGCGCCAGCCGTGGGGGG"
     },
     {
         "protein": "Q27J81",
@@ -2267,11 +2409,12 @@
                 "chrom": "chr14",
                 "start": 104713534,
                 "end": 104713548,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCCCGGGGCCGCGGG",
-        "region_id": "Q27J81_990_994"
+        "dna": "GCCCGGGGCCGCGGG"
     },
     {
         "protein": "Q9H091",
@@ -2285,11 +2428,12 @@
                 "chrom": "chr17",
                 "start": 4745943,
                 "end": 4745972,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "CGCCGAGGAGAAAAGAAACCTGGGCGGGGG",
-        "region_id": "Q9H091_728_737"
+        "dna": "CGCCGAGGAGAAAAGAAACCTGGGCGGGGG"
     },
     {
         "protein": "Q5JR59",
@@ -2303,11 +2447,12 @@
                 "chrom": "chr13",
                 "start": 29025818,
                 "end": 29025847,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGAAGAGGCAACTGTGAAGAGAAGAGAGGA",
-        "region_id": "Q5JR59_374_383"
+        "dna": "GGAAGAGGCAACTGTGAAGAGAAGAGAGGA"
     },
     {
         "protein": "Q96HE8",
@@ -2321,11 +2466,12 @@
                 "chrom": "chr11",
                 "start": 700644,
                 "end": 700661,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CTGGTCCTCGATCTTGCT",
-        "region_id": "Q96HE8_55_60"
+        "dna": "CTGGTCCTCGATCTTGCT"
     },
     {
         "protein": "Q96HE8",
@@ -2339,11 +2485,12 @@
                 "chrom": "chr11",
                 "start": 702950,
                 "end": 702964,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "AGGGGCAACCTGACA",
-        "region_id": "Q96HE8_78_82"
+        "dna": "AGGGGCAACCTGACA"
     },
     {
         "protein": "Q9H320",
@@ -2357,11 +2504,12 @@
                 "chrom": "chrX",
                 "start": 7843531,
                 "end": 7843548,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGTAGAGGGAGACGCGGG",
-        "region_id": "Q9H320_46_51"
+        "dna": "CGTAGAGGGAGACGCGGG"
     },
     {
         "protein": "Q5GH72",
@@ -2375,11 +2523,12 @@
                 "chrom": "chr20",
                 "start": 31968236,
                 "end": 31968268,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GGTGGAGCCCGGGGCAGTGCCGGCGGGCGCGGG",
-        "region_id": "Q5GH72_21_31"
+        "dna": "GGTGGAGCCCGGGGCAGTGCCGGCGGGCGCGGG"
     },
     {
         "protein": "O75425",
@@ -2393,11 +2542,12 @@
                 "chrom": "chr7",
                 "start": 100612843,
                 "end": 100612860,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGGCGGGGGTCCCGGGGC",
-        "region_id": "O75425_18_23"
+        "dna": "GGGCGGGGGTCCCGGGGC"
     },
     {
         "protein": "Q9H322",
@@ -2411,11 +2561,12 @@
                 "chrom": "chrX",
                 "start": 8170299,
                 "end": 8170316,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGTAGAGGGAGACGCGGG",
-        "region_id": "Q9H322_46_51"
+        "dna": "CGTAGAGGGAGACGCGGG"
     },
     {
         "protein": "O00562",
@@ -2429,11 +2580,12 @@
                 "chrom": "chr11",
                 "start": 67497923,
                 "end": 67497949,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGGAGTCGGGGCAGCAGCCGCCGTGGG",
-        "region_id": "O00562_584_592"
+        "dna": "GGGAGTCGGGGCAGCAGCCGCCGTGGG"
     },
     {
         "protein": "Q8IYW2",
@@ -2447,17 +2599,20 @@
                 "chrom": "chr10",
                 "start": 132810409,
                 "end": 132810428,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 19
             },
             {
                 "chrom": "chr10",
                 "start": 132808898,
                 "end": 132808904,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 20,
+                "merged_end": 26
             }
         ],
-        "dna": "CGACGAGGCGGTGAACCAAGACGAGGC",
-        "region_id": "Q8IYW2_2549_2557"
+        "dna": "CGACGAGGCGGTGAACCAAGACGAGGC"
     },
     {
         "protein": "O14598",
@@ -2471,11 +2626,12 @@
                 "chrom": "chrY",
                 "start": 13986096,
                 "end": 13986116,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GTTCGTGGAGGGAGACGCGGG",
-        "region_id": "O14598_45_51"
+        "dna": "GTTCGTGGAGGGAGACGCGGG"
     },
     {
         "protein": "Q2Y0W8",
@@ -2489,11 +2645,12 @@
                 "chrom": "chr12",
                 "start": 51450962,
                 "end": 51450976,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "AGACGAGGGCGGGGC",
-        "region_id": "Q2Y0W8_73_77"
+        "dna": "AGACGAGGGCGGGGC"
     },
     {
         "protein": "Q6NY19",
@@ -2507,11 +2664,12 @@
                 "chrom": "chr19",
                 "start": 8335338,
                 "end": 8335367,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGCCGCGGGGTCCCGCGCAGCCCACGCGGG",
-        "region_id": "Q6NY19_154_163"
+        "dna": "GGCCGCGGGGTCCCGCGCAGCCCACGCGGG"
     },
     {
         "protein": "Q8TEC5",
@@ -2525,11 +2683,12 @@
                 "chrom": "chr5",
                 "start": 146013834,
                 "end": 146013866,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "TCCAGAGGCAACACGTCTACCCTCCGTAGGGGC",
-        "region_id": "Q8TEC5_278_288"
+        "dna": "TCCAGAGGCAACACGTCTACCCTCCGTAGGGGC"
     },
     {
         "protein": "Q96PE1",
@@ -2543,11 +2702,12 @@
                 "chrom": "chr8",
                 "start": 37841255,
                 "end": 37841281,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CTGAGGGGTTCCACCAGGCTCAGGGGC",
-        "region_id": "Q96PE1_973_981"
+        "dna": "CTGAGGGGTTCCACCAGGCTCAGGGGC"
     },
     {
         "protein": "P35916",
@@ -2561,11 +2721,12 @@
                 "chrom": "chr5",
                 "start": 180603297,
                 "end": 180603317,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GAGCGGGGGGCCCGAGGAGGC",
-        "region_id": "P35916_1323_1329"
+        "dna": "GAGCGGGGGGCCCGAGGAGGC"
     },
     {
         "protein": "Q9H321",
@@ -2579,11 +2740,12 @@
                 "chrom": "chrX",
                 "start": 8465778,
                 "end": 8465795,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGTAGAGGGAGACGCGGG",
-        "region_id": "Q9H321_46_51"
+        "dna": "CGTAGAGGGAGACGCGGG"
     },
     {
         "protein": "Q6ZMJ2",
@@ -2597,17 +2759,20 @@
                 "chrom": "chr8",
                 "start": 27909663,
                 "end": 27909672,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 9
             },
             {
                 "chrom": "chr8",
                 "start": 27907227,
                 "end": 27907246,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 10,
+                "merged_end": 29
             }
         ],
-        "dna": "GGACTTCGAGGTCTGCCCGGGGAGAGAGGT",
-        "region_id": "Q6ZMJ2_330_339"
+        "dna": "GGACTTCGAGGTCTGCCCGGGGAGAGAGGT"
     },
     {
         "protein": "Q6ZMJ2",
@@ -2621,17 +2786,20 @@
                 "chrom": "chr8",
                 "start": 27907148,
                 "end": 27907166,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 18
             },
             {
                 "chrom": "chr8",
                 "start": 27904824,
                 "end": 27904834,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 19,
+                "merged_end": 29
             }
         ],
-        "dna": "GGCATGCGTGGGTTCAAAGGTGACCGAGGC",
-        "region_id": "Q6ZMJ2_360_369"
+        "dna": "GGCATGCGTGGGTTCAAAGGTGACCGAGGC"
     },
     {
         "protein": "Q71H61",
@@ -2645,11 +2813,12 @@
                 "chrom": "chr1",
                 "start": 166920770,
                 "end": 166920793,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "ACCCGCGGCCCGTCCTACCGCGGC",
-        "region_id": "Q71H61_600_607"
+        "dna": "ACCCGCGGCCCGTCCTACCGCGGC"
     },
     {
         "protein": "A0A1W2PPD8",
@@ -2663,11 +2832,12 @@
                 "chrom": "chr11",
                 "start": 95050700,
                 "end": 95050744,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
             }
         ],
-        "dna": "TGTCGTGGCTGTGGTCGTGGTCGAGGTCGTGGTCGAGGCCGTGGT",
-        "region_id": "A0A1W2PPD8_427_441"
+        "dna": "TGTCGTGGCTGTGGTCGTGGTCGAGGTCGTGGTCGAGGCCGTGGT"
     },
     {
         "protein": "Q6ZW31",
@@ -2681,11 +2851,12 @@
                 "chrom": "chr19",
                 "start": 15113664,
                 "end": 15113681,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCCCGCGGTCGAGGAGGC",
-        "region_id": "Q6ZW31_637_642"
+        "dna": "CCCCGCGGTCGAGGAGGC"
     },
     {
         "protein": "Q8NCF5",
@@ -2699,11 +2870,12 @@
                 "chrom": "chr16",
                 "start": 28951063,
                 "end": 28951098,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "GGCCGAGGGGGTCGGGGCGGCTGGGGCGGTCGGGGC",
-        "region_id": "Q8NCF5_18_29"
+        "dna": "GGCCGAGGGGGTCGGGGCGGCTGGGGCGGTCGGGGC"
     },
     {
         "protein": "Q8IWY9",
@@ -2717,11 +2889,12 @@
                 "chrom": "chr15",
                 "start": 42736586,
                 "end": 42736603,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCGCGGGGTAGCCGCGGG",
-        "region_id": "Q8IWY9_90_95"
+        "dna": "CCGCGGGGTAGCCGCGGG"
     },
     {
         "protein": "Q8IWY9",
@@ -2735,11 +2908,12 @@
                 "chrom": "chr15",
                 "start": 42736466,
                 "end": 42736522,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
             }
         ],
-        "dna": "CGCCGCGGGGGCAGGAGGCGGGGCCCGGGGCCGGCCCGCGAGCGTGGAGGCCGCGGC",
-        "region_id": "Q8IWY9_117_135"
+        "dna": "CGCCGCGGGGGCAGGAGGCGGGGCCCGGGGCCGGCCCGCGAGCGTGGAGGCCGCGGC"
     },
     {
         "protein": "Q92837",
@@ -2753,11 +2927,12 @@
                 "chrom": "chr10",
                 "start": 97319958,
                 "end": 97319978,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CGGCGAGGATGGCTCCGGGGC",
-        "region_id": "Q92837_169_175"
+        "dna": "CGGCGAGGATGGCTCCGGGGC"
     },
     {
         "protein": "Q504Y2",
@@ -2771,11 +2946,12 @@
                 "chrom": "chr2",
                 "start": 42048341,
                 "end": 42048361,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GGCCGTCGCGGGGGCCGCGGG",
-        "region_id": "Q504Y2_48_54"
+        "dna": "GGCCGTCGCGGGGGCCGCGGG"
     },
     {
         "protein": "Q7Z6B7",
@@ -2789,11 +2965,12 @@
                 "chrom": "chr12",
                 "start": 64127997,
                 "end": 64128023,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CCCCGGGGCCTGCTGCAGAACCGTGGC",
-        "region_id": "Q7Z6B7_893_901"
+        "dna": "CCCCGGGGCCTGCTGCAGAACCGTGGC"
     },
     {
         "protein": "Q86XI8",
@@ -2807,17 +2984,20 @@
                 "chrom": "chr19",
                 "start": 48195889,
                 "end": 48195918,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             },
             {
                 "chrom": "chr19",
                 "start": 48197230,
                 "end": 48197232,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 30,
+                "merged_end": 32
             }
         ],
-        "dna": "CTGAGGGGGACCCAGTTTGACTATGAGAGGGGA",
-        "region_id": "Q86XI8_609_619"
+        "dna": "CTGAGGGGGACCCAGTTTGACTATGAGAGGGGA"
     },
     {
         "protein": "Q96RT6",
@@ -2831,11 +3011,12 @@
                 "chrom": "chr18",
                 "start": 22416222,
                 "end": 22416251,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "CCACGGGGAGGAGGAAGAGGCTCCAGAGGC",
-        "region_id": "Q96RT6_521_530"
+        "dna": "CCACGGGGAGGAGGAAGAGGCTCCAGAGGC"
     },
     {
         "protein": "Q5U4P2",
@@ -2849,11 +3030,12 @@
                 "chrom": "chr16",
                 "start": 29900981,
                 "end": 29901010,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGGAGAGGGAGCTTCAGCGTGGAGAGAGGA",
-        "region_id": "Q5U4P2_4_13"
+        "dna": "GGGAGAGGGAGCTTCAGCGTGGAGAGAGGA"
     },
     {
         "protein": "Q6HA08",
@@ -2867,17 +3049,20 @@
                 "chrom": "chr2",
                 "start": 96129824,
                 "end": 96129836,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 12
             },
             {
                 "chrom": "chr2",
                 "start": 96124270,
                 "end": 96124271,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 13,
+                "merged_end": 14
             }
         ],
-        "dna": "CCCCGTGGGAGAGGG",
-        "region_id": "Q6HA08_288_292"
+        "dna": "CCCCGTGGGAGAGGG"
     },
     {
         "protein": "Q92784",
@@ -2891,17 +3076,20 @@
                 "chrom": "chr14",
                 "start": 72723633,
                 "end": 72723644,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 11
             },
             {
                 "chrom": "chr14",
                 "start": 72714493,
                 "end": 72714501,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 12,
+                "merged_end": 20
             }
         ],
-        "dna": "ACTAGAGGACGGGCTCGCGGC",
-        "region_id": "Q92784_172_178"
+        "dna": "ACTAGAGGACGGGCTCGCGGC"
     },
     {
         "protein": "Q00536",
@@ -2915,11 +3103,12 @@
                 "chrom": "chrX",
                 "start": 47223600,
                 "end": 47223617,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CTCCGAGGTGGCCGAGGC",
-        "region_id": "Q00536_15_20"
+        "dna": "CTCCGAGGTGGCCGAGGC"
     },
     {
         "protein": "Q8N159",
@@ -2933,11 +3122,12 @@
                 "chrom": "chr17",
                 "start": 44004718,
                 "end": 44004735,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CTGAGAGGCCGGGGAGGC",
-        "region_id": "Q8N159_19_24"
+        "dna": "CTGAGAGGCCGGGGAGGC"
     },
     {
         "protein": "Q9BWW9",
@@ -2951,11 +3141,12 @@
                 "chrom": "chr22",
                 "start": 35727149,
                 "end": 35727172,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "TCCCGGGGCAGGGCTGTTCGAGGA",
-        "region_id": "Q9BWW9_361_368"
+        "dna": "TCCCGGGGCAGGGCTGTTCGAGGA"
     },
     {
         "protein": "O76061",
@@ -2969,11 +3160,12 @@
                 "chrom": "chr5",
                 "start": 173317967,
                 "end": 173317993,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGCCGAGGTGCCAAGGGTGAGCGAGGT",
-        "region_id": "O76061_255_263"
+        "dna": "GGCCGAGGTGCCAAGGGTGAGCGAGGT"
     },
     {
         "protein": "Q96RR4",
@@ -2987,11 +3179,12 @@
                 "chrom": "chr12",
                 "start": 121240792,
                 "end": 121240827,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "CCCCGTGGGGGAGGAGGAAGTGCTCTTGTGAGAGGC",
-        "region_id": "Q96RR4_547_558"
+        "dna": "CCCCGTGGGGGAGGAGGAAGTGCTCTTGTGAGAGGC"
     },
     {
         "protein": "Q69YL0",
@@ -3005,11 +3198,12 @@
                 "chrom": "chr3",
                 "start": 196942948,
                 "end": 196942965,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGCCGCGGCCTCCGAGGC",
-        "region_id": "Q69YL0_78_83"
+        "dna": "CGCCGCGGCCTCCGAGGC"
     },
     {
         "protein": "Q9NP85",
@@ -3023,11 +3217,12 @@
                 "chrom": "chr1",
                 "start": 179575814,
                 "end": 179575831,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "TCCCGCGGGCGAGGCGGC",
-        "region_id": "Q9NP85_12_17"
+        "dna": "TCCCGCGGGCGAGGCGGC"
     },
     {
         "protein": "Q9Y446",
@@ -3041,17 +3236,20 @@
                 "chrom": "chr11",
                 "start": 394518,
                 "end": 394524,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 6
             },
             {
                 "chrom": "chr11",
                 "start": 396608,
                 "end": 396621,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 7,
+                "merged_end": 20
             }
         ],
-        "dna": "GCCAGAGGCACATCCAGGGGG",
-        "region_id": "Q9Y446_76_82"
+        "dna": "GCCAGAGGCACATCCAGGGGG"
     },
     {
         "protein": "O15357",
@@ -3065,11 +3263,12 @@
                 "chrom": "chr11",
                 "start": 72237473,
                 "end": 72237505,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GTCCGGGGCCGTGGTGGGGCTGAGGCCCGTGGC",
-        "region_id": "O15357_1077_1087"
+        "dna": "GTCCGGGGCCGTGGTGGGGCTGAGGCCCGTGGC"
     },
     {
         "protein": "Q9H7X2",
@@ -3083,11 +3282,12 @@
                 "chrom": "chr1",
                 "start": 220690451,
                 "end": 220690474,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CGCCGCGGGCCCCGAGGGCGAGGG",
-        "region_id": "Q9H7X2_17_24"
+        "dna": "CGCCGCGGGCCCCGAGGGCGAGGG"
     },
     {
         "protein": "Q9H7X2",
@@ -3101,11 +3301,12 @@
                 "chrom": "chr1",
                 "start": 220690574,
                 "end": 220690597,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GAGCGGGGCCCGGGGACCCGGGGC",
-        "region_id": "Q9H7X2_58_65"
+        "dna": "GAGCGGGGCCCGGGGACCCGGGGC"
     },
     {
         "protein": "P02814",
@@ -3119,11 +3320,12 @@
                 "chrom": "chr4",
                 "start": 70389675,
                 "end": 70389692,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CAAAGAGGCCCCAGGGGA",
-        "region_id": "P02814_23_28"
+        "dna": "CAAAGAGGCCCCAGGGGA"
     },
     {
         "protein": "Q8IUH8",
@@ -3137,11 +3339,12 @@
                 "chrom": "chr17",
                 "start": 45846590,
                 "end": 45846610,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GAGAGAGGCACCAGCCGAGGA",
-        "region_id": "Q8IUH8_562_568"
+        "dna": "GAGAGAGGCACCAGCCGAGGA"
     },
     {
         "protein": "Q9NXX6",
@@ -3155,11 +3358,12 @@
                 "chrom": "chr10",
                 "start": 121975118,
                 "end": 121975147,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GGCCGCGGGCCAGAGGGCCGGGGCCGGGGC",
-        "region_id": "Q9NXX6_7_16"
+        "dna": "GGCCGCGGGCCAGAGGGCCGGGGCCGGGGC"
     },
     {
         "protein": "Q07617",
@@ -3173,11 +3377,12 @@
                 "chrom": "chr8",
                 "start": 100213191,
                 "end": 100213214,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GCAAGGGGCGCGCCGCAGCGGGGC",
-        "region_id": "Q07617_400_407"
+        "dna": "GCAAGGGGCGCGCCGCAGCGGGGC"
     },
     {
         "protein": "Q8N715",
@@ -3191,11 +3396,12 @@
                 "chrom": "chr1",
                 "start": 223393689,
                 "end": 223393718,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "AGGCGCGGGTGCTCAGATTCACTGCGGGGC",
-        "region_id": "Q8N715_72_81"
+        "dna": "AGGCGCGGGTGCTCAGATTCACTGCGGGGC"
     },
     {
         "protein": "O00401",
@@ -3209,11 +3415,12 @@
                 "chrom": "chr7",
                 "start": 123692770,
                 "end": 123692784,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCTAGGGGAAGAGGC",
-        "region_id": "O00401_304_308"
+        "dna": "GCTAGGGGAAGAGGC"
     },
     {
         "protein": "Q96NZ9",
@@ -3227,11 +3434,12 @@
                 "chrom": "chr10",
                 "start": 133352107,
                 "end": 133352127,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CCACGAGGTCAGGGCAGGGGC",
-        "region_id": "Q96NZ9_77_83"
+        "dna": "CCACGAGGTCAGGGCAGGGGC"
     },
     {
         "protein": "Q9NNX9",
@@ -3245,11 +3453,12 @@
                 "chrom": "chrX",
                 "start": 6534153,
                 "end": 6534170,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CGTAGAGGGAGACGCGGG",
-        "region_id": "Q9NNX9_46_51"
+        "dna": "CGTAGAGGGAGACGCGGG"
     },
     {
         "protein": "Q14160",
@@ -3263,11 +3472,12 @@
                 "chrom": "chr8",
                 "start": 143792055,
                 "end": 143792072,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGCCGGGGCACGCGGGGG",
-        "region_id": "Q14160_1526_1531"
+        "dna": "GGCCGGGGCACGCGGGGG"
     },
     {
         "protein": "Q5M8T2",
@@ -3281,11 +3491,12 @@
                 "chrom": "chr6",
                 "start": 136924532,
                 "end": 136924552,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GTCAGGGGCAGCCCCCGAGGA",
-        "region_id": "Q5M8T2_363_369"
+        "dna": "GTCAGGGGCAGCCCCCGAGGA"
     },
     {
         "protein": "Q5VV17",
@@ -3299,11 +3510,12 @@
                 "chrom": "chr10",
                 "start": 23440148,
                 "end": 23440180,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GAGAGGGGCCCCAGGGGCTGGGAGAGGGGCGGC",
-        "region_id": "Q5VV17_231_241"
+        "dna": "GAGAGGGGCCCCAGGGGCTGGGAGAGGGGCGGC"
     },
     {
         "protein": "P23677",
@@ -3317,11 +3529,12 @@
                 "chrom": "chr15",
                 "start": 41494093,
                 "end": 41494119,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GCCCGCGGGGCCAAGCGGCGTGGGGGA",
-        "region_id": "P23677_56_64"
+        "dna": "GCCCGCGGGGCCAAGCGGCGTGGGGGA"
     },
     {
         "protein": "I3L1E1",
@@ -3335,11 +3548,12 @@
                 "chrom": "chr19",
                 "start": 51389221,
                 "end": 51389238,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCCAGGGGACGCGGAGGC",
-        "region_id": "I3L1E1_103_108"
+        "dna": "CCCAGGGGACGCGGAGGC"
     },
     {
         "protein": "I3L1E1",
@@ -3353,11 +3567,12 @@
                 "chrom": "chr19",
                 "start": 51389170,
                 "end": 51389193,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGCCGAGGCCTGCATCGACGGGGC",
-        "region_id": "I3L1E1_118_125"
+        "dna": "GGCCGAGGCCTGCATCGACGGGGC"
     },
     {
         "protein": "Q3KQU3",
@@ -3371,11 +3586,12 @@
                 "chrom": "chr1",
                 "start": 36176321,
                 "end": 36176347,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "GGTAGGGGCTGCGACCCTGGGAGAGGC",
-        "region_id": "Q3KQU3_325_333"
+        "dna": "GGTAGGGGCTGCGACCCTGGGAGAGGC"
     },
     {
         "protein": "Q9UBS0",
@@ -3389,11 +3605,12 @@
                 "chrom": "chr11",
                 "start": 67435140,
                 "end": 67435154,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "AAGAGGGGCCGTGGG",
-        "region_id": "Q9UBS0_474_478"
+        "dna": "AAGAGGGGCCGTGGG"
     },
     {
         "protein": "Q99954",
@@ -3407,11 +3624,12 @@
                 "chrom": "chr4",
                 "start": 70366656,
                 "end": 70366673,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CAAAGAGGCCCCAGGGGA",
-        "region_id": "Q99954_23_28"
+        "dna": "CAAAGAGGCCCCAGGGGA"
     },
     {
         "protein": "A0A286YF58",
@@ -3425,11 +3643,12 @@
                 "chrom": "chr4",
                 "start": 575262,
                 "end": 575321,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
             }
         ],
-        "dna": "CGGCGCGGTCGGCGCGGCAGGCGGAGGGGAGGCCGGGCCCTGGCGCGGCCCCGCGGCGGC",
-        "region_id": "A0A286YF58_248_267"
+        "dna": "CGGCGCGGTCGGCGCGGCAGGCGGAGGGGAGGCCGGGCCCTGGCGCGGCCCCGCGGCGGC"
     },
     {
         "protein": "A0A286YF58",
@@ -3443,11 +3662,12 @@
                 "chrom": "chr4",
                 "start": 575199,
                 "end": 575225,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "CGCCGGGGCCGGCGGGGCCGGCGGGGG",
-        "region_id": "A0A286YF58_280_288"
+        "dna": "CGCCGGGGCCGGCGGGGCCGGCGGGGG"
     },
     {
         "protein": "Q8IVV7",
@@ -3461,11 +3681,12 @@
                 "chrom": "chr17",
                 "start": 18039471,
                 "end": 18039494,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GCGCGAGGGCAAGTCGGGAGGGGG",
-        "region_id": "Q8IVV7_3_10"
+        "dna": "GCGCGAGGGCAAGTCGGGAGGGGG"
     },
     {
         "protein": "Q6ZSJ8",
@@ -3479,17 +3700,20 @@
                 "chrom": "chr1",
                 "start": 37808432,
                 "end": 37808439,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 7
             },
             {
                 "chrom": "chr1",
                 "start": 37808531,
                 "end": 37808555,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 8,
+                "merged_end": 32
             }
         ],
-        "dna": "TCACGGGGGGAGGCTGCCGGCGTGGACCGCGGG",
-        "region_id": "Q6ZSJ8_10_20"
+        "dna": "TCACGGGGGGAGGCTGCCGGCGTGGACCGCGGG"
     },
     {
         "protein": "Q8WVM7",
@@ -3503,11 +3727,12 @@
                 "chrom": "chr3",
                 "start": 136604396,
                 "end": 136604419,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGAATTAGAGGAGCAGGCCGTGGA",
-        "region_id": "Q8WVM7_63_70"
+        "dna": "GGAATTAGAGGAGCAGGCCGTGGA"
     },
     {
         "protein": "Q99501",
@@ -3521,11 +3746,12 @@
                 "chrom": "chr22",
                 "start": 29312360,
                 "end": 29312398,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 38
             }
         ],
-        "dna": "GACACACAGCCAGACCGTAAACCCTCACGTATCCCCACG",
-        "region_id": "Q99501_410_422"
+        "dna": "GACACACAGCCAGACCGTAAACCCTCACGTATCCCCACG"
     },
     {
         "protein": "Q99501",
@@ -3536,8 +3762,7 @@
         "prot_seq": "",
         "intervals": [],
         "dna": "",
-        "warning": "translation_mismatch",
-        "region_id": "Q99501_459_463"
+        "warning": "translation_mismatch"
     },
     {
         "protein": "Q9H7M6",
@@ -3551,11 +3776,12 @@
                 "chrom": "chr19",
                 "start": 13795724,
                 "end": 13795738,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCGCGTGGCCGGGGC",
-        "region_id": "Q9H7M6_26_30"
+        "dna": "GCGCGTGGCCGGGGC"
     },
     {
         "protein": "A6NIX2",
@@ -3569,11 +3795,12 @@
                 "chrom": "chr19",
                 "start": 34482065,
                 "end": 34482082,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "GGTCGGGGGCGGCGGGGG",
-        "region_id": "A6NIX2_31_36"
+        "dna": "GGTCGGGGGCGGCGGGGG"
     },
     {
         "protein": "A6NIX2",
@@ -3587,11 +3814,12 @@
                 "chrom": "chr19",
                 "start": 34482173,
                 "end": 34482190,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "AGCCGCGGGGAGCGGGGT",
-        "region_id": "A6NIX2_67_72"
+        "dna": "AGCCGCGGGGAGCGGGGT"
     },
     {
         "protein": "Q6NSJ2",
@@ -3605,11 +3833,12 @@
                 "chrom": "chr19",
                 "start": 43487055,
                 "end": 43487084,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "AAAAGGGGGGAGAGGGGGAGCCAGAGAGGA",
-        "region_id": "Q6NSJ2_397_406"
+        "dna": "AAAAGGGGGGAGAGGGGGAGCCAGAGAGGA"
     },
     {
         "protein": "P55789",
@@ -3623,11 +3852,12 @@
                 "chrom": "chr16",
                 "start": 1984318,
                 "end": 1984332,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCGCGGGGCCGGGGC",
-        "region_id": "P55789_34_38"
+        "dna": "GCGCGGGGCCGGGGC"
     },
     {
         "protein": "P86496",
@@ -3641,11 +3871,12 @@
                 "chrom": "chr13",
                 "start": 57142542,
                 "end": 57142613,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
             }
         ],
-        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG",
-        "region_id": "P86496_73_96"
+        "dna": "GAGAGAGGCCGGCGCCGGGGAGGAAGCCGGCGGCCAGGGCGAGGCCGTGGCAGAAGGGCTGGGCCCCGCGGG"
     },
     {
         "protein": "Q7Z7M0",
@@ -3659,11 +3890,12 @@
                 "chrom": "chr19",
                 "start": 42358805,
                 "end": 42358825,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "GTGCGTGGCTCATCTCGGGGT",
-        "region_id": "Q7Z7M0_1732_1738"
+        "dna": "GTGCGTGGCTCATCTCGGGGT"
     },
     {
         "protein": "Q8TE04",
@@ -3677,17 +3909,20 @@
                 "chrom": "chr10",
                 "start": 89611696,
                 "end": 89611716,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 20
             },
             {
                 "chrom": "chr10",
                 "start": 89599503,
                 "end": 89599505,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 21,
+                "merged_end": 23
             }
         ],
-        "dna": "TTCGAAGAGGACTTCAGAATGATT",
-        "region_id": "Q8TE04_121_128"
+        "dna": "TTCGAAGAGGACTTCAGAATGATT"
     },
     {
         "protein": "O43822",
@@ -3701,11 +3936,12 @@
                 "chrom": "chr21",
                 "start": 44330874,
                 "end": 44330903,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "GAACGTGGCCTGAAGCCGCCTTCCCGGGGC",
-        "region_id": "O43822_188_197"
+        "dna": "GAACGTGGCCTGAAGCCGCCTTCCCGGGGC"
     },
     {
         "protein": "Q7L0Q8",
@@ -3719,11 +3955,12 @@
                 "chrom": "chr1",
                 "start": 228735812,
                 "end": 228735862,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
             }
         ],
-        "dna": "GAGCGCGGTGGACGCGGGGGACGCGGGCCTGGGGAGCCGGGGGGCCGGGGG",
-        "region_id": "Q7L0Q8_24_40"
+        "dna": "GAGCGCGGTGGACGCGGGGGACGCGGGCCTGGGGAGCCGGGGGGCCGGGGG"
     },
     {
         "protein": "Q9NUG4",
@@ -3737,11 +3974,12 @@
                 "chrom": "chr20",
                 "start": 32031264,
                 "end": 32031284,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
             }
         ],
-        "dna": "CCCCGGGGCTCCAGGGGCGGG",
-        "region_id": "Q9NUG4_556_562"
+        "dna": "CCCCGGGGCTCCAGGGGCGGG"
     },
     {
         "protein": "Q6UXT8",
@@ -3755,11 +3993,12 @@
                 "chrom": "chr8",
                 "start": 52565155,
                 "end": 52565172,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCCCGGGGGCGCAGGGGA",
-        "region_id": "Q6UXT8_29_34"
+        "dna": "CCCCGGGGGCGCAGGGGA"
     },
     {
         "protein": "Q96GP6",
@@ -3773,11 +4012,12 @@
                 "chrom": "chr22",
                 "start": 20437707,
                 "end": 20437742,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "GGGCCCCGGGGGGCCGGGCCGGCGCGGCGCCGGGGA",
-        "region_id": "Q96GP6_5_16"
+        "dna": "GGGCCCCGGGGGGCCGGGCCGGCGCGGCGCCGGGGA"
     },
     {
         "protein": "Q96GP6",
@@ -3791,11 +4031,12 @@
                 "chrom": "chr22",
                 "start": 20425735,
                 "end": 20425749,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "GCGCGGGGCCGCGGC",
-        "region_id": "Q96GP6_748_752"
+        "dna": "GCGCGGGGCCGCGGC"
     },
     {
         "protein": "O60565",
@@ -3809,11 +4050,12 @@
                 "chrom": "chr15",
                 "start": 32730859,
                 "end": 32730885,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "AACCGGGGGCGGGGCCAAGGGCGGGGC",
-        "region_id": "O60565_57_65"
+        "dna": "AACCGGGGGCGGGGCCAAGGGCGGGGC"
     },
     {
         "protein": "Q9UPU3",
@@ -3827,11 +4069,12 @@
                 "chrom": "chr10",
                 "start": 104641667,
                 "end": 104641681,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CGGCGGGGCCGGGGC",
-        "region_id": "Q9UPU3_114_118"
+        "dna": "CGGCGGGGCCGGGGC"
     },
     {
         "protein": "Q9NYQ6",
@@ -3845,11 +4088,12 @@
                 "chrom": "chr22",
                 "start": 46536448,
                 "end": 46536471,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CGGCGGGGCACGAGCGGCAGAGGG",
-        "region_id": "Q9NYQ6_234_241"
+        "dna": "CGGCGGGGCACGAGCGGCAGAGGG"
     },
     {
         "protein": "Q96DX4",
@@ -3863,11 +4107,12 @@
                 "chrom": "chr16",
                 "start": 57204911,
                 "end": 57204925,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "AGGAGGGGCCGAGGA",
-        "region_id": "Q96DX4_85_89"
+        "dna": "AGGAGGGGCCGAGGA"
     },
     {
         "protein": "A6H8Z2",
@@ -3881,17 +4126,20 @@
                 "chrom": "chr9",
                 "start": 35818890,
                 "end": 35818911,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 21
             },
             {
                 "chrom": "chr9",
                 "start": 35818505,
                 "end": 35818506,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 22,
+                "merged_end": 23
             }
         ],
-        "dna": "CAACGAGGAGGAAGGCCTCGCGGG",
-        "region_id": "A6H8Z2_384_391"
+        "dna": "CAACGAGGAGGAAGGCCTCGCGGG"
     },
     {
         "protein": "B2RXH2",
@@ -3905,11 +4153,12 @@
                 "chrom": "chr11",
                 "start": 95026869,
                 "end": 95026925,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
             }
         ],
-        "dna": "GGTCGTGGTCGTGGTCGTGGTCAAGGTCAAGGTCGAGGTTGCAGTCGTGGTCGTGGT",
-        "region_id": "B2RXH2_438_456"
+        "dna": "GGTCGTGGTCGTGGTCGTGGTCAAGGTCAAGGTCGAGGTTGCAGTCGTGGTCGTGGT"
     },
     {
         "protein": "P54756",
@@ -3923,11 +4172,12 @@
                 "chrom": "chr4",
                 "start": 65669719,
                 "end": 65669742,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "ATGCGGGGCTCGGGGCCCCGGGGT",
-        "region_id": "P54756_1_8"
+        "dna": "ATGCGGGGCTCGGGGCCCCGGGGT"
     },
     {
         "protein": "Q6IBS0",
@@ -3941,11 +4191,12 @@
                 "chrom": "chr3",
                 "start": 52229061,
                 "end": 52229096,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 35
             }
         ],
-        "dna": "GGGGGCAAGCGGGGCCATAAGCGCCTCATCCGCGGC",
-        "region_id": "Q6IBS0_330_341"
+        "dna": "GGGGGCAAGCGGGGCCATAAGCGCCTCATCCGCGGC"
     },
     {
         "protein": "A6NFR6",
@@ -3959,11 +4210,12 @@
                 "chrom": "chr5",
                 "start": 179643093,
                 "end": 179643110,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCACGTGGGGGGCGTGGG",
-        "region_id": "A6NFR6_148_153"
+        "dna": "CCACGTGGGGGGCGTGGG"
     },
     {
         "protein": "Q6UXD7",
@@ -3977,11 +4229,12 @@
                 "chrom": "chr4",
                 "start": 682129,
                 "end": 682161,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 32
             }
         ],
-        "dna": "GCGAGGGGGGCCTCGCTAGAGGACCCCAGAGGG",
-        "region_id": "Q6UXD7_494_504"
+        "dna": "GCGAGGGGGGCCTCGCTAGAGGACCCCAGAGGG"
     },
     {
         "protein": "Q8WYR1",
@@ -3995,11 +4248,12 @@
                 "chrom": "chr17",
                 "start": 8888548,
                 "end": 8888574,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 26
             }
         ],
-        "dna": "AGGCGTGGCAGCCAGGAACGCCGAGGC",
-        "region_id": "Q8WYR1_405_413"
+        "dna": "AGGCGTGGCAGCCAGGAACGCCGAGGC"
     },
     {
         "protein": "A0A3B3IS91",
@@ -4013,11 +4267,12 @@
                 "chrom": "chr15",
                 "start": 89333456,
                 "end": 89333485,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 29
             }
         ],
-        "dna": "AGGAGGGGAGATGCCTGGCGAGGCCGCGGT",
-        "region_id": "A0A3B3IS91_109_118"
+        "dna": "AGGAGGGGAGATGCCTGGCGAGGCCGCGGT"
     },
     {
         "protein": "P0DKV0",
@@ -4031,11 +4286,12 @@
                 "chrom": "chr9",
                 "start": 87919300,
                 "end": 87919323,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "GGGCGGAGGGGGAGGCCCAGAGGC",
-        "region_id": "P0DKV0_79_86"
+        "dna": "GGGCGGAGGGGGAGGCCCAGAGGC"
     },
     {
         "protein": "Q8IY34",
@@ -4049,11 +4305,12 @@
                 "chrom": "chr11",
                 "start": 60951474,
                 "end": 60951491,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 17
             }
         ],
-        "dna": "CCTCGCGGTGCGCGGGGC",
-        "region_id": "Q8IY34_21_26"
+        "dna": "CCTCGCGGTGCGCGGGGC"
     },
     {
         "protein": "Q7L311",
@@ -4067,11 +4324,12 @@
                 "chrom": "chrX",
                 "start": 101656497,
                 "end": 101656511,
-                "strand": "-"
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
             }
         ],
-        "dna": "CGCAGAGGGAGGGGA",
-        "region_id": "Q7L311_360_364"
+        "dna": "CGCAGAGGGAGGGGA"
     },
     {
         "protein": "Q13470",
@@ -4085,10 +4343,11 @@
                 "chrom": "chr17",
                 "start": 7387105,
                 "end": 7387128,
-                "strand": "+"
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 23
             }
         ],
-        "dna": "CACAGAGGCACCCCTGCCCGGGGA",
-        "region_id": "Q13470_455_462"
+        "dna": "CACAGAGGCACCCCTGCCCGGGGA"
     }
 ]

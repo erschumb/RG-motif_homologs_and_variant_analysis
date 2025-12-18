@@ -100,7 +100,7 @@ def compute_variant_region_overlap_full(json_file: str, variant_dfs: dict):
     # Step 3. Convert variants to PyRanges intervals
     ###########################################################################
     variants_interval = variants.rename(columns={"CHROM": "Chromosome", "POS": "Start"})
-    variants_interval["Start"] = variants_interval["Start"] - 1
+    variants_interval["Start"] = variants_interval["Start"]
     variants_interval["End"]   = variants_interval["Start"] + 1
 
     pr_variants = pr.PyRanges(variants_interval)
@@ -114,7 +114,8 @@ def compute_variant_region_overlap_full(json_file: str, variant_dfs: dict):
     ###########################################################################
     # Step 4. Overlap
     ###########################################################################
-    pr_overlap = pr_variants.join(pr_regions.extend(1))
+    # pr_overlap = pr_variants.join(pr_regions.extend(1))
+    pr_overlap = pr_variants.join(pr_regions)
     df_matched = pr_overlap.as_df()
 
     ###########################################################################
