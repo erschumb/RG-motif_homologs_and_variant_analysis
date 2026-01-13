@@ -52,7 +52,11 @@ query = gql(
 )
 
 # Execute the query on the transport
-result = await client.execute_async(query)
+
+
+##### result = await client.execute_async(query)
+
+
 # print(list(result.keys()))
 # print(list(result["gene"].keys()))
 for el in result["gene"]["variants"]:

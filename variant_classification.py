@@ -8,9 +8,19 @@
 import json
 import pandas as pd
 import pyranges as pr
-import json
-import pandas as pd
-import pyranges as pr
+import re
+from localcider.sequenceParameters import SequenceParameters as SeqParams
+from typing import Literal
+
+VariantType = Literal[
+    "silent",
+    "missense",
+    "nonsense",
+    "inframe_insertion",
+    "inframe_deletion",
+    "complex",
+    "frameshift"
+]
 
 def compute_variant_region_overlap_full(json_file: str, variant_dfs: dict):
     """
@@ -137,22 +147,6 @@ def compute_variant_region_overlap_full(json_file: str, variant_dfs: dict):
     return pr_regions, pr_overlap, df_matched, df_unmatched
 
 
-
-
-
-from typing import Literal
-
-VariantType = Literal[
-    "silent",
-    "missense",
-    "nonsense",
-    "inframe_insertion",
-    "inframe_deletion",
-    "complex",
-    "frameshift"
-]
-
-
 def classify_variant(before_dna: str, after_dna: str,
                      before_aa: str, after_aa: str) -> VariantType:
     """
@@ -195,8 +189,7 @@ def classify_variant(before_dna: str, after_dna: str,
     # 6. Multiple AA changes but no frameshift → complex substitution
     return "complex"
 
-import re
-from localcider.sequenceParameters import SequenceParameters as SeqParams
+
 
 def get_physchem_metrics(before_aa: str, after_aa: str, category: str):
     
