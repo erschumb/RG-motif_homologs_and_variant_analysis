@@ -147,48 +147,95 @@ def compute_variant_region_overlap_full(json_file: str, variant_dfs: dict):
     return pr_regions, pr_overlap, df_matched, df_unmatched
 
 
+# def classify_variant(before_dna: str, after_dna: str,
+#                      before_aa: str, after_aa: str) -> VariantType:
+#     """
+#     Classify a protein/DNA change into mutation types:
+#     silent, missense, nonsense, inframe_insertion, 
+#     inframe_deletion, complex, frameshift.
+
+#     Assumes coding DNA and correct translation.
+#     """
+#     if after_dna is None:
+#         return None
+#     if after_aa is None:
+#         return None
+#     if before_aa == after_aa:
+#         return "silent"
+
+#     # 3. Same AA length → could be silent, missense, nonsense, complex
+#     # Compare residue by residue
+#     diffs = [(i, a, b) for i, (a, b) in enumerate(zip(before_aa, after_aa), 1) if a != b]
+
+#     # 4. If any change introduces a stop codon
+#     if any(new == "*" for _, _, new in diffs):
+#         return "nonsense"
+
+#     # 5. Single AA change → missense
+#     if len(diffs) == 1 and len(before_aa)==len(after_aa):
+#         return "missense"
+#     # 1. Frameshift check (DNA length change not multiple of 3)
+#     dna_len_change = len(after_dna) - len(before_dna)
+#     if dna_len_change % 3 != 0:
+#         return "frameshift"
+
+#     # 2. In-frame insertion or deletion (no frameshift)
+#     aa_len_change = len(after_aa) - len(before_aa)
+
+#     if aa_len_change > 0:
+#         return "inframe_insertion"
+#     elif aa_len_change < 0:
+#         return "inframe_deletion"
+#     # 6. Multiple AA changes but no frameshift → complex substitution
+#     return "complex"
+
+
 def classify_variant(before_dna: str, after_dna: str,
                      before_aa: str, after_aa: str) -> VariantType:
-    """
-    Classify a protein/DNA change into mutation types:
-    silent, missense, nonsense, inframe_insertion, 
-    inframe_deletion, complex, frameshift.
 
-    Assumes coding DNA and correct translation.
-    """
-    if after_dna is None:
+    if after_dna is None or after_aa is None:
         return None
-    if after_aa is None:
-        return None
-    if before_aa == after_aa:
-        return "silent"
 
-    # 3. Same AA length → could be silent, missense, nonsense, complex
-    # Compare residue by residue
-    diffs = [(i, a, b) for i, (a, b) in enumerate(zip(before_aa, after_aa), 1) if a != b]
-
-    # 4. If any change introduces a stop codon
-    if any(new == "*" for _, _, new in diffs):
-        return "nonsense"
-
-    # 5. Single AA change → missense
-    if len(diffs) == 1 and len(before_aa)==len(after_aa):
-        return "missense"
-    # 1. Frameshift check (DNA length change not multiple of 3)
+    # --------------------------------------------------
+    # 1. DNA-level classification FIRST (critical)
+    # --------------------------------------------------
     dna_len_change = len(after_dna) - len(before_dna)
+
+    # Frameshift
     if dna_len_change % 3 != 0:
         return "frameshift"
 
-    # 2. In-frame insertion or deletion (no frameshift)
-    aa_len_change = len(after_aa) - len(before_aa)
-
-    if aa_len_change > 0:
+    # In-frame indels
+    if dna_len_change > 0:
         return "inframe_insertion"
-    elif aa_len_change < 0:
-        return "inframe_deletion"
-    # 6. Multiple AA changes but no frameshift → complex substitution
-    return "complex"
 
+    if dna_len_change < 0:
+        return "inframe_deletion"
+
+    # --------------------------------------------------
+    # 2. Now substitutions (same DNA length)
+    # --------------------------------------------------
+
+    # Silent
+    if before_aa == after_aa:
+        return "silent"
+
+    diffs = [
+        (i, a, b)
+        for i, (a, b) in enumerate(zip(before_aa, after_aa), 1)
+        if a != b
+    ]
+
+    # Nonsense
+    if any(new == "*" for _, _, new in diffs):
+        return "nonsense"
+
+    # Missense
+    if len(diffs) == 1 and len(before_aa) == len(after_aa):
+        return "missense"
+
+    # Complex substitution
+    return "complex"
 
 
 def get_physchem_metrics(before_aa: str, after_aa: str, category: str):
