@@ -1,0 +1,5719 @@
+[
+    {
+        "protein": "Q13151",
+        "prot_region": [
+            186,
+            207
+        ],
+        "prot_seq": "GGSRSSRGGRGGRGRGGGRDQN",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 137753446,
+                "end": 137753511,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "GGCGGCTCCCGATCCTCCCGGGGCGGCCGAGGCGGCCGGGGGCGCGGCGGTGGTCGAGACCAGAAC"
+    },
+    {
+        "protein": "Q8N1G1",
+        "prot_region": [
+            181,
+            198
+        ],
+        "prot_seq": "SLASLDRGQGRGGGGGGA",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 1828195,
+                "end": 1828248,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "TCGCTGGCGTCCCTGGACAGGGGTCAGGGCAGAGGTGGAGGGGGTGGCGGTGCC"
+    },
+    {
+        "protein": "Q8N1G1",
+        "prot_region": [
+            254,
+            269
+        ],
+        "prot_seq": "RAAKRPRGSRGSEPYT",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 1827982,
+                "end": 1828029,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CGGGCCGCCAAGCGGCCCCGGGGCTCCCGCGGCAGTGAGCCCTACACA"
+    },
+    {
+        "protein": "A6NEQ0",
+        "prot_region": [
+            107,
+            126
+        ],
+        "prot_seq": "GSLRSARGSRGGTRGWLPSQ",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21912182,
+                "end": 21912241,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GGAAGTCTGAGATCTGCAAGAGGAAGCCGTGGAGGAACAAGAGGGTGGCTTCCCTCACAA"
+    },
+    {
+        "protein": "A6NEQ0",
+        "prot_region": [
+            139,
+            158
+        ],
+        "prot_seq": "LKMSYSRGLIPVKRGPSSRS",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21910171,
+                "end": 21910230,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CTCAAGATGAGTTATTCTAGGGGACTCATTCCAGTTAAAAGAGGTCCATCTTCAAGAAGT"
+    },
+    {
+        "protein": "Q9UJV8",
+        "prot_region": [
+            1,
+            22
+        ],
+        "prot_seq": "MERARRRGGGGGRGRGGKNVGG",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 31032717,
+                "end": 31032782,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "ATGGAAAGAGCCAGGCGAAGGGGAGGCGGCGGCGGCCGCGGCCGCGGAGGCAAGAATGTAGGGGGC"
+    },
+    {
+        "protein": "Q9UPT8",
+        "prot_region": [
+            230,
+            276
+        ],
+        "prot_seq": "AKEGSSRGRGSRGRGRGYRGRGSRGGSRGRGMGRGSRGRGRGSMGGD",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 47089967,
+                "end": 47089994,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 27
+            },
+            {
+                "chrom": "chr19",
+                "start": 47086426,
+                "end": 47086538,
+                "strand": "-",
+                "merged_start": 28,
+                "merged_end": 140
+            }
+        ],
+        "dna": "GCCAAGGAGGGCAGCAGCCGCGGCCGAGGCAGCCGAGGCCGGGGCCGGGGCTACAGGGGCCGAGGAAGCCGTGGAGGATCGCGAGGCCGCGGCATGGGCAGGGGCAGCCGAGGCAGGGGCAGAGGCTCTATGGGAGGAGAC"
+    },
+    {
+        "protein": "Q9UPT8",
+        "prot_region": [
+            314,
+            356
+        ],
+        "prot_seq": "RRSKDSRGRGLSRGRGRGSRGRGKGMGRGRGRGGSRGGMNKGG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 47085318,
+                "end": 47085345,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 27
+            },
+            {
+                "chrom": "chr19",
+                "start": 47085095,
+                "end": 47085195,
+                "strand": "-",
+                "merged_start": 28,
+                "merged_end": 128
+            }
+        ],
+        "dna": "CGCCGCTCCAAGGACAGCCGAGGCCGAGGGCTAAGTCGAGGCCGTGGCAGGGGCTCCCGAGGTCGAGGGAAAGGAATGGGTCGGGGCCGAGGCCGAGGTGGCAGCCGAGGAGGGATGAACAAGGGCGGA"
+    },
+    {
+        "protein": "Q7RTV3",
+        "prot_region": [
+            101,
+            115
+        ],
+        "prot_seq": "AEHSGLRGRGAPPPA",
+        "intervals": [
+            {
+                "chrom": "chr9",
+                "start": 96417688,
+                "end": 96417732,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GCCGAGCACTCGGGGCTTCGTGGCCGGGGCGCGCCCCCGCCCGCC"
+    },
+    {
+        "protein": "O43638",
+        "prot_region": [
+            117,
+            137
+        ],
+        "prot_seq": "QTGAEGTRGPAKARRGPLRAT",
+        "intervals": [
+            {
+                "chrom": "chr20",
+                "start": 31845132,
+                "end": 31845194,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CAGACAGGTGCTGAGGGCACCCGGGGCCCCGCCAAGGCACGCCGTGGACCCCTCAGGGCGACC"
+    },
+    {
+        "protein": "Q92945",
+        "prot_region": [
+            404,
+            421
+        ],
+        "prot_seq": "PGMPPGGRGRGRGQGNWG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 6416802,
+                "end": 6416855,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "CCAGGCATGCCCCCGGGGGGCCGAGGCCGAGGAAGAGGCCAAGGCAATTGGGGT"
+    },
+    {
+        "protein": "P49716",
+        "prot_region": [
+            178,
+            195
+        ],
+        "prot_seq": "REKSAGKRGPDRGSPEYR",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 47737536,
+                "end": 47737589,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "CGGGAGAAGAGCGCCGGCAAGAGGGGCCCGGACCGCGGCAGCCCCGAGTACCGG"
+    },
+    {
+        "protein": "P98179",
+        "prot_region": [
+            81,
+            112
+        ],
+        "prot_seq": "HAGKSARGTRGGGFGAHGRGRSYSRGGGDQGY",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 48576344,
+                "end": 48576419,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 75
+            },
+            {
+                "chrom": "chrX",
+                "start": 48576508,
+                "end": 48576527,
+                "strand": "+",
+                "merged_start": 76,
+                "merged_end": 95
+            }
+        ],
+        "dna": "CATGCAGGCAAGTCTGCTCGGGGAACCAGAGGAGGTGGCTTTGGGGCCCATGGGCGTGGTCGCAGCTACTCTAGAGGTGGTGGGGACCAGGGCTAT"
+    },
+    {
+        "protein": "Q9NQI0",
+        "prot_region": [
+            119,
+            137
+        ],
+        "prot_seq": "DNPTRNRGFSKRGGYRDGN",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 55767901,
+                "end": 55767940,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 39
+            },
+            {
+                "chrom": "chr5",
+                "start": 55779964,
+                "end": 55779980,
+                "strand": "+",
+                "merged_start": 40,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GATAATCCAACACGGAACAGAGGGTTTTCCAAGAGAGGCGGCTATCGAGATGGAAAT"
+    },
+    {
+        "protein": "Q9NQI0",
+        "prot_region": [
+            141,
+            164
+        ],
+        "prot_seq": "ASGPYRRGGRGSFRGCRGGFGLGS",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 55779990,
+                "end": 55780061,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "GCTTCAGGGCCATACAGAAGAGGTGGAAGAGGTAGTTTCCGAGGTTGCCGTGGAGGATTTGGTCTAGGAAGT"
+    },
+    {
+        "protein": "Q9NWH9",
+        "prot_region": [
+            927,
+            947
+        ],
+        "prot_seq": "YGSREGDRGVITDRGGGSQHY",
+        "intervals": [
+            {
+                "chrom": "chr15",
+                "start": 58886975,
+                "end": 58887031,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            },
+            {
+                "chrom": "chr15",
+                "start": 58883781,
+                "end": 58883786,
+                "strand": "-",
+                "merged_start": 57,
+                "merged_end": 62
+            }
+        ],
+        "dna": "TACGGGAGCAGAGAGGGAGACAGAGGAGTCATCACAGACCGAGGAGGTGGATCACAGCACTAT"
+    },
+    {
+        "protein": "Q96QC0",
+        "prot_region": [
+            682,
+            700
+        ],
+        "prot_seq": "GPGDPMRGGPMRGGPGPGP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 30602549,
+                "end": 30602605,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGCCCGGGCGACCCTATGCGGGGTGGCCCAATGCGGGGGGGTCCAGGACCAGGTCCT"
+    },
+    {
+        "protein": "Q96QC0",
+        "prot_region": [
+            699,
+            717
+        ],
+        "prot_seq": "GPGPYHRGRGGRGGNEPPP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 30602498,
+                "end": 30602554,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGTCCTGGACCATACCATAGAGGCCGAGGTGGCCGAGGAGGAAACGAACCTCCTCCT"
+    },
+    {
+        "protein": "Q96QC0",
+        "prot_region": [
+            717,
+            733
+        ],
+        "prot_seq": "PPPPPFRGARGGRSGGG",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 30602450,
+                "end": 30602500,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "CCTCCTCCTCCTCCATTCCGAGGCGCCAGAGGAGGTCGCTCTGGAGGAGGA"
+    },
+    {
+        "protein": "Q96QC0",
+        "prot_region": [
+            861,
+            887
+        ],
+        "prot_seq": "PHDVPGHRGHDHRGPPPHEHRGHDGPG",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 30601988,
+                "end": 30602068,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 80
+            }
+        ],
+        "dna": "CCTCATGATGTCCCTGGTCACCGAGGCCATGACCATCGAGGGCCGCCACCTCATGAGCACCGTGGCCATGATGGTCCTGGC"
+    },
+    {
+        "protein": "Q07666",
+        "prot_region": [
+            39,
+            59
+        ],
+        "prot_seq": "PLPHRSRGGGGGSRGGARASP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 32014110,
+                "end": 32014172,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CCGCTGCCTCACCGGTCCCGGGGAGGCGGAGGGGGATCCCGCGGGGGCGCCCGGGCCTCGCCC"
+    },
+    {
+        "protein": "Q07666",
+        "prot_region": [
+            277,
+            297
+        ],
+        "prot_seq": "VPEPSRGRGVPVRGRGAAPPP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 32036967,
+                "end": 32037029,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GTACCTGAACCCTCTCGTGGACGTGGGGTGCCAGTGAGAGGCCGGGGAGCTGCACCTCCTCCA"
+    },
+    {
+        "protein": "Q8N1G0",
+        "prot_region": [
+            1054,
+            1072
+        ],
+        "prot_seq": "GAQSPGRGTTLARGSSARA",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 151290514,
+                "end": 151290570,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGGGCCCAGTCCCCTGGCCGGGGGACCACCTTGGCTCGGGGTTCCAGTGCCAGAGCC"
+    },
+    {
+        "protein": "Q9H0L4",
+        "prot_region": [
+            367,
+            388
+        ],
+        "prot_seq": "ASGHDTRGPSSHEMRGGPLGDP",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 51698386,
+                "end": 51698451,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "GCCTCTGGTCATGACACTCGTGGCCCTTCCTCACATGAGATGAGGGGAGGGCCATTAGGAGATCCC"
+    },
+    {
+        "protein": "Q9H0L4",
+        "prot_region": [
+            390,
+            417
+        ],
+        "prot_seq": "LLIGEPRGPMIDQRGLPMDGRGGRDSRA",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 51698299,
+                "end": 51698382,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "CTGCTAATTGGAGAGCCCAGAGGCCCCATGATAGATCAAAGGGGTCTACCTATGGATGGTAGAGGTGGTAGAGATTCTCGAGCG"
+    },
+    {
+        "protein": "Q6PJG2",
+        "prot_region": [
+            100,
+            117
+        ],
+        "prot_seq": "SVMAPGRGPERGGGGGVS",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 73739658,
+                "end": 73739711,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "TCTGTGATGGCTCCAGGGCGGGGCCCGGAGCGTGGAGGAGGTGGGGGTGTCAGT"
+    },
+    {
+        "protein": "Q9UIF9",
+        "prot_region": [
+            665,
+            679
+        ],
+        "prot_seq": "EVPKVKRGRGRPPKV",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 56609797,
+                "end": 56609841,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GAAGTCCCCAAGGTGAAACGGGGTCGAGGTCGGCCACCTAAGGTC"
+    },
+    {
+        "protein": "Q9Y4Z0",
+        "prot_region": [
+            83,
+            97
+        ],
+        "prot_seq": "VVAKGRGRGGLQQQK",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 18309715,
+                "end": 18309759,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GTGGTGGCCAAGGGCCGCGGCCGCGGAGGCCTGCAGCAGCAGAAG"
+    },
+    {
+        "protein": "Q9Y4Z0",
+        "prot_region": [
+            96,
+            131
+        ],
+        "prot_seq": "QKQQKGRGMGGAGRGVFGGRGRGGIPGTGRGQPEKK",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 18309678,
+                "end": 18309720,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 42
+            },
+            {
+                "chrom": "chr19",
+                "start": 18307491,
+                "end": 18307555,
+                "strand": "-",
+                "merged_start": 43,
+                "merged_end": 107
+            }
+        ],
+        "dna": "CAGAAGCAGCAGAAAGGCCGCGGCATGGGCGGCGCTGGCCGAGGTGTGTTTGGTGGCCGGGGCCGAGGTGGGATCCCGGGCACAGGCAGAGGCCAGCCAGAGAAGAAG"
+    },
+    {
+        "protein": "P52926",
+        "prot_region": [
+            21,
+            35
+        ],
+        "prot_seq": "APAPQKRGRGRPRKQ",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 65825331,
+                "end": 65825375,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GCCCCAGCGCCTCAGAAGAGAGGACGCGGCCGCCCCAGGAAGCAG"
+    },
+    {
+        "protein": "Q7Z6E9",
+        "prot_region": [
+            730,
+            744
+        ],
+        "prot_seq": "SPPYPRRGRGKSRNY",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 24568878,
+                "end": 24568922,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "TCACCTCCATACCCCAGAAGAGGCAGAGGCAAGAGCCGCAATTAC"
+    },
+    {
+        "protein": "O75526",
+        "prot_region": [
+            88,
+            131
+        ],
+        "prot_seq": "AFESSRRGPPPPRSRGRPRFLRGTRGGGGGPRRSPSRGGPDDDG",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 7089382,
+                "end": 7089513,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 131
+            }
+        ],
+        "dna": "GCGTTCGAGAGCAGCCGGCGGGGCCCGCCGCCTCCCCGCAGCCGCGGTCGCCCGAGGTTCCTGCGCGGAACCCGCGGGGGTGGCGGCGGCCCGCGGCGTTCCCCATCCCGGGGCGGGCCCGATGATGACGGC"
+    },
+    {
+        "protein": "O75526",
+        "prot_region": [
+            284,
+            302
+        ],
+        "prot_seq": "ESYGELRGAAPGRGTPPSY",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 7089970,
+                "end": 7090026,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GAGAGCTACGGAGAGCTGCGCGGCGCCGCCCCAGGACGGGGGACACCGCCATCTTAC"
+    },
+    {
+        "protein": "O75526",
+        "prot_region": [
+            342,
+            362
+        ],
+        "prot_seq": "RVGRPDRGLSLSMERGCPPQR",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 7090144,
+                "end": 7090206,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CGGGTGGGCAGACCAGATCGTGGGCTCTCTCTGTCCATGGAAAGGGGCTGCCCTCCCCAGCGT"
+    },
+    {
+        "protein": "Q07955",
+        "prot_region": [
+            87,
+            115
+        ],
+        "prot_seq": "EFPRSGRGTGRGGGGGGGGGAPRGRYGPP",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 58006377,
+                "end": 58006463,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 86
+            }
+        ],
+        "dna": "GAGTTTCCTCGAAGCGGCCGTGGAACAGGCCGAGGCGGCGGCGGGGGTGGAGGTGGCGGAGCTCCCCGAGGTCGCTATGGCCCCCCA"
+    },
+    {
+        "protein": "Q96MU7",
+        "prot_region": [
+            713,
+            727
+        ],
+        "prot_seq": "CDRDRDRGERGRYRR",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 68314102,
+                "end": 68314146,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "TGTGATCGAGACAGAGACCGAGGGGAGAGAGGTCGATATAGAAGA"
+    },
+    {
+        "protein": "Q9HCM7",
+        "prot_region": [
+            43,
+            61
+        ],
+        "prot_seq": "GKENAGLRGAPPRGAAPAP",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 132490697,
+                "end": 132490753,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGCAAGGAGAACGCGGGCCTCCGCGGCGCGCCCCCCCGAGGCGCCGCCCCCGCGCCC"
+    },
+    {
+        "protein": "Q9P013",
+        "prot_region": [
+            7,
+            22
+        ],
+        "prot_seq": "PTFEPARGGRGKGEGD",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 94972120,
+                "end": 94972167,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CCAACCTTTGAACCTGCCAGAGGTGGAAGGGGAAAAGGAGAAGGTGAT"
+    },
+    {
+        "protein": "P55197",
+        "prot_region": [
+            671,
+            688
+        ],
+        "prot_seq": "SRNLVGRGSSPRGSLSPR",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 21727876,
+                "end": 21727928,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 52
+            },
+            {
+                "chrom": "chr10",
+                "start": 21730900,
+                "end": 21730900,
+                "strand": "+",
+                "merged_start": 53,
+                "merged_end": 53
+            }
+        ],
+        "dna": "AGCCGCAACCTAGTTGGCAGAGGAAGCTCACCCCGAGGAAGTCTCTCGCCACGA"
+    },
+    {
+        "protein": "A7MD48",
+        "prot_region": [
+            348,
+            365
+        ],
+        "prot_seq": "NLSPTSRGRESRGFQSPC",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 119145651,
+                "end": 119145685,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 34
+            },
+            {
+                "chrom": "chr12",
+                "start": 119151017,
+                "end": 119151035,
+                "strand": "+",
+                "merged_start": 35,
+                "merged_end": 53
+            }
+        ],
+        "dna": "AATCTCTCCCCCACCAGCAGGGGCAGAGAGTCAAGGGGATTTCAGTCACCGTGT"
+    },
+    {
+        "protein": "Q96EV2",
+        "prot_region": [
+            269,
+            292
+        ],
+        "prot_seq": "GRYSSRRGGRRGGPLMCRGVGDQR",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 155706925,
+                "end": 155706996,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "GGACGCTACAGCTCCAGGCGGGGAGGACGGCGAGGAGGTCCGCTGATGTGTCGTGGTGTGGGGGACCAGAGG"
+    },
+    {
+        "protein": "P51114",
+        "prot_region": [
+            380,
+            397
+        ],
+        "prot_seq": "SRSYSGRGRGRRGPNYTS",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 180963030,
+                "end": 180963083,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "TCTAGGTCTTATAGCGGAAGAGGCAGAGGTCGTCGGGGACCTAATTACACCTCC"
+    },
+    {
+        "protein": "P51114",
+        "prot_region": [
+            438,
+            466
+        ],
+        "prot_seq": "SRRRPGGRGRSVSGGRGRGGPRGGKSSIS",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 180968164,
+                "end": 180968250,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 86
+            }
+        ],
+        "dna": "AGCAGGAGACGCCCAGGAGGAAGAGGCAGAAGTGTTTCAGGGGGTCGAGGTCGTGGTGGACCACGTGGTGGCAAATCCTCCATCAGT"
+    },
+    {
+        "protein": "Q5TGY3",
+        "prot_region": [
+            720,
+            734
+        ],
+        "prot_seq": "",
+        "intervals": [],
+        "dna": "",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q5TGY3",
+        "prot_region": [
+            1266,
+            1282
+        ],
+        "prot_seq": "",
+        "intervals": [],
+        "dna": "",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "P0DJD3",
+        "prot_region": [
+            107,
+            126
+        ],
+        "prot_seq": "GSLRSARGSRGGTRGWLPSH",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21540703,
+                "end": 21540762,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GGAAGTCTGAGATCTGCAAGAGGAAGCCGTGGAGGAACAAGAGGGTGGCTTCCCTCACAT"
+    },
+    {
+        "protein": "P0DJD3",
+        "prot_region": [
+            139,
+            158
+        ],
+        "prot_seq": "LKMSYSRGLIPVKRGPSSRS",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21542714,
+                "end": 21542773,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CTCAAGATGAGTTATTCTAGGGGACTCATTCCAGTTAAAAGAGGTCCATCTTCAAGAAGT"
+    },
+    {
+        "protein": "Q9NQ55",
+        "prot_region": [
+            420,
+            434
+        ],
+        "prot_seq": "KRWEMDRGRGRLCDQ",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 10111001,
+                "end": 10111045,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "AAGCGGTGGGAAATGGATCGAGGCAGGGGTCGCCTTTGTGACCAG"
+    },
+    {
+        "protein": "Q9NQ55",
+        "prot_region": [
+            444,
+            471
+        ],
+        "prot_seq": "QGAQARRGPRGASRDGGRGRGRGRPGKR",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 10111073,
+                "end": 10111156,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "CAGGGAGCCCAGGCCAGGCGGGGGCCCAGAGGGGCTTCCCGGGATGGTGGGCGAGGCCGGGGCCGGGGCCGCCCAGGGAAGAGA"
+    },
+    {
+        "protein": "Q9P2N5",
+        "prot_region": [
+            946,
+            968
+        ],
+        "prot_seq": "TMSSQGRGRGRGRGGRGRGSLNH",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 146271522,
+                "end": 146271590,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "ACCATGTCCTCTCAAGGTCGAGGAAGAGGCCGAGGGCGTGGAGGAAGAGGAAGGGGCTCACTAAATCAC"
+    },
+    {
+        "protein": "O60281",
+        "prot_region": [
+            1341,
+            1355
+        ],
+        "prot_seq": "EKVKKDRGRGPNGKE",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 87257650,
+                "end": 87257694,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GAAAAAGTTAAAAAAGACCGTGGGCGGGGCCCAAATGGGAAGGAA"
+    },
+    {
+        "protein": "A6NDE4",
+        "prot_region": [
+            107,
+            126
+        ],
+        "prot_seq": "GSLRSARGSRGGTRGWLPSQ",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21517162,
+                "end": 21517221,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GGAAGTCTGAGATCTGCAAGAGGAAGCCGTGGAGGAACAAGAGGGTGGCTTCCCTCACAA"
+    },
+    {
+        "protein": "A6NDE4",
+        "prot_region": [
+            139,
+            158
+        ],
+        "prot_seq": "LKMSYSRGLIPVKRGPSSRS",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21519173,
+                "end": 21519232,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CTCAAGATGAGTTATTCTAGGGGACTCATTCCAGTTAAAAGAGGTCCATCTTCAAGAAGT"
+    },
+    {
+        "protein": "O43583",
+        "prot_region": [
+            92,
+            107
+        ],
+        "prot_seq": "EKKKQKRGGRGQIKQK",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 122765366,
+                "end": 122765387,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 21
+            },
+            {
+                "chrom": "chr12",
+                "start": 122767488,
+                "end": 122767513,
+                "strand": "+",
+                "merged_start": 22,
+                "merged_end": 47
+            }
+        ],
+        "dna": "GAGAAGAAAAAACAGAAGAGAGGTGGAAGGGGTCAAATAAAACAAAAA"
+    },
+    {
+        "protein": "Q9NYF8",
+        "prot_region": [
+            59,
+            84
+        ],
+        "prot_seq": "RDYRNNRGMRRPYGYRGRGRGYYQGG",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 136278629,
+                "end": 136278706,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 77
+            }
+        ],
+        "dna": "CGCGATTACAGAAATAATAGAGGAATGAGACGACCTTATGGGTACAGAGGAAGGGGTAGAGGGTATTATCAAGGAGGA"
+    },
+    {
+        "protein": "Q9NYF8",
+        "prot_region": [
+            857,
+            879
+        ],
+        "prot_seq": "DYWAKRGRGRGTFQRGRGRFNFK",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 136261385,
+                "end": 136261453,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "GATTATTGGGCCAAAAGAGGAAGAGGTCGTGGTACTTTTCAACGTGGCAGAGGGCGCTTTAACTTCAAA"
+    },
+    {
+        "protein": "Q96AE4",
+        "prot_region": [
+            352,
+            368
+        ],
+        "prot_seq": "GGPGPGGRGRGRGQGNW",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 77963653,
+                "end": 77963703,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GGTGGACCTGGACCTGGTGGTCGAGGAAGAGGTAGAGGTCAAGGCAACTGG"
+    },
+    {
+        "protein": "Q01081",
+        "prot_region": [
+            203,
+            218
+        ],
+        "prot_seq": "RSRSRDRGRGGGGGGG",
+        "intervals": [
+            {
+                "chrom": "chr21",
+                "start": 43093171,
+                "end": 43093218,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CGTTCTCGGTCTAGAGACCGTGGTCGTGGCGGTGGCGGTGGCGGTGGT"
+    },
+    {
+        "protein": "Q04637",
+        "prot_region": [
+            675,
+            700
+        ],
+        "prot_seq": "RTTLSTRGPPRGGPGGELPRGPAGLG",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 184323176,
+                "end": 184323241,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            },
+            {
+                "chrom": "chr3",
+                "start": 184323408,
+                "end": 184323419,
+                "strand": "+",
+                "merged_start": 66,
+                "merged_end": 77
+            }
+        ],
+        "dna": "CGGACAACCCTTAGCACCCGTGGGCCCCCAAGGGGTGGGCCAGGTGGGGAGCTGCCCCGTGGGCCGGCTGGCCTGGGA"
+    },
+    {
+        "protein": "Q04637",
+        "prot_region": [
+            1144,
+            1163
+        ],
+        "prot_seq": "SSLSRERGEKAGDRGDRLER",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 184327217,
+                "end": 184327276,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AGTAGCTTGAGCCGAGAACGAGGCGAGAAAGCTGGAGACCGAGGAGACCGCCTAGAGCGG"
+    },
+    {
+        "protein": "Q04637",
+        "prot_region": [
+            1160,
+            1176
+        ],
+        "prot_seq": "RLERSERGGDRGDRLDR",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 184327265,
+                "end": 184327315,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "CGCCTAGAGCGGAGTGAACGGGGAGGGGACCGTGGGGACCGGCTTGATCGT"
+    },
+    {
+        "protein": "P67809",
+        "prot_region": [
+            233,
+            253
+        ],
+        "prot_seq": "VRQNMYRGYRPRFRRGPPRQR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 42697219,
+                "end": 42697262,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 43
+            },
+            {
+                "chrom": "chr1",
+                "start": 42700781,
+                "end": 42700799,
+                "strand": "+",
+                "merged_start": 44,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GTGAGGCAGAATATGTATCGGGGATATAGACCACGATTCCGCAGGGGCCCTCCTCGCCAAAGA"
+    },
+    {
+        "protein": "P23588",
+        "prot_region": [
+            255,
+            274
+        ],
+        "prot_seq": "RDRYDDRGSRDYDRGYDSRI",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 53027877,
+                "end": 53027919,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 42
+            },
+            {
+                "chrom": "chr12",
+                "start": 53028015,
+                "end": 53028031,
+                "strand": "+",
+                "merged_start": 43,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CGGGATCGCTATGATGACCGAGGCAGCAGAGACTATGATAGAGGCTATGATTCCCGGATA"
+    },
+    {
+        "protein": "Q12830",
+        "prot_region": [
+            0,
+            11
+        ],
+        "prot_seq": "MRGRRGRPPKQ",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 67825725,
+                "end": 67825757,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 32
+            }
+        ],
+        "dna": "ATGAGGGGCCGGCGGGGCAGGCCGCCCAAGCAG",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q12830",
+        "prot_region": [
+            38,
+            54
+        ],
+        "prot_seq": "GLRSRHRGSSRGRWAAA",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 67825836,
+                "end": 67825886,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GGGCTCCGCTCGCGGCACCGCGGCAGCAGCCGGGGCAGGTGGGCCGCCGCC"
+    },
+    {
+        "protein": "Q12830",
+        "prot_region": [
+            86,
+            102
+        ],
+        "prot_seq": "STSAPGRGGRGGGGGRT",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 67825980,
+                "end": 67826030,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "AGCACCAGCGCCCCGGGCCGGGGGGGGCGAGGAGGCGGGGGCGGCAGGACG"
+    },
+    {
+        "protein": "Q6PKG0",
+        "prot_region": [
+            332,
+            358
+        ],
+        "prot_seq": "GARASFRGRGRGRGRGRGRGRGGTRTH",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 154793925,
+                "end": 154794000,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 75
+            },
+            {
+                "chrom": "chr5",
+                "start": 154794100,
+                "end": 154794104,
+                "strand": "+",
+                "merged_start": 76,
+                "merged_end": 80
+            }
+        ],
+        "dna": "GGGGCGCGGGCTTCCTTCCGTGGCCGTGGACGGGGGCGTGGTCGCGGCCGGGGACGCGGCCGGGGTGGCACTCGAACCCAT"
+    },
+    {
+        "protein": "Q9UN86",
+        "prot_region": [
+            299,
+            317
+        ],
+        "prot_seq": "RPGFPPRGPRPGRGDMEQN",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 75648639,
+                "end": 75648672,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 33
+            },
+            {
+                "chrom": "chr4",
+                "start": 75647135,
+                "end": 75647157,
+                "strand": "-",
+                "merged_start": 34,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CGACCTGGTTTTCCTCCTAGAGGACCAAGACCAGGCAGAGGAGATATGGAACAGAAT"
+    },
+    {
+        "protein": "Q9UN86",
+        "prot_region": [
+            426,
+            444
+        ],
+        "prot_seq": "DIRRNDRGPGGPRGIVGGG",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 75645547,
+                "end": 75645603,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GATATTAGGCGCAATGATCGAGGTCCCGGTGGTCCACGTGGAATTGTGGGTGGTGGA"
+    },
+    {
+        "protein": "Q9UN86",
+        "prot_region": [
+            446,
+            464
+        ],
+        "prot_seq": "MRDRDGRGPPPRGGMAQKL",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 75645487,
+                "end": 75645543,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "ATGCGTGATCGTGATGGAAGAGGACCTCCTCCAAGGGGTGGCATGGCACAGAAACTT"
+    },
+    {
+        "protein": "P78364",
+        "prot_region": [
+            870,
+            889
+        ],
+        "prot_seq": "IQGKCHRGQEDSSRGSDNSS",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 8937306,
+                "end": 8937326,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 20
+            },
+            {
+                "chrom": "chr12",
+                "start": 8937829,
+                "end": 8937867,
+                "strand": "+",
+                "merged_start": 21,
+                "merged_end": 59
+            }
+        ],
+        "dna": "ATTCAGGGCAAGTGCCACCGGGGTCAAGAAGACTCTAGCCGGGGTTCAGATAATTCCAGT"
+    },
+    {
+        "protein": "A2AJT9",
+        "prot_region": [
+            92,
+            109
+        ],
+        "prot_seq": "MYKPHRGYSPGRGDSNRR",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 19966364,
+                "end": 19966417,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "ATGTATAAGCCTCACAGAGGATATTCGCCTGGAAGAGGGGACAGTAACAGGAGA"
+    },
+    {
+        "protein": "Q8TAD8",
+        "prot_region": [
+            59,
+            77
+        ],
+        "prot_seq": "EPARSGHRGNRARGVSRSP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 37554006,
+                "end": 37554055,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 49
+            },
+            {
+                "chrom": "chr1",
+                "start": 37552741,
+                "end": 37552747,
+                "strand": "-",
+                "merged_start": 50,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GAGCCGGCCCGCTCGGGCCACCGCGGGAACCGAGCCCGAGGAGTTAGCCGGTCCCCA"
+    },
+    {
+        "protein": "Q92804",
+        "prot_region": [
+            169,
+            201
+        ],
+        "prot_seq": "RYGEDNRGYGGSQGGGRGRGGYDKDGRGPMTGS",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 35824098,
+                "end": 35824196,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 98
+            }
+        ],
+        "dna": "AGGTATGGAGAAGATAATAGAGGATATGGCGGGTCACAGGGAGGAGGTAGAGGGCGTGGGGGATATGACAAGGATGGAAGAGGTCCTATGACAGGATCA"
+    },
+    {
+        "protein": "Q92804",
+        "prot_region": [
+            321,
+            356
+        ],
+        "prot_seq": "RPEFMRGGGSGGGRRGRGGYRGRGGFQGRGGDPKSG",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 35842414,
+                "end": 35842459,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 45
+            },
+            {
+                "chrom": "chr17",
+                "start": 35844077,
+                "end": 35844138,
+                "strand": "+",
+                "merged_start": 46,
+                "merged_end": 107
+            }
+        ],
+        "dna": "AGACCTGAATTCATGAGAGGAGGTGGAAGTGGAGGTGGGCGGCGAGGCCGTGGAGGATATAGAGGTCGTGGAGGCTTTCAAGGGAGAGGTGGAGACCCCAAAAGTGGG"
+    },
+    {
+        "protein": "Q92804",
+        "prot_region": [
+            389,
+            422
+        ],
+        "prot_seq": "PSGGDFRGRGYGGERGYRGRGGRGGDRGGYGGDR",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 35844356,
+                "end": 35844368,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 12
+            },
+            {
+                "chrom": "chr17",
+                "start": 35844477,
+                "end": 35844565,
+                "strand": "+",
+                "merged_start": 13,
+                "merged_end": 101
+            }
+        ],
+        "dna": "CCCTCAGGAGGAGATTTCCGGGGGAGAGGCTACGGTGGAGAGAGGGGCTACAGAGGTCGTGGGGGCAGAGGTGGAGACCGAGGCGGCTATGGTGGAGACAGA"
+    },
+    {
+        "protein": "Q92804",
+        "prot_region": [
+            451,
+            542
+        ],
+        "prot_seq": "SGGGYGGDRGGGYGGDRGGGYGGDRGGGYGGDRGGYGGDRGGGYGGDRGGYGGDRGGYGGDRGGYGGDRGGYGGDRSRGGYGGDRGGGSGYG",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 35844650,
+                "end": 35844925,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 275
+            }
+        ],
+        "dna": "AGTGGGGGTGGCTATGGTGGGGACAGAGGCGGCGGCTATGGTGGGGACAGAGGAGGCGGCTATGGAGGAGACCGAGGAGGTGGCTATGGAGGAGATCGAGGTGGCTATGGAGGAGACCGAGGTGGAGGCTATGGTGGAGACCGAGGAGGCTATGGAGGAGATCGAGGAGGTTACGGAGGAGATCGAGGAGGTTATGGAGGAGATCGAGGAGGCTATGGAGGAGACAGAAGCCGGGGGGGCTATGGAGGAGACCGTGGTGGTGGCAGTGGCTACGGT"
+    },
+    {
+        "protein": "Q92804",
+        "prot_region": [
+            554,
+            577
+        ],
+        "prot_seq": "SGGGYGGDRGGGYGGDRGGYGGKM",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 35844959,
+                "end": 35845030,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "AGTGGTGGCGGCTATGGAGGAGACCGAGGTGGGGGCTACGGAGGAGACCGAGGTGGCTATGGAGGCAAAATG"
+    },
+    {
+        "protein": "Q6NZI2",
+        "prot_region": [
+            349,
+            368
+        ],
+        "prot_seq": "DEGGAERGEAGDLRRGSSPD",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 42404756,
+                "end": 42404815,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GACGAGGGCGGCGCGGAGCGCGGGGAGGCCGGCGACCTGCGGCGCGGGAGCAGCCCCGAC"
+    },
+    {
+        "protein": "P58340",
+        "prot_region": [
+            43,
+            61
+        ],
+        "prot_seq": "SISDGRGRAHNRRGHNDGE",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 158592513,
+                "end": 158592569,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "AGTATCTCTGATGGTAGAGGGAGAGCTCATAATCGTAGAGGACATAATGATGGTGAA"
+    },
+    {
+        "protein": "Q8NC51",
+        "prot_region": [
+            157,
+            194
+        ],
+        "prot_seq": "IIDRPIRGRGGLGRGRGGRGRGMGRGDGFDSRGKREFD",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 67425106,
+                "end": 67425219,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 113
+            }
+        ],
+        "dna": "ATTATTGACCGACCTATTCGAGGTCGTGGTGGTCTTGGAAGAGGTCGAGGGGGCCGTGGACGTGGAATGGGCCGAGGAGATGGATTTGATTCTCGTGGCAAACGTGAATTTGAT"
+    },
+    {
+        "protein": "Q8NC51",
+        "prot_region": [
+            361,
+            390
+        ],
+        "prot_seq": "DLGRPGRGGRGGRGGRGRGGRPNRGSRTDK",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 67415166,
+                "end": 67415255,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 89
+            }
+        ],
+        "dna": "GACCTTGGCCGCCCAGGACGTGGCGGCAGGGGAGGACGAGGTGGACGTGGGCGTGGTGGGCGCCCAAACCGTGGCAGCAGGACCGACAAG"
+    },
+    {
+        "protein": "P38159",
+        "prot_region": [
+            97,
+            132
+        ],
+        "prot_seq": "PPPPRSRGPPRGLRGGRGGSGGTRGPPSRGGHMDDG",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 136877915,
+                "end": 136878014,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 99
+            },
+            {
+                "chrom": "chrX",
+                "start": 136876648,
+                "end": 136876655,
+                "strand": "-",
+                "merged_start": 100,
+                "merged_end": 107
+            }
+        ],
+        "dna": "CCTCCACCTCCAAGAAGTAGAGGCCCTCCAAGAGGTCTTAGAGGTGGAAGAGGAGGAAGTGGAGGAACCAGGGGACCTCCCTCACGGGGAGGACACATGGATGACGGT"
+    },
+    {
+        "protein": "P38159",
+        "prot_region": [
+            138,
+            157
+        ],
+        "prot_seq": "FNMSSSRGPLPVKRGPPPRS",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 136876573,
+                "end": 136876632,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "TTTAACATGAGTTCTTCCAGGGGACCACTCCCAGTAAAAAGAGGACCACCACCAAGAAGT"
+    },
+    {
+        "protein": "P38159",
+        "prot_region": [
+            341,
+            361
+        ],
+        "prot_seq": "RVGRQERGLPPSMERGYPPPR",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 136874235,
+                "end": 136874297,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CGGGTTGGCAGACAAGAAAGAGGGCTTCCCCCTTCTATGGAAAGGGGGTACCCTCCTCCACGT"
+    },
+    {
+        "protein": "P38159",
+        "prot_region": [
+            363,
+            391
+        ],
+        "prot_seq": "SYSSSSRGAPRGGGRGGSRSDRGGGRSRY",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 136874145,
+                "end": 136874231,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 86
+            }
+        ],
+        "dna": "TCCTACAGCAGTTCAAGCCGCGGAGCACCAAGAGGTGGTGGCCGTGGAGGAAGCCGATCTGATAGAGGGGGAGGCAGAAGCAGATAC"
+    },
+    {
+        "protein": "Q15020",
+        "prot_region": [
+            612,
+            629
+        ],
+        "prot_seq": "KKKKKIRGPEKRGADEDD",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 108530170,
+                "end": 108530223,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "AAAAAGAAGAAAAAGATCAGAGGCCCAGAGAAGCGCGGAGCAGATGAGGATGAT"
+    },
+    {
+        "protein": "P42696",
+        "prot_region": [
+            38,
+            56
+        ],
+        "prot_seq": "VASSLFRGEHHSRGGTGRL",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 235160953,
+                "end": 235161009,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GTCGCCAGTAGCTTATTTCGCGGCGAACACCATTCCAGAGGTGGCACCGGTCGGCTG"
+    },
+    {
+        "protein": "Q14152",
+        "prot_region": [
+            954,
+            976
+        ],
+        "prot_seq": "DDRVPRRGMDDDRGPRRGPEEDR",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 119042592,
+                "end": 119042660,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "GATGATCGGGTTCCCCGGCGTGGCATGGATGATGACAGAGGCCCTAGACGTGGTCCTGAGGAAGATAGG"
+    },
+    {
+        "protein": "Q14152",
+        "prot_region": [
+            1014,
+            1032
+        ],
+        "prot_seq": "DDRPPRRGLDEDRGSWRTA",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 119042424,
+                "end": 119042480,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GATGACAGACCACCTAGACGAGGACTGGATGAGGACAGAGGAAGCTGGCGAACAGCT"
+    },
+    {
+        "protein": "Q14152",
+        "prot_region": [
+            1030,
+            1057
+        ],
+        "prot_seq": "RTADEDRGPRRGMDDDRGPRRGGADDER",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 119042349,
+                "end": 119042432,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "CGAACAGCTGATGAGGACAGAGGACCAAGACGTGGGATGGATGATGACCGGGGGCCGAGGCGAGGAGGCGCTGATGATGAGCGA"
+    },
+    {
+        "protein": "Q14152",
+        "prot_region": [
+            1061,
+            1123
+        ],
+        "prot_seq": "RNADDDRGPRRGLDDDRGPRRGMDDDRGPRRGMDDDRGPRRGMDDDRGPRRGLDDDRGPWRNA",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 119042151,
+                "end": 119042339,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 188
+            }
+        ],
+        "dna": "CGTAATGCTGATGATGACCGGGGTCCCAGGCGAGGGTTGGATGATGATCGGGGTCCCAGGCGAGGCATGGATGATGACCGGGGTCCCAGGCGAGGCATGGATGATGACCGGGGTCCCAGGCGAGGCATGGATGATGACCGGGGTCCCAGGCGAGGGTTGGATGATGATCGAGGACCTTGGAGGAACGCC"
+    },
+    {
+        "protein": "Q14152",
+        "prot_region": [
+            1125,
+            1143
+        ],
+        "prot_seq": "DDRIPRRGAEDDRGPWRNM",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 119042091,
+                "end": 119042147,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GATGACAGAATTCCCAGGCGTGGTGCAGAGGATGACAGGGGCCCTTGGAGAAACATG"
+    },
+    {
+        "protein": "P0C7P1",
+        "prot_region": [
+            107,
+            126
+        ],
+        "prot_seq": "GSLRSARGSRGGTRGWLPSQ",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21888641,
+                "end": 21888700,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GGAAGTCTGAGATCTGCAAGAGGAAGCCGTGGAGGAACAAGAGGGTGGCTTCCCTCACAA"
+    },
+    {
+        "protein": "P0C7P1",
+        "prot_region": [
+            139,
+            158
+        ],
+        "prot_seq": "LKMSYSRGLIPVKRGPSSRS",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 21886630,
+                "end": 21886689,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CTCAAGATGAGTTATTCTAGGGGACTCATTCCAGTTAAAAGAGGTCCATCTTCAAGAAGT"
+    },
+    {
+        "protein": "P23246",
+        "prot_region": [
+            3,
+            32
+        ],
+        "prot_seq": "RDRFRSRGGGGGGFHRRGGGGGRGGLHDFR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 35192954,
+                "end": 35193043,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 89
+            }
+        ],
+        "dna": "CGGGATCGGTTCCGGAGTCGTGGCGGTGGCGGTGGTGGCTTCCACAGGCGTGGAGGAGGCGGCGGCCGCGGCGGCCTCCACGACTTCCGT"
+    },
+    {
+        "protein": "P23246",
+        "prot_region": [
+            230,
+            249
+        ],
+        "prot_seq": "HPKPPHRGGGEPRGGRQHHP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 35192303,
+                "end": 35192362,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CACCCCAAGCCGCCGCATCGAGGCGGCGGGGAGCCCCGCGGGGGCCGCCAGCACCACCCG"
+    },
+    {
+        "protein": "Q15415",
+        "prot_region": [
+            107,
+            126
+        ],
+        "prot_seq": "GSLRSARGSSGGTRGWLPSH",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 22177107,
+                "end": 22177166,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GGAAGTCTGAGATCTGCAAGAGGAAGCAGTGGAGGAACAAGAGGGTGGCTTCCCTCACAT"
+    },
+    {
+        "protein": "Q15415",
+        "prot_region": [
+            139,
+            158
+        ],
+        "prot_seq": "LKMSYSRGLIPVKRGPSSRS",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 22175096,
+                "end": 22175155,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CTCAAGATGAGTTATTCTAGGGGACTCATTCCAGTTAAAAGAGGTCCATCTTCAAGAAGT"
+    },
+    {
+        "protein": "Q9NQV6",
+        "prot_region": [
+            383,
+            400
+        ],
+        "prot_seq": "QSSLEHEPETHTLHLQPQ",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 129931088,
+                "end": 129931141,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "CAGTCTTCCCTGGAACATGAACCAGAAACTCACACCCTGCACCTGCAGCCGCAG"
+    },
+    {
+        "protein": "Q9Y3Y2",
+        "prot_region": [
+            148,
+            208
+        ],
+        "prot_seq": "RMGLRRGGVRGRGGPGRGGLGRGAMGRGGIGGRGRGMIGRGRGGFGGRGRGRGRGRGALAR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 153643265,
+                "end": 153643364,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 99
+            },
+            {
+                "chrom": "chr1",
+                "start": 153645064,
+                "end": 153645146,
+                "strand": "+",
+                "merged_start": 100,
+                "merged_end": 182
+            }
+        ],
+        "dna": "CGAATGGGCTTAAGAAGAGGTGGTGTTCGAGGTCGTGGAGGTCCTGGGAGAGGGGGCCTAGGGCGTGGAGCTATGGGTCGTGGCGGAATCGGTGGTAGAGGTCGGGGTATGATAGGTCGGGGAAGAGGGGGCTTTGGAGGCCGAGGCCGAGGCCGTGGACGAGGGAGAGGTGCCCTTGCTCGC"
+    },
+    {
+        "protein": "Q9UMN6",
+        "prot_region": [
+            11,
+            42
+        ],
+        "prot_seq": "PGPGSARGRFPGRPRGAGGGGGRGGRGNGAER",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 35718049,
+                "end": 35718144,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 95
+            }
+        ],
+        "dna": "CCCGGGCCTGGCTCCGCGCGGGGCCGCTTCCCGGGCCGGCCGCGGGGCGCCGGCGGGGGCGGGGGCCGCGGCGGACGGGGCAACGGGGCCGAAAGA"
+    },
+    {
+        "protein": "Q9UMN6",
+        "prot_region": [
+            85,
+            111
+        ],
+        "prot_seq": "AGPRVQRGRGRGRGRGWGPSRGCVPEE",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 35718271,
+                "end": 35718351,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 80
+            }
+        ],
+        "dna": "GCCGGCCCGCGGGTCCAGCGGGGCCGGGGACGGGGTCGGGGCCGGGGCTGGGGCCCGAGTCGAGGCTGCGTGCCGGAGGAG"
+    },
+    {
+        "protein": "Q9UMN6",
+        "prot_region": [
+            139,
+            158
+        ],
+        "prot_seq": "SALRSQRGRAPRGRGRKHKT",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 35719520,
+                "end": 35719541,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 21
+            },
+            {
+                "chrom": "chr19",
+                "start": 35719784,
+                "end": 35719821,
+                "strand": "+",
+                "merged_start": 22,
+                "merged_end": 59
+            }
+        ],
+        "dna": "TCTGCGCTCCGATCCCAGCGAGGTCGAGCGCCCCGAGGTCGGGGTCGCAAGCATAAGACG"
+    },
+    {
+        "protein": "Q9UMN6",
+        "prot_region": [
+            275,
+            303
+        ],
+        "prot_seq": "GPGTPRRGGQSSRGGRGGRGRGRGGGLPF",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 35720170,
+                "end": 35720256,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 86
+            }
+        ],
+        "dna": "GGACCTGGGACCCCCAGGCGTGGAGGACAGTCAAGCCGTGGAGGCCGTGGAGGCAGGGGCCGCGGCCGAGGTGGTGGGCTCCCCTTT"
+    },
+    {
+        "protein": "Q15424",
+        "prot_region": [
+            862,
+            880
+        ],
+        "prot_seq": "PGHMMNRGGMSGRGSFAPG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 5667852,
+                "end": 5667886,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 34
+            },
+            {
+                "chrom": "chr19",
+                "start": 5668162,
+                "end": 5668183,
+                "strand": "+",
+                "merged_start": 35,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CCTGGCCACATGATGAACCGAGGAGGAATGTCAGGGCGCGGCAGCTTTGCCCCAGGC"
+    },
+    {
+        "protein": "Q9Y2V3",
+        "prot_region": [
+            49,
+            64
+        ],
+        "prot_seq": "GTFPAERGARGAKERD",
+        "intervals": [
+            {
+                "chrom": "chr18",
+                "start": 59273015,
+                "end": 59273062,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "GGCACCTTCCCGGCGGAGCGGGGCGCCCGGGGCGCGAAGGAGCGGGAT"
+    },
+    {
+        "protein": "Q659C4",
+        "prot_region": [
+            139,
+            169
+        ],
+        "prot_seq": "SEGGNIRGSFRGRGRGRGRGRGRGRGNPRLN",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 128091057,
+                "end": 128091144,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 87
+            },
+            {
+                "chrom": "chr4",
+                "start": 128091347,
+                "end": 128091351,
+                "strand": "+",
+                "merged_start": 88,
+                "merged_end": 92
+            }
+        ],
+        "dna": "AGTGAGGGTGGTAATATCCGAGGTTCCTTTAGAGGTCGAGGAAGAGGCCGAGGACGGGGAAGAGGACGAGGCAGAGGAAATCCTCGATTGAAC"
+    },
+    {
+        "protein": "Q9H7E2",
+        "prot_region": [
+            239,
+            257
+        ],
+        "prot_seq": "VMGPPLRGRGKGRGRIRSE",
+        "intervals": [
+            {
+                "chrom": "chr13",
+                "start": 60509898,
+                "end": 60509919,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 21
+            },
+            {
+                "chrom": "chr13",
+                "start": 60510630,
+                "end": 60510664,
+                "strand": "+",
+                "merged_start": 22,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GTTATGGGTCCTCCTCTGAGAGGTAGAGGAAAAGGCAGGGGGCGAATAAGATCTGAA"
+    },
+    {
+        "protein": "Q12872",
+        "prot_region": [
+            892,
+            912
+        ],
+        "prot_seq": "VSPVESRGSSQERSRGVSQEK",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 131797317,
+                "end": 131797360,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 43
+            },
+            {
+                "chrom": "chr12",
+                "start": 131799037,
+                "end": 131799055,
+                "strand": "+",
+                "merged_start": 44,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GTCTCCCCTGTGGAGAGTCGGGGCTCCAGCCAGGAGCGCTCCAGGGGAGTCTCTCAGGAAAAA"
+    },
+    {
+        "protein": "Q69YN4",
+        "prot_region": [
+            1616,
+            1633
+        ],
+        "prot_seq": "HVVPPPRGRGRGGFGQGI",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 94491819,
+                "end": 94491872,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "CATGTTGTGCCACCACCAAGAGGAAGGGGCAGGGGAGGATTTGGACAGGGTATA"
+    },
+    {
+        "protein": "Q69YN4",
+        "prot_region": [
+            1681,
+            1703
+        ],
+        "prot_seq": "SQKISSRGGFSGNRGGRGAFHSQ",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 94491609,
+                "end": 94491677,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "TCACAGAAGATTTCTTCCCGTGGTGGGTTTTCAGGCAATAGAGGAGGACGGGGTGCTTTCCACAGTCAG"
+    },
+    {
+        "protein": "Q69YN4",
+        "prot_region": [
+            1728,
+            1755
+        ],
+        "prot_seq": "SAQNTPRGNYNESRGGQSNFNRGPLPPL",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 94489958,
+                "end": 94490041,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "AGTGCTCAGAATACTCCTCGAGGAAATTACAATGAAAGTCGTGGAGGCCAGAGCAATTTTAACAGAGGCCCTCTTCCACCATTA"
+    },
+    {
+        "protein": "Q69YN4",
+        "prot_region": [
+            1767,
+            1782
+        ],
+        "prot_seq": "PRDRASRGRGGLGPSW",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 94488799,
+                "end": 94488846,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CCTCGGGACCGTGCTTCTAGAGGTCGTGGGGGACTTGGACCTTCCTGG"
+    },
+    {
+        "protein": "P78332",
+        "prot_region": [
+            170,
+            192
+        ],
+        "prot_seq": "APPSDFRGRGTYDLDFRGRDGSH",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 49967933,
+                "end": 49968001,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "GCTCCTCCATCTGACTTCAGGGGCCGGGGCACTTATGATTTAGATTTTAGAGGCCGGGATGGATCCCAT"
+    },
+    {
+        "protein": "P78332",
+        "prot_region": [
+            230,
+            244
+        ],
+        "prot_seq": "GTQVDFRGRGSGTTD",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 49968113,
+                "end": 49968157,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GGAACACAAGTAGACTTTAGAGGCCGAGGTTCAGGTACTACTGAT"
+    },
+    {
+        "protein": "Q13283",
+        "prot_region": [
+            423,
+            454
+        ],
+        "prot_seq": "RRDNRLRGPGGPRGGLGGGMRGPPRGGMVQKP",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 151803957,
+                "end": 151804052,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 95
+            }
+        ],
+        "dna": "CGACGAGATAATCGCCTTCGGGGACCTGGAGGCCCTCGAGGTGGGCTGGGTGGTGGAATGAGAGGCCCTCCCCGTGGAGGCATGGTGCAGAAACCA"
+    },
+    {
+        "protein": "A6NHQ2",
+        "prot_region": [
+            2,
+            34
+        ],
+        "prot_seq": "KSAASSRGGGGGGRGGGGWGSWGGGRGGGGGAG",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 168529508,
+                "end": 168529606,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 98
+            }
+        ],
+        "dna": "AAGTCGGCCGCGAGCTCGCGCGGGGGCGGTGGGGGCGGCCGCGGGGGCGGCGGCTGGGGCAGCTGGGGCGGGGGCCGAGGCGGCGGCGGCGGCGCGGGC"
+    },
+    {
+        "protein": "A6NHQ2",
+        "prot_region": [
+            49,
+            88
+        ],
+        "prot_seq": "GFGARARGFGGGGRGRGRGGGDGKDRGGGGQRRGGVAKSK",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 168529649,
+                "end": 168529768,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 119
+            }
+        ],
+        "dna": "GGCTTCGGGGCGCGGGCGCGCGGCTTCGGCGGGGGCGGCCGGGGCCGGGGGCGCGGCGGCGGCGACGGCAAGGATCGCGGCGGCGGTGGACAGCGGCGGGGCGGCGTGGCCAAGAGCAAG"
+    },
+    {
+        "protein": "O00267",
+        "prot_region": [
+            690,
+            703
+        ],
+        "prot_seq": "GSGGMSRGRGRRDN",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 39472842,
+                "end": 39472883,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 41
+            }
+        ],
+        "dna": "GGCAGTGGTGGCATGAGCAGGGGCCGGGGCCGGAGGGACAAC"
+    },
+    {
+        "protein": "Q8TDD1",
+        "prot_region": [
+            24,
+            43
+        ],
+        "prot_seq": "KGLRKRRGAASQARGSDSED",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 113185323,
+                "end": 113185382,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AAAGGGCTCCGGAAGCGCCGAGGCGCGGCCTCCCAGGCCCGCGGCAGCGACTCGGAGGAC"
+    },
+    {
+        "protein": "Q8TDD1",
+        "prot_region": [
+            785,
+            808
+        ],
+        "prot_seq": "EGASDRRGPERRGGKRDRGQGASR",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 113161270,
+                "end": 113161330,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 60
+            },
+            {
+                "chrom": "chr12",
+                "start": 113159099,
+                "end": 113159109,
+                "strand": "-",
+                "merged_start": 61,
+                "merged_end": 71
+            }
+        ],
+        "dna": "GAAGGGGCATCTGACCGGCGAGGCCCAGAGCGAAGAGGTGGGAAGCGAGACCGTGGCCAAGGTGCATCCCGG"
+    },
+    {
+        "protein": "O43823",
+        "prot_region": [
+            174,
+            196
+        ],
+        "prot_seq": "RDPARERGSLDGFMRGRGQGRFQ",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 15373124,
+                "end": 15373192,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "CGAGACCCAGCCCGGGAGCGGGGCTCCCTTGATGGCTTCATGCGGGGCCGGGGCCAGGGCCGCTTCCAG"
+    },
+    {
+        "protein": "P56645",
+        "prot_region": [
+            0,
+            18
+        ],
+        "prot_seq": "MPRGEAPGPGRRGAKDEA",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 7784878,
+                "end": 7784931,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "ATGCCCCGCGGGGAAGCTCCTGGCCCCGGGAGACGGGGGGCTAAGGACGAGGCC",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q14157",
+        "prot_region": [
+            128,
+            157
+        ],
+        "prot_seq": "RDYSRRRGGPPRRGRGASRGREFRGQENGL",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 154234693,
+                "end": 154234759,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 66
+            },
+            {
+                "chrom": "chr1",
+                "start": 154235196,
+                "end": 154235218,
+                "strand": "+",
+                "merged_start": 67,
+                "merged_end": 89
+            }
+        ],
+        "dna": "AGAGACTATAGTCGGCGACGTGGTGGGCCACCAAGACGGGGGAGAGGTGCCAGCCGTGGACGAGAGTTTCGAGGTCAGGAAAATGGATTG"
+    },
+    {
+        "protein": "Q14157",
+        "prot_region": [
+            162,
+            194
+        ],
+        "prot_seq": "SGGPSGRGTERGRRGRGRGRGGSGRRGGRFSAQ",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 154235231,
+                "end": 154235291,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 60
+            },
+            {
+                "chrom": "chr1",
+                "start": 154236566,
+                "end": 154236603,
+                "strand": "+",
+                "merged_start": 61,
+                "merged_end": 98
+            }
+        ],
+        "dna": "AGTGGAGGGCCTTCTGGAAGAGGAACAGAAAGAGGCAGAAGGGGCCGTGGCCGAGGCAGAGGTGGCTCTGGTAGGCGAGGAGGAAGGTTTTCTGCTCAA"
+    },
+    {
+        "protein": "Q32P51",
+        "prot_region": [
+            188,
+            212
+        ],
+        "prot_seq": "SASSSQRGRRGSGNFGGGRGDGFGG",
+        "intervals": [
+            {
+                "chrom": "chr13",
+                "start": 52643054,
+                "end": 52643128,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 74
+            }
+        ],
+        "dna": "AGTGCTTCATCCAGCCAAAGAGGTCGAAGGGGTTCTGGAAACTTTGGTGGTGGTCGTGGAGATGGTTTCGGTGGG"
+    },
+    {
+        "protein": "Q9UQ35",
+        "prot_region": [
+            545,
+            565
+        ],
+        "prot_seq": "SRNTQRRGRSRSARRGRSHSR",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 2762161,
+                "end": 2762223,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "AGCAGAAATACCCAGAGAAGAGGCAGGTCTAGGTCAGCAAGGCGAGGGAGGTCCCACTCTAGA"
+    },
+    {
+        "protein": "Q9UQ35",
+        "prot_region": [
+            2711,
+            2730
+        ],
+        "prot_seq": "QSSSSERGSRRGQRGDSRSP",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 2770461,
+                "end": 2770465,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 4
+            },
+            {
+                "chrom": "chr16",
+                "start": 2770604,
+                "end": 2770658,
+                "strand": "+",
+                "merged_start": 5,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CAGAGCAGCAGCAGTGAGCGGGGTTCCCGGAGAGGCCAGCGTGGGGACAGCCGCTCCCCC"
+    },
+    {
+        "protein": "A6NDY0",
+        "prot_region": [
+            228,
+            250
+        ],
+        "prot_seq": "GISSTDRGGLRGHPGSRGAPFPH",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 88864284,
+                "end": 88864352,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "GGGATCAGCTCCACAGACCGCGGGGGCCTTCGAGGACACCCAGGCTCCAGGGGGGCACCCTTCCCCCAC"
+    },
+    {
+        "protein": "P98175",
+        "prot_region": [
+            0,
+            15
+        ],
+        "prot_seq": "MEYERRGGRGDRTGR",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 47147482,
+                "end": 47147498,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 16
+            },
+            {
+                "chrom": "chrX",
+                "start": 47169315,
+                "end": 47169342,
+                "strand": "+",
+                "merged_start": 17,
+                "merged_end": 44
+            }
+        ],
+        "dna": "ATGGAGTATGAAAGACGTGGTGGTCGTGGTGACAGGACTGGCCGC",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q6ZUT6",
+        "prot_region": [
+            503,
+            522
+        ],
+        "prot_seq": "",
+        "intervals": [],
+        "dna": "",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q14444",
+        "prot_region": [
+            670,
+            704
+        ],
+        "prot_seq": "YQQNFKRGSGQSGPRGAPRGRGGPPRPNRGMPQMN",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 34097704,
+                "end": 34097761,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 57
+            },
+            {
+                "chrom": "chr11",
+                "start": 34099303,
+                "end": 34099349,
+                "strand": "+",
+                "merged_start": 58,
+                "merged_end": 104
+            }
+        ],
+        "dna": "TATCAGCAGAATTTCAAGCGAGGCTCTGGGCAGAGTGGACCACGGGGAGCCCCACGAGGTCGTGGAGGGCCCCCAAGACCCAACAGAGGGATGCCGCAAATGAAC"
+    },
+    {
+        "protein": "Q9NZM5",
+        "prot_region": [
+            33,
+            51
+        ],
+        "prot_seq": "ALRRRRRGPRNKKRGWRRL",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 47745656,
+                "end": 47745712,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GCGCTGAGGCGGCGGCGGCGAGGCCCAAGAAATAAGAAGCGGGGCTGGCGGCGGCTT"
+    },
+    {
+        "protein": "O15047",
+        "prot_region": [
+            1221,
+            1242
+        ],
+        "prot_seq": "WPEEVSRGGRSRAGGRGRLTEE",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 30979447,
+                "end": 30979512,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "TGGCCCGAGGAGGTGTCCCGAGGAGGCCGGAGCCGGGCTGGAGGCCGAGGCCGCCTCACCGAGGAA"
+    },
+    {
+        "protein": "Q2NL82",
+        "prot_region": [
+            16,
+            30
+        ],
+        "prot_seq": "HKGGRHRGRGSAQRD",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 2336338,
+                "end": 2336382,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "CATAAAGGCGGACGGCATCGGGGTCGGGGATCTGCACAGCGGGAC"
+    },
+    {
+        "protein": "Q8NEZ4",
+        "prot_region": [
+            891,
+            912
+        ],
+        "prot_seq": "PGKRRPRGAGLSGRGGRGRSKL",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 152235850,
+                "end": 152235915,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "CCAGGAAAGCGGAGACCTCGAGGTGCAGGACTGTCGGGGCGAGGTGGCCGAGGCAGGTCAAAGCTG"
+    },
+    {
+        "protein": "Q9NY12",
+        "prot_region": [
+            0,
+            62
+        ],
+        "prot_seq": "MSFRGGGRGGFNRGGGGGGFNRGGSSNHFRGGGGGGGGGNFRGGGRGGFGRGGGRGGFNKGQ",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 109816165,
+                "end": 109816350,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 185
+            }
+        ],
+        "dna": "ATGTCTTTTCGAGGCGGAGGTCGTGGAGGCTTTAATCGAGGTGGTGGAGGTGGCGGCTTCAACCGAGGTGGCAGCAGCAACCACTTCCGAGGTGGAGGCGGCGGTGGAGGCGGCGGCAATTTCAGAGGCGGCGGCAGGGGAGGATTTGGACGAGGGGGTGGCCGCGGAGGCTTTAACAAAGGCCAA",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q9NY12",
+        "prot_region": [
+            163,
+            217
+        ],
+        "prot_seq": "GEKGPPRGGGRGGRGGGRGGGGRGGGRGGGFRGGRGGGGGGFRGGRGGGFRGRGH",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 109822404,
+                "end": 109822488,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 84
+            },
+            {
+                "chrom": "chr4",
+                "start": 109823965,
+                "end": 109824033,
+                "strand": "+",
+                "merged_start": 85,
+                "merged_end": 153
+            },
+            {
+                "chrom": "chr4",
+                "start": 109824418,
+                "end": 109824428,
+                "strand": "+",
+                "merged_start": 154,
+                "merged_end": 164
+            }
+        ],
+        "dna": "GGTGAGAAAGGACCTCCAAGAGGTGGTGGCAGGGGAGGCCGAGGAGGAGGAAGAGGAGGAGGTGGCAGAGGTGGTGGCAGAGGCGGTGGTTTTAGAGGTGGAAGAGGAGGTGGAGGTGGGGGCTTCAGAGGAGGAAGAGGTGGTGGTTTCAGAGGGAGAGGACAT"
+    },
+    {
+        "protein": "Q9Y520",
+        "prot_region": [
+            272,
+            287
+        ],
+        "prot_seq": "SLSETNKGLRGRGPPP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 171522240,
+                "end": 171522259,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 19
+            },
+            {
+                "chrom": "chr1",
+                "start": 171523221,
+                "end": 171523248,
+                "strand": "+",
+                "merged_start": 20,
+                "merged_end": 47
+            }
+        ],
+        "dna": "TCTTTATCTGAAACAAACAAAGGCCTTCGAGGAAGAGGCCCACCTCCT"
+    },
+    {
+        "protein": "Q9Y520",
+        "prot_region": [
+            1179,
+            1218
+        ],
+        "prot_seq": "RDWFPDQGYRGRGRGEYYSRGRSYRGSYGGRGRGGRGHTR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 171541001,
+                "end": 171541120,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 119
+            }
+        ],
+        "dna": "AGAGATTGGTTTCCAGATCAAGGATACAGAGGTCGAGGCCGAGGTGAATATTACTCCAGAGGTCGAAGCTATAGAGGTTCTTATGGAGGGCGTGGCAGGGGTGGTAGGGGACACACTCGA"
+    },
+    {
+        "protein": "Q9Y520",
+        "prot_region": [
+            1336,
+            1357
+        ],
+        "prot_seq": "LPKGEPTRRGRGGTFRRGGRDP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 171541472,
+                "end": 171541537,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "CTTCCTAAAGGAGAGCCTACAAGGAGAGGCAGAGGGGGAACATTCAGGCGTGGTGGAAGGGATCCT"
+    },
+    {
+        "protein": "Q9C0B9",
+        "prot_region": [
+            204,
+            227
+        ],
+        "prot_seq": "SLRAARGEGSRGGAEDERGEDGDG",
+        "intervals": [
+            {
+                "chrom": "chr18",
+                "start": 62524034,
+                "end": 62524105,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "AGCCTGCGCGCGGCCCGGGGCGAGGGCTCGCGGGGCGGCGCGGAGGACGAGCGCGGCGAGGACGGCGACGGC"
+    },
+    {
+        "protein": "Q16630",
+        "prot_region": [
+            195,
+            210
+        ],
+        "prot_seq": "AAFPQGGRGRGRFPGA",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 69257794,
+                "end": 69257841,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "GCAGCATTTCCACAAGGTGGTAGAGGACGGGGCCGTTTTCCAGGGGCT"
+    },
+    {
+        "protein": "Q92908",
+        "prot_region": [
+            42,
+            58
+        ],
+        "prot_seq": "SSSSCSRGGERGPGGAS",
+        "intervals": [
+            {
+                "chrom": "chr18",
+                "start": 22171268,
+                "end": 22171318,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "TCGTCCTCCTCCTGCTCCCGGGGCGGAGAGCGGGGCCCCGGCGGCGCCAGC"
+    },
+    {
+        "protein": "Q9NZR4",
+        "prot_region": [
+            18,
+            35
+        ],
+        "prot_seq": "VPGGSPRGSRPRGFAITD",
+        "intervals": [
+            {
+                "chrom": "chr20",
+                "start": 25081992,
+                "end": 25082045,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "GTGCCTGGCGGTTCCCCTAGGGGCTCGCGCCCCCGGGGCTTCGCCATCACGGAC"
+    },
+    {
+        "protein": "O15523",
+        "prot_region": [
+            81,
+            104
+        ],
+        "prot_seq": "PGYFSERGSGSRGRFDDRGRSDYD",
+        "intervals": [
+            {
+                "chrom": "chrY",
+                "start": 12911928,
+                "end": 12911968,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 40
+            },
+            {
+                "chrom": "chrY",
+                "start": 12912727,
+                "end": 12912757,
+                "strand": "+",
+                "merged_start": 41,
+                "merged_end": 71
+            }
+        ],
+        "dna": "CCTGGTTATTTCAGTGAACGTGGAAGTGGATCAAGGGGAAGATTTGATGATCGTGGACGGAGTGACTATGAT"
+    },
+    {
+        "protein": "P17844",
+        "prot_region": [
+            4,
+            20
+        ],
+        "prot_seq": "YSSDRDRGRDRGFGAPR",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 64506076,
+                "end": 64506110,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 34
+            },
+            {
+                "chrom": "chr17",
+                "start": 64504827,
+                "end": 64504842,
+                "strand": "-",
+                "merged_start": 35,
+                "merged_end": 50
+            }
+        ],
+        "dna": "TATTCGAGTGACCGAGACCGCGGCCGGGACCGAGGGTTTGGTGCACCTCGA"
+    },
+    {
+        "protein": "P17844",
+        "prot_region": [
+            473,
+            493
+        ],
+        "prot_seq": "QLVEDRGSGRSRGRGGMKDDR",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 64500549,
+                "end": 64500573,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 24
+            },
+            {
+                "chrom": "chr17",
+                "start": 64500289,
+                "end": 64500326,
+                "strand": "-",
+                "merged_start": 25,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CAGTTGGTCGAAGACAGAGGTTCAGGTCGTTCCAGGGGTAGAGGAGGCATGAAGGATGACCGT"
+    },
+    {
+        "protein": "Q92766",
+        "prot_region": [
+            1147,
+            1163
+        ],
+        "prot_seq": "AGTSKKRGRKRGMRSRP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 7231538,
+                "end": 7231588,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GCGGGCACGTCGAAGAAGAGGGGCCGGAAAAGGGGGATGAGGAGCCGACCC"
+    },
+    {
+        "protein": "Q13595",
+        "prot_region": [
+            234,
+            249
+        ],
+        "prot_seq": "RDSYYDRGYDRGYDRY",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 23506161,
+                "end": 23506208,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CGAGATTCTTACTATGATAGAGGATATGATCGTGGGTATGACAGATAT"
+    },
+    {
+        "protein": "P49750",
+        "prot_region": [
+            1007,
+            1027
+        ],
+        "prot_seq": "DNRLEGNRGNSSSYRGPGQSR",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 74798316,
+                "end": 74798378,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GATAATAGATTAGAAGGCAATAGAGGCAACAGCTCATCTTACAGAGGTCCTGGGCAAAGCAGA"
+    },
+    {
+        "protein": "P49750",
+        "prot_region": [
+            1033,
+            1053
+        ],
+        "prot_seq": "DKGLVNRGRGQAISRGPGLVK",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 74798394,
+                "end": 74798456,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GATAAAGGTCTAGTAAACAGAGGTCGCGGCCAGGCAATCAGTCGAGGCCCAGGATTGGTCAAG"
+    },
+    {
+        "protein": "P49750",
+        "prot_region": [
+            1068,
+            1087
+        ],
+        "prot_seq": "SREKMNRGEGSRDRGLVRPG",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 74798499,
+                "end": 74798558,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AGTCGAGAGAAGATGAACAGAGGAGAAGGTAGCCGGGACAGAGGGTTGGTGAGGCCTGGA"
+    },
+    {
+        "protein": "P49750",
+        "prot_region": [
+            1097,
+            1117
+        ],
+        "prot_seq": "LQGSQDRGAAGSRERGPPRRA",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 74798586,
+                "end": 74798648,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CTTCAAGGGAGCCAGGACAGGGGTGCAGCTGGCAGCCGAGAAAGGGGACCACCTCGGAGGGCT"
+    },
+    {
+        "protein": "P49750",
+        "prot_region": [
+            1138,
+            1161
+        ],
+        "prot_seq": "RAGSRERGPPRGPGSRERGLGRSD",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 74798709,
+                "end": 74798780,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "AGAGCTGGGAGCAGGGAGAGAGGACCACCTCGAGGGCCTGGCAGTCGAGAAAGGGGACTGGGAAGATCAGAT"
+    },
+    {
+        "protein": "Q9H307",
+        "prot_region": [
+            630,
+            644
+        ],
+        "prot_seq": "ESRSRSRGRGHNRDR",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 39181597,
+                "end": 39181641,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GAGAGTAGAAGTCGGAGTAGGGGCCGGGGACATAATAGAGATAGA"
+    },
+    {
+        "protein": "P35637",
+        "prot_region": [
+            207,
+            225
+        ],
+        "prot_seq": "GYGQQDRGGRGRGGSGGGG",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 31185034,
+                "end": 31185090,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGCTATGGACAGCAGGACCGTGGAGGCCGCGGCAGGGGTGGCAGTGGTGGCGGCGGC"
+    },
+    {
+        "protein": "P35637",
+        "prot_region": [
+            236,
+            266
+        ],
+        "prot_seq": "SGGYEPRGRGGGRGGRGGMGGSDRGGFNKFG",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 31185121,
+                "end": 31185179,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 58
+            },
+            {
+                "chrom": "chr16",
+                "start": 31186802,
+                "end": 31186835,
+                "strand": "+",
+                "merged_start": 59,
+                "merged_end": 92
+            }
+        ],
+        "dna": "AGTGGTGGCTATGAACCCAGAGGTCGTGGAGGTGGCCGTGGAGGCAGAGGTGGCATGGGCGGAAGTGACCGTGGTGGCTTCAATAAATTTGGT"
+    },
+    {
+        "protein": "P35637",
+        "prot_region": [
+            372,
+            401
+        ],
+        "prot_seq": "RADFNRGGGNGRGGRGRGGPMGRGGYGGGG",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 31190087,
+                "end": 31190141,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 54
+            },
+            {
+                "chrom": "chr16",
+                "start": 31190275,
+                "end": 31190309,
+                "strand": "+",
+                "merged_start": 55,
+                "merged_end": 89
+            }
+        ],
+        "dna": "CGGGCAGACTTTAATCGGGGTGGTGGCAATGGTCGTGGAGGCCGAGGGCGAGGAGGACCCATGGGCCGTGGAGGCTATGGAGGTGGTGGC"
+    },
+    {
+        "protein": "P35637",
+        "prot_region": [
+            467,
+            510
+        ],
+        "prot_seq": "NYGDDRRGGRGGYDRGGYRGRGGDRGGFRGGRGGGDRGGFGPGK",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 31190968,
+                "end": 31191099,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 131
+            }
+        ],
+        "dna": "AACTACGGGGATGATCGTCGTGGTGGCAGAGGAGGCTATGATCGAGGCGGCTACCGGGGCCGCGGCGGGGACCGTGGAGGCTTCCGAGGGGGCCGGGGTGGTGGGGACAGAGGTGGCTTTGGCCCTGGCAAG"
+    },
+    {
+        "protein": "O75525",
+        "prot_region": [
+            214,
+            253
+        ],
+        "prot_seq": "VGVVVPRGTPTPRGVLSTRGPVSRGRGLLTPRARGVPPTG",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 135581906,
+                "end": 135582025,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 119
+            }
+        ],
+        "dna": "GTTGGAGTTGTAGTACCACGAGGGACGCCAACTCCCAGAGGAGTCCTGTCCACCCGAGGGCCAGTGAGTCGGGGAAGAGGACTTCTCACTCCCAGAGCAAGAGGAGTCCCCCCAACTGGG"
+    },
+    {
+        "protein": "P08621",
+        "prot_region": [
+            374,
+            400
+        ],
+        "prot_seq": "RDREHKRGERGSERGRDEARGGGGGQD",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 49108249,
+                "end": 49108329,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 80
+            }
+        ],
+        "dna": "CGTGACCGCGAGCACAAACGGGGGGAGCGGGGCAGTGAGCGGGGCAGGGATGAGGCCCGAGGTGGGGGCGGTGGCCAGGAC"
+    },
+    {
+        "protein": "Q8N7X1",
+        "prot_region": [
+            270,
+            291
+        ],
+        "prot_seq": "PDYRPLRGDGNQNGYRGRDHEY",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 115190249,
+                "end": 115190314,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "CCGGACTACCGTCCCTTGAGAGGCGACGGCAACCAAAATGGCTACAGGGGTCGCGACCATGAGTAC"
+    },
+    {
+        "protein": "Q8N7X1",
+        "prot_region": [
+            807,
+            828
+        ],
+        "prot_seq": "SRNDPCRGGGRYEENRGHSLDA",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 115191860,
+                "end": 115191925,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "AGCCGGAACGACCCCTGCAGAGGAGGAGGCCGCTACGAGGAGAACCGAGGTCACTCTCTCGATGCC"
+    },
+    {
+        "protein": "Q96E39",
+        "prot_region": [
+            97,
+            132
+        ],
+        "prot_seq": "PPPPRSRGPPRGFGAGRGGSGGTRGPPSRGGHMDDG",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 88983431,
+                "end": 88983538,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 107
+            }
+        ],
+        "dna": "CCCCCACCTCCAAGAAGTAGAGGTCCTCCAAGAGGTTTTGGAGCTGGAAGAGGAGGAAGTGGAGGAACCAGGGGACCTCCTTCACGAGGAGGACACATGGATGATGGT"
+    },
+    {
+        "protein": "Q96E39",
+        "prot_region": [
+            138,
+            157
+        ],
+        "prot_seq": "FNMSSSRGPLPVKRGPPPRS",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 88983356,
+                "end": 88983415,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "TTTAACATGAGTTCTTCCAGGGGACCACTCCCAGTAAAAAGAGGACCACCACCAAGAAGT"
+    },
+    {
+        "protein": "Q96E39",
+        "prot_region": [
+            340,
+            360
+        ],
+        "prot_seq": "RVGRQERGLPPSVERGYPSSR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 88982747,
+                "end": 88982809,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "AGGGTTGGCAGACAAGAAAGAGGGCTTCCCCCTTCTGTAGAAAGGGGGTACCCTTCTTCACGT"
+    },
+    {
+        "protein": "Q96E39",
+        "prot_region": [
+            362,
+            378
+        ],
+        "prot_seq": "SYSSSSRGAPRGAGPGG",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 88982693,
+                "end": 88982743,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "TCCTACAGCAGTTCAAGCCGCGGAGCACCAAGAGGTGCTGGCCCTGGAGGA"
+    },
+    {
+        "protein": "Q9NRR4",
+        "prot_region": [
+            10,
+            29
+        ],
+        "prot_seq": "MSFHPGRGCPRGRGGHGARP",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 31526846,
+                "end": 31526905,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "ATGTCGTTCCACCCGGGACGAGGGTGTCCCCGAGGACGAGGAGGACATGGAGCCAGACCC"
+    },
+    {
+        "protein": "O95948",
+        "prot_region": [
+            66,
+            85
+        ],
+        "prot_seq": "SPHHAGRGAAGSLRGPPPPP",
+        "intervals": [
+            {
+                "chrom": "chr18",
+                "start": 57435912,
+                "end": 57435971,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AGCCCCCACCACGCGGGCCGCGGCGCCGCTGGCTCGCTGCGGGGCCCTCCGCCGCCTCCA"
+    },
+    {
+        "protein": "Q06787",
+        "prot_region": [
+            522,
+            553
+        ],
+        "prot_seq": "RESFLRRGDGRRRGGGGRGQGGRGRGGGFKGN",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 147944961,
+                "end": 147945051,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 90
+            },
+            {
+                "chrom": "chrX",
+                "start": 147945534,
+                "end": 147945538,
+                "strand": "+",
+                "merged_start": 91,
+                "merged_end": 95
+            }
+        ],
+        "dna": "AGGGAGAGCTTCCTGCGCAGAGGAGACGGACGGCGGCGTGGAGGGGGAGGAAGAGGACAAGGAGGAAGAGGACGTGGAGGAGGCTTCAAAGGAAAC"
+    },
+    {
+        "protein": "Q5JVS0",
+        "prot_region": [
+            177,
+            204
+        ],
+        "prot_seq": "DRDRPLRGRGGPRGGMRGRGRGGPGNRV",
+        "intervals": [
+            {
+                "chrom": "chr9",
+                "start": 96465353,
+                "end": 96465436,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "GATCGAGACAGACCGTTGAGAGGACGTGGAGGCCCGAGAGGGGGTATGCGCGGCAGAGGCAGAGGTGGCCCTGGGAACAGAGTT"
+    },
+    {
+        "protein": "Q5JVS0",
+        "prot_region": [
+            363,
+            385
+        ],
+        "prot_seq": "NLPRPGRGARGGTRGGRGRIRRA",
+        "intervals": [
+            {
+                "chrom": "chr9",
+                "start": 96488176,
+                "end": 96488244,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "AACCTCCCTCGTCCTGGGCGTGGAGCCAGAGGAGGCACCCGGGGAGGCCGGGGAAGGATCAGGAGGGCA"
+    },
+    {
+        "protein": "Q01844",
+        "prot_region": [
+            294,
+            337
+        ],
+        "prot_seq": "MSGPDNRGRGRGGFDRGGMSRGGRGGGRGGMGSAGERGGFNKPG",
+        "intervals": [
+            {
+                "chrom": "chr22",
+                "start": 29288692,
+                "end": 29288786,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 94
+            },
+            {
+                "chrom": "chr22",
+                "start": 29291562,
+                "end": 29291598,
+                "strand": "+",
+                "merged_start": 95,
+                "merged_end": 131
+            }
+        ],
+        "dna": "ATGAGTGGCCCTGATAACCGGGGCAGGGGAAGAGGGGGATTTGATCGTGGAGGCATGAGCAGAGGTGGGCGGGGAGGAGGACGCGGTGGAATGGGCAGCGCTGGAGAGCGAGGTGGCTTCAATAAGCCTGGT"
+    },
+    {
+        "protein": "Q01844",
+        "prot_region": [
+            449,
+            478
+        ],
+        "prot_seq": "PPMNSMRGGLPPREGRGMPPPLRGGPGGPG",
+        "intervals": [
+            {
+                "chrom": "chr22",
+                "start": 29297877,
+                "end": 29297949,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 72
+            },
+            {
+                "chrom": "chr22",
+                "start": 29298733,
+                "end": 29298749,
+                "strand": "+",
+                "merged_start": 73,
+                "merged_end": 89
+            }
+        ],
+        "dna": "CCTCCAATGAACAGTATGCGGGGTGGTCTGCCACCCCGTGAGGGCAGAGGCATGCCACCACCACTCCGTGGAGGTCCAGGAGGCCCAGGA"
+    },
+    {
+        "protein": "Q01844",
+        "prot_region": [
+            483,
+            512
+        ],
+        "prot_seq": "PMGRMGGRGGDRGGFPPRGPRGSRGNPSGG",
+        "intervals": [
+            {
+                "chrom": "chr22",
+                "start": 29298762,
+                "end": 29298851,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 89
+            }
+        ],
+        "dna": "CCCATGGGTCGCATGGGAGGCCGTGGAGGAGATAGAGGAGGCTTCCCTCCAAGAGGACCCCGGGGTTCCCGAGGGAACCCCTCTGGAGGA"
+    },
+    {
+        "protein": "Q01844",
+        "prot_region": [
+            555,
+            622
+        ],
+        "prot_seq": "PFPPPGGDRGRGGPGGMRGGRGGLMDRGGPGGMFRGGRGGDRGGFRGGRGMDRGGFGGGRRGGPGGPP",
+        "intervals": [
+            {
+                "chrom": "chr22",
+                "start": 29299316,
+                "end": 29299331,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 15
+            },
+            {
+                "chrom": "chr22",
+                "start": 29299599,
+                "end": 29299786,
+                "strand": "+",
+                "merged_start": 16,
+                "merged_end": 203
+            }
+        ],
+        "dna": "CCCTTTCCGCCCCCGGGTGGTGATCGTGGCAGAGGTGGCCCTGGTGGCATGCGGGGAGGAAGAGGTGGCCTCATGGATCGTGGTGGTCCCGGTGGAATGTTCAGAGGTGGCCGTGGTGGAGACAGAGGTGGCTTCCGTGGTGGCCGGGGCATGGACCGAGGTGGCTTTGGTGGAGGAAGACGAGGTGGCCCTGGGGGGCCCCCT"
+    },
+    {
+        "protein": "Q01844",
+        "prot_region": [
+            625,
+            643
+        ],
+        "prot_seq": "LMEQMGGRRGGRGGPGKMD",
+        "intervals": [
+            {
+                "chrom": "chr22",
+                "start": 29299793,
+                "end": 29299849,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "TTGATGGAACAGATGGGAGGAAGAAGAGGAGGACGTGGAGGACCTGGAAAAATGGAT"
+    },
+    {
+        "protein": "Q99590",
+        "prot_region": [
+            1065,
+            1086
+        ],
+        "prot_seq": "SGWVSNRGRGRGNRGRGTYRSS",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 45926443,
+                "end": 45926508,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "TCTGGTTGGGTATCTAACCGTGGTAGAGGCAGAGGCAACCGTGGCAGAGGCACTTACAGAAGTAGT"
+    },
+    {
+        "protein": "Q9UKY1",
+        "prot_region": [
+            737,
+            767
+        ],
+        "prot_seq": "",
+        "intervals": [],
+        "dna": "",
+        "warning": "translation_mismatch"
+    },
+    {
+        "protein": "Q9Y3X0",
+        "prot_region": [
+            115,
+            141
+        ],
+        "prot_seq": "SPGEQPRGGGAGGRGRRGRGRGSPHLS",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 47260720,
+                "end": 47260800,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 80
+            }
+        ],
+        "dna": "AGCCCCGGGGAGCAGCCTCGAGGAGGAGGAGCTGGGGGCCGTGGCCGGAGGGGCCGGGGCCGAGGTTCACCTCACCTCTCT"
+    },
+    {
+        "protein": "Q00839",
+        "prot_region": [
+            696,
+            746
+        ],
+        "prot_seq": "GKNQFNRGGGHRGRGGFNMRGGNFRGGAPGNRGGYNRRGNMPQRGGGGGGS",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 244855904,
+                "end": 244855985,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 81
+            },
+            {
+                "chrom": "chr1",
+                "start": 244855538,
+                "end": 244855608,
+                "strand": "-",
+                "merged_start": 82,
+                "merged_end": 152
+            }
+        ],
+        "dna": "GGCAAGAACCAGTTTAACAGAGGTGGTGGCCATAGAGGACGTGGAGGATTCAATATGCGTGGTGGAAATTTCAGAGGAGGAGCCCCTGGGAATCGTGGCGGATATAATAGGAGGGGCAACATGCCACAGAGAGGTGGTGGCGGTGGAGGAAGT"
+    },
+    {
+        "protein": "Q96L73",
+        "prot_region": [
+            1068,
+            1086
+        ],
+        "prot_seq": "LQGDRERGGSLRGGAEDPS",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 177211601,
+                "end": 177211657,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CTGCAGGGAGACCGAGAACGTGGAGGTTCATTGAGAGGTGGGGCAGAAGATCCTAGT"
+    },
+    {
+        "protein": "Q7L2J0",
+        "prot_region": [
+            38,
+            55
+        ],
+        "prot_seq": "AASGELRGGTERGPGRCA",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 100430130,
+                "end": 100430183,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "GCCGCCTCTGGGGAGCTCCGCGGCGGGACGGAGCGTGGTCCGGGTCGTTGCGCG"
+    },
+    {
+        "protein": "Q9H074",
+        "prot_region": [
+            7,
+            28
+        ],
+        "prot_seq": "RAPGAGRGRSRGLGRGGGGPEG",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 43556763,
+                "end": 43556828,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "CGGGCCCCAGGTGCTGGTCGGGGCCGGAGCCGGGGCCTGGGCCGCGGAGGGGGCGGGCCTGAGGGC"
+    },
+    {
+        "protein": "Q5C9Z4",
+        "prot_region": [
+            19,
+            38
+        ],
+        "prot_seq": "VVRMKRRGGRGPRRGPAGGG",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 156949792,
+                "end": 156949851,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GTGGTCCGCATGAAGCGCAGAGGCGGGCGCGGGCCGCGCCGCGGTCCTGCTGGCGGTGGG"
+    },
+    {
+        "protein": "Q13342",
+        "prot_region": [
+            542,
+            558
+        ],
+        "prot_seq": "KDLSKIRGRKRGKPGTR",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 230285811,
+                "end": 230285832,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 21
+            },
+            {
+                "chrom": "chr2",
+                "start": 230287892,
+                "end": 230287920,
+                "strand": "+",
+                "merged_start": 22,
+                "merged_end": 50
+            }
+        ],
+        "dna": "AAAGACCTTTCCAAGATTAGGGGGAGAAAGAGAGGCAAACCTGGAACCCGC"
+    },
+    {
+        "protein": "Q5VUA4",
+        "prot_region": [
+            81,
+            100
+        ],
+        "prot_seq": "SPPRARRGSPSPPRGRRLFP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 43369066,
+                "end": 43369125,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "TCCCCGCCTCGGGCCCGTCGCGGCTCCCCGTCGCCACCGCGGGGCCGACGACTCTTCCCG"
+    },
+    {
+        "protein": "Q5VUA4",
+        "prot_region": [
+            100,
+            117
+        ],
+        "prot_seq": "PPGPAGFRGSSRGESRAD",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 43369015,
+                "end": 43369068,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "CCGCCGGGCCCGGCCGGCTTCAGAGGCAGCAGCCGGGGGGAGTCCCGCGCCGAC"
+    },
+    {
+        "protein": "Q13243",
+        "prot_region": [
+            72,
+            88
+        ],
+        "prot_seq": "ARARSRGGRGRGRYSDR",
+        "intervals": [
+            {
+                "chrom": "chr14",
+                "start": 69768814,
+                "end": 69768864,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GCTAGGGCTCGGTCACGAGGTGGAAGAGGTAGAGGACGATACTCTGACCGT"
+    },
+    {
+        "protein": "Q8N5A5",
+        "prot_region": [
+            393,
+            407
+        ],
+        "prot_seq": "NKPPRCRGRGARPGG",
+        "intervals": [
+            {
+                "chrom": "chr20",
+                "start": 63735284,
+                "end": 63735328,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "AACAAGCCCCCCAGGTGCCGGGGAAGAGGGGCCAGGCCTGGGGGC"
+    },
+    {
+        "protein": "Q9H147",
+        "prot_region": [
+            5,
+            24
+        ],
+        "prot_seq": "GDAEQPRGPSGAERGGLELG",
+        "intervals": [
+            {
+                "chrom": "chr20",
+                "start": 45792017,
+                "end": 45792076,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "GGCGACGCCGAGCAGCCGCGGGGACCTAGCGGGGCCGAGAGGGGCGGCTTGGAGCTGGGG"
+    },
+    {
+        "protein": "Q9Y2W1",
+        "prot_region": [
+            68,
+            84
+        ],
+        "prot_seq": "YQNRDFRGHNRGYRRPY",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 36286432,
+                "end": 36286482,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "TATCAGAATCGGGATTTCCGAGGTCACAACAGAGGCTATAGAAGGCCCTAT"
+    },
+    {
+        "protein": "Q9Y2W1",
+        "prot_region": [
+            81,
+            96
+        ],
+        "prot_seq": "RRPYYFRGRNRGFYPW",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 36286471,
+                "end": 36286518,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "AGAAGGCCCTATTATTTCCGTGGGCGTAACAGAGGCTTTTATCCATGG"
+    },
+    {
+        "protein": "Q9Y2W1",
+        "prot_region": [
+            498,
+            519
+        ],
+        "prot_seq": "RSKKEDRGKRSEGGHRGFVPEK",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 36289511,
+                "end": 36289576,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "AGATCCAAAAAGGAAGATCGGGGCAAGAGAAGCGAAGGTGGGCACAGGGGCTTTGTGCCTGAGAAG"
+    },
+    {
+        "protein": "Q9Y2W1",
+        "prot_region": [
+            819,
+            851
+        ],
+        "prot_seq": "FVGPSERGGGRARGTFQFRARGRGWGRGNYSGN",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 36301037,
+                "end": 36301084,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            },
+            {
+                "chrom": "chr1",
+                "start": 36301553,
+                "end": 36301603,
+                "strand": "+",
+                "merged_start": 48,
+                "merged_end": 98
+            }
+        ],
+        "dna": "TTTGTGGGTCCAAGTGAAAGAGGAGGTGGCAGAGCTCGAGGAACCTTTCAGTTTCGAGCCAGAGGAAGAGGCTGGGGCAGAGGCAACTACTCTGGGAAC"
+    },
+    {
+        "protein": "Q9Y2W1",
+        "prot_region": [
+            891,
+            914
+        ],
+        "prot_seq": "SDKWVSRGRGRGAFPRGRGRFMFR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 36303820,
+                "end": 36303891,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "AGTGACAAGTGGGTGAGCCGGGGCCGGGGCCGAGGAGCCTTTCCTCGGGGTCGGGGCCGGTTCATGTTCCGG"
+    },
+    {
+        "protein": "P48634",
+        "prot_region": [
+            1018,
+            1053
+        ],
+        "prot_seq": "VGPTSCRGRGRGEYFARGRGFRGTYGGRGRGARSRE",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 31631725,
+                "end": 31631832,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 107
+            }
+        ],
+        "dna": "GTGGGTCCTACCTCTTGCCGGGGTCGGGGCCGAGGCGAGTATTTTGCCAGAGGGAGGGGTTTTCGGGGGACCTATGGGGGACGAGGGCGGGGAGCCCGAAGCCGGGAA"
+    },
+    {
+        "protein": "P48634",
+        "prot_region": [
+            1055,
+            1073
+        ],
+        "prot_seq": "RSYREFRGDDGRGGGTGGP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 31631836,
+                "end": 31631892,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CGCAGTTACCGAGAGTTTCGAGGAGATGATGGGCGTGGAGGTGGGACAGGGGGACCA"
+    },
+    {
+        "protein": "P48634",
+        "prot_region": [
+            1150,
+            1179
+        ],
+        "prot_seq": "PARFTARGGRVFTPRGVPSRRGRGGGRPPP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 31632121,
+                "end": 31632210,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 89
+            }
+        ],
+        "dna": "CCAGCCCGCTTCACTGCCCGGGGTGGGCGAGTCTTCACTCCCAGAGGGGTGCCATCTCGCCGGGGCCGAGGAGGAGGGAGGCCCCCTCCT"
+    },
+    {
+        "protein": "Q6ZNB6",
+        "prot_region": [
+            5,
+            22
+        ],
+        "prot_seq": "WRQVAGGRGRSRGRATAA",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 47914138,
+                "end": 47914191,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "TGGCGCCAGGTGGCCGGTGGCCGAGGCCGATCCCGGGGACGGGCCACTGCCGCC"
+    },
+    {
+        "protein": "Q9BXP5",
+        "prot_region": [
+            39,
+            58
+        ],
+        "prot_seq": "NDREWDRGRERRSRGEYRDY",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 100875705,
+                "end": 100875712,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 7
+            },
+            {
+                "chrom": "chr7",
+                "start": 100881285,
+                "end": 100881336,
+                "strand": "+",
+                "merged_start": 8,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AATGACAGAGAGTGGGACCGTGGCCGTGAGCGCCGTAGTCGGGGTGAATATCGGGACTAT"
+    },
+    {
+        "protein": "Q9BUJ2",
+        "prot_region": [
+            173,
+            187
+        ],
+        "prot_seq": "RPYEENRGRGYFEHR",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 41272180,
+                "end": 41272224,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "AGGCCTTATGAAGAAAACCGGGGACGGGGGTACTTTGAGCACCGA"
+    },
+    {
+        "protein": "Q9BUJ2",
+        "prot_region": [
+            606,
+            652
+        ],
+        "prot_seq": "EKRFDNRGGGGFRGRGGGGGFQRYENRGPPGGNRGGFQNRGGGSGGG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 41302793,
+                "end": 41302933,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 140
+            }
+        ],
+        "dna": "GAAAAGCGCTTTGACAACCGAGGTGGTGGTGGCTTCCGGGGCCGCGGGGGTGGTGGTGGCTTCCAGCGCTATGAAAACCGAGGACCCCCTGGAGGCAACCGTGGCGGCTTCCAGAACCGAGGGGGAGGCAGCGGTGGAGGA"
+    },
+    {
+        "protein": "O76021",
+        "prot_region": [
+            342,
+            356
+        ],
+        "prot_seq": "EHGKKKRGRGKAQVK",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 11839773,
+                "end": 11839817,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "GAGCATGGGAAGAAAAAACGTGGCAGAGGAAAAGCCCAAGTTAAA"
+    },
+    {
+        "protein": "Q9UH92",
+        "prot_region": [
+            28,
+            45
+        ],
+        "prot_seq": "GRARARRGAGRRGASLLS",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 42567206,
+                "end": 42567259,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "GGTCGGGCTCGTGCACGTAGGGGGGCCGGAAGACGAGGGGCTTCCCTCCTGTCC"
+    },
+    {
+        "protein": "Q8N8E2",
+        "prot_region": [
+            100,
+            118
+        ],
+        "prot_seq": "EVEEPARGPGEARGERPGP",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 27378912,
+                "end": 27378968,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GAAGTTGAGGAGCCAGCCAGGGGTCCAGGGGAGGCCAGGGGTGAGAGGCCAGGCCCA"
+    },
+    {
+        "protein": "P17096",
+        "prot_region": [
+            18,
+            32
+        ],
+        "prot_seq": "KDGTEKRGRGRPRKQ",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 34240832,
+                "end": 34240876,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "AAGGACGGCACTGAGAAGCGGGGCCGGGGCAGGCCGCGCAAGCAG"
+    },
+    {
+        "protein": "Q9HCE5",
+        "prot_region": [
+            402,
+            431
+        ],
+        "prot_seq": "PKSKSDRGGGAPRGGGRGGTSAGRGRERNR",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 118710135,
+                "end": 118710224,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 89
+            }
+        ],
+        "dna": "CCCAAATCTAAATCTGACCGAGGAGGTGGAGCTCCCAGAGGTGGAGGAAGAGGTGGAACTTCTGCTGGCCGTGGACGAGAAAGAAATAGA"
+    },
+    {
+        "protein": "Q9HCE5",
+        "prot_region": [
+            429,
+            456
+        ],
+        "prot_seq": "RNRSNFRGERGGFRGGRGGAHRGGFPPR",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 118710216,
+                "end": 118710299,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "AGAAATAGATCTAACTTCCGAGGAGAAAGAGGTGGCTTTAGAGGGGGCCGTGGAGGAGCACACAGAGGTGGCTTTCCACCTCGA"
+    },
+    {
+        "protein": "Q8WWM7",
+        "prot_region": [
+            354,
+            377
+        ],
+        "prot_seq": "QRVREGPRGGVRCSSSRGGRPGLS",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 28830640,
+                "end": 28830711,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 71
+            }
+        ],
+        "dna": "CAACGAGTCCGGGAAGGTCCCCGGGGAGGAGTTCGATGCAGCAGCTCTCGGGGCGGTCGGCCTGGCCTTAGC"
+    },
+    {
+        "protein": "Q92541",
+        "prot_region": [
+            25,
+            43
+        ],
+        "prot_seq": "QEGSPGGGRRGSRGTTMVK",
+        "intervals": [
+            {
+                "chrom": "chr15",
+                "start": 41417188,
+                "end": 41417244,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CAAGAGGGGAGTCCGGGCGGCGGCCGGCGTGGGAGCCGGGGGACCACCATGGTAAAG"
+    },
+    {
+        "protein": "O14979",
+        "prot_region": [
+            318,
+            346
+        ],
+        "prot_seq": "QQQQKGGRGAAAGGRGGTRGRGRGQGQNW",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 82427190,
+                "end": 82427259,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 69
+            },
+            {
+                "chrom": "chr4",
+                "start": 82426617,
+                "end": 82426633,
+                "strand": "-",
+                "merged_start": 70,
+                "merged_end": 86
+            }
+        ],
+        "dna": "CAGCAACAACAAAAAGGTGGAAGAGGTGCTGCAGCTGGTGGACGAGGTGGTACGAGGGGTCGTGGCCGAGGTCAGGGCCAAAACTGG"
+    },
+    {
+        "protein": "Q15696",
+        "prot_region": [
+            429,
+            443
+        ],
+        "prot_seq": "RSRDRSRGRGSRSRS",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 15823078,
+                "end": 15823122,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "CGCAGCAGGGACCGCAGCCGGGGCCGGGGCAGCCGGAGCCGGAGC"
+    },
+    {
+        "protein": "Q92620",
+        "prot_region": [
+            286,
+            300
+        ],
+        "prot_seq": "STPRLSRGRGRREEG",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 72099018,
+                "end": 72099045,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 27
+            },
+            {
+                "chrom": "chr16",
+                "start": 72099204,
+                "end": 72099220,
+                "strand": "+",
+                "merged_start": 28,
+                "merged_end": 44
+            }
+        ],
+        "dna": "TCCACCCCGCGTCTGTCCAGGGGCCGAGGAAGACGTGAGGAGGGC"
+    },
+    {
+        "protein": "Q96T37",
+        "prot_region": [
+            53,
+            73
+        ],
+        "prot_seq": "VKAKRSRGGEDSTSRGERSKK",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 110339562,
+                "end": 110339624,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GTGAAGGCCAAACGCTCCCGTGGTGGTGAGGACTCGACTTCCCGCGGTGAGCGGAGCAAGAAG"
+    },
+    {
+        "protein": "Q9UBB5",
+        "prot_region": [
+            48,
+            100
+        ],
+        "prot_seq": "GVRREGARGGGRGRGRWKQAGRGGGVCGRGRGRGRGRGRGRGRGRGRGRPPSG",
+        "intervals": [
+            {
+                "chrom": "chr18",
+                "start": 54224260,
+                "end": 54224418,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 158
+            }
+        ],
+        "dna": "GGCGTGCGCAGGGAAGGCGCTCGGGGCGGCGGCCGTGGCCGGGGGCGGTGGAAGCAGGCGGGCCGGGGCGGCGGCGTCTGTGGCCGTGGCCGGGGCCGGGGCCGTGGCCGGGGACGGGGACGGGGCCGGGGCCGGGGCCGCGGCCGTCCCCCGAGTGGC"
+    },
+    {
+        "protein": "Q5VWX1",
+        "prot_region": [
+            181,
+            199
+        ],
+        "prot_seq": "SEDSGRGRGIRGRGIRIAP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 61901258,
+                "end": 61901314,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "TCAGAGGACTCTGGTCGTGGCAGAGGTATTAGAGGCAGAGGGATCAGAATAGCTCCC"
+    },
+    {
+        "protein": "Q5VWX1",
+        "prot_region": [
+            198,
+            213
+        ],
+        "prot_seq": "APTAPSRGRGGAIPPP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 61901244,
+                "end": 61901263,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 19
+            },
+            {
+                "chrom": "chr6",
+                "start": 61894806,
+                "end": 61894833,
+                "strand": "-",
+                "merged_start": 20,
+                "merged_end": 47
+            }
+        ],
+        "dna": "GCTCCCACAGCTCCTTCAAGGGGCCGTGGGGGTGCCATTCCTCCTCCC"
+    },
+    {
+        "protein": "Q5VWX1",
+        "prot_region": [
+            212,
+            236
+        ],
+        "prot_seq": "PPPPPGRGVLTPRGSTVTRGALPVP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 61894737,
+                "end": 61894811,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 74
+            }
+        ],
+        "dna": "CCTCCCCCACCACCTGGACGAGGTGTTCTCACCCCTCGGGGAAGCACTGTAACCCGTGGAGCGCTTCCAGTGCCA"
+    },
+    {
+        "protein": "Q5VWX1",
+        "prot_region": [
+            234,
+            254
+        ],
+        "prot_seq": "PVPPVARGVPTPRARGAPTVP",
+        "intervals": [
+            {
+                "chrom": "chr6",
+                "start": 61894683,
+                "end": 61894745,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CCAGTGCCACCTGTAGCAAGAGGTGTCCCTACCCCTCGAGCCCGGGGGGCACCAACAGTGCCA"
+    },
+    {
+        "protein": "P19338",
+        "prot_region": [
+            649,
+            701
+        ],
+        "prot_seq": "GEGGFGGRGGGRGGFGGRGGGRGGRGGFGGRGRGGFGGRGGFRGGRGGGGDHK",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 231455401,
+                "end": 231455512,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 111
+            },
+            {
+                "chrom": "chr2",
+                "start": 231455221,
+                "end": 231455267,
+                "strand": "-",
+                "merged_start": 112,
+                "merged_end": 158
+            }
+        ],
+        "dna": "GGTGAAGGTGGCTTCGGGGGTCGTGGTGGAGGCAGAGGCGGCTTTGGAGGACGAGGTGGTGGTAGAGGAGGCCGAGGAGGATTTGGTGGCAGAGGCCGGGGAGGCTTTGGAGGGCGAGGAGGCTTCCGAGGAGGCAGAGGAGGAGGAGGTGACCACAAG"
+    },
+    {
+        "protein": "Q71RC2",
+        "prot_region": [
+            437,
+            456
+        ],
+        "prot_seq": "QNGDYGRGRRTLFRGRRRRE",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 50461322,
+                "end": 50461347,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 25
+            },
+            {
+                "chrom": "chr12",
+                "start": 50462582,
+                "end": 50462615,
+                "strand": "+",
+                "merged_start": 26,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CAGAATGGGGACTATGGTAGGGGCAGGAGAACTCTCTTCAGAGGTCGAAGACGACGAGAA"
+    },
+    {
+        "protein": "Q71RC2",
+        "prot_region": [
+            673,
+            692
+        ],
+        "prot_seq": "SKDYSGFRGNIIPRGAAGKI",
+        "intervals": [
+            {
+                "chrom": "chr12",
+                "start": 50475706,
+                "end": 50475765,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AGTAAGGATTATTCTGGCTTCCGAGGCAATATAATCCCCAGGGGAGCAGCAGGAAAAATC"
+    },
+    {
+        "protein": "Q8IY92",
+        "prot_region": [
+            388,
+            405
+        ],
+        "prot_seq": "SFSDHSRGLKRRGPTSKK",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 3600979,
+                "end": 3600980,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 1
+            },
+            {
+                "chrom": "chr16",
+                "start": 3597948,
+                "end": 3597999,
+                "strand": "-",
+                "merged_start": 2,
+                "merged_end": 53
+            }
+        ],
+        "dna": "AGCTTCAGTGATCACAGTAGAGGTCTGAAACGGAGAGGACCCACCAGCAAGAAG"
+    },
+    {
+        "protein": "Q8IY92",
+        "prot_region": [
+            1220,
+            1238
+        ],
+        "prot_seq": "GALPENRGSLGRRGAPWLF",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 3589924,
+                "end": 3589980,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGGGCGCTGCCGGAGAATCGGGGCTCTTTGGGCAGGAGAGGGGCTCCCTGGCTGTTC"
+    },
+    {
+        "protein": "Q8NCA5",
+        "prot_region": [
+            329,
+            347
+        ],
+        "prot_seq": "PQQQTGGRGGGRGGYEHSS",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 33585292,
+                "end": 33585348,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CCCCAGCAGCAAACAGGAGGCCGAGGAGGAGGGAGAGGTGGCTATGAACATTCCTCA"
+    },
+    {
+        "protein": "Q8NCA5",
+        "prot_region": [
+            344,
+            381
+        ],
+        "prot_seq": "EHSSYGGRGGHEQGGGRGGRGGYDHGGRGGGRGNKHQG",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 33585190,
+                "end": 33585303,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 113
+            }
+        ],
+        "dna": "GAACATTCCTCATACGGAGGACGAGGAGGTCATGAACAAGGAGGCGGGAGAGGTGGACGTGGTGGCTATGACCATGGTGGCCGAGGGGGAGGAAGAGGAAATAAGCATCAAGGA"
+    },
+    {
+        "protein": "Q8NCA5",
+        "prot_region": [
+            450,
+            477
+        ],
+        "prot_seq": "DGGHHGDRGGGRGGRGGRGGRGGRAGQG",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 33584902,
+                "end": 33584985,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "GATGGCGGGCACCATGGTGATCGTGGTGGTGGTCGTGGTGGGCGAGGTGGTCGTGGAGGCCGAGGTGGTCGTGCAGGCCAGGGA"
+    },
+    {
+        "protein": "Q9H5H4",
+        "prot_region": [
+            238,
+            259
+        ],
+        "prot_seq": "LTGALRGPGRRGGRARGGQGPR",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 30525363,
+                "end": 30525428,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "CTCACAGGAGCCCTTCGAGGTCCAGGTCGGCGGGGTGGCCGGGCCAGGGGTGGGCAGGGCCCTCGG"
+    },
+    {
+        "protein": "Q9NR30",
+        "prot_region": [
+            717,
+            741
+        ],
+        "prot_seq": "PREGYGGFRGQREGSRGFRGQRDGN",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 68982609,
+                "end": 68982683,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 74
+            }
+        ],
+        "dna": "CCACGGGAAGGATATGGAGGCTTCAGGGGACAGCGGGAAGGCAGTCGAGGCTTCAGGGGACAGCGGGACGGAAAC"
+    },
+    {
+        "protein": "Q9NR30",
+        "prot_region": [
+            739,
+            761
+        ],
+        "prot_seq": "DGNRRFRGQREGSRGPRGQRSGG",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 68982675,
+                "end": 68982743,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "GACGGAAACAGAAGATTCAGAGGACAGCGGGAAGGCAGTAGAGGCCCGAGAGGACAGCGATCAGGAGGT"
+    },
+    {
+        "protein": "O60828",
+        "prot_region": [
+            120,
+            139
+        ],
+        "prot_seq": "SHEKLDRGHDKSDRGHDKSD",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 48902298,
+                "end": 48902357,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "AGCCATGAGAAACTAGACAGGGGCCACGACAAGTCAGACCGGGGCCACGACAAGTCTGAC"
+    },
+    {
+        "protein": "P05423",
+        "prot_region": [
+            89,
+            103
+        ],
+        "prot_seq": "QREGHGRGRGRPEVI",
+        "intervals": [
+            {
+                "chrom": "chr8",
+                "start": 22247912,
+                "end": 22247956,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "CAACGAGAGGGGCATGGACGAGGGCGAGGCCGTCCAGAAGTGATC"
+    },
+    {
+        "protein": "Q14011",
+        "prot_region": [
+            85,
+            127
+        ],
+        "prot_seq": "SSDNRSRGYRGGSAGGRGFFRGGRGRGRGFSRGGGDRGYGGNR",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 1271371,
+                "end": 1271467,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 96
+            },
+            {
+                "chrom": "chr19",
+                "start": 1271551,
+                "end": 1271582,
+                "strand": "+",
+                "merged_start": 97,
+                "merged_end": 128
+            }
+        ],
+        "dna": "TCGTCAGACAACCGATCCCGTGGGTACCGTGGTGGCTCTGCCGGGGGCCGGGGCTTCTTCCGTGGGGGCCGAGGACGGGGCCGTGGGTTCTCTAGAGGAGGAGGGGACCGAGGCTATGGGGGGAACCGG"
+    },
+    {
+        "protein": "Q8ND56",
+        "prot_region": [
+            264,
+            285
+        ],
+        "prot_seq": "APSAPRRGRGGHRGGRGRFGIR",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 34219399,
+                "end": 34219464,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "GCTCCTTCAGCTCCAAGGAGAGGGCGTGGGGGTCATCGGGGTGGCAGGGGAAGATTTGGTATTCGG"
+    },
+    {
+        "protein": "Q9Y5W3",
+        "prot_region": [
+            136,
+            151
+        ],
+        "prot_seq": "CAPGLTRGPRGLKREG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 16325546,
+                "end": 16325593,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "TGCGCCCCCGGGCTGACCCGTGGACCGCGCGGCCTCAAGCGCGAGGGC"
+    },
+    {
+        "protein": "Q15270",
+        "prot_region": [
+            202,
+            229
+        ],
+        "prot_seq": "PETEAARGAEEARGGGGGLGARGSGCQG",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 1403592,
+                "end": 1403675,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 83
+            }
+        ],
+        "dna": "CCCGAGACGGAGGCGGCGCGAGGCGCGGAGGAGGCGCGGGGAGGCGGCGGCGGCCTCGGGGCCCGCGGGTCGGGTTGCCAGGGC"
+    },
+    {
+        "protein": "Q9ULG1",
+        "prot_region": [
+            1419,
+            1437
+        ],
+        "prot_seq": "MPAAGRGHSARSRGRPKGS",
+        "intervals": [
+            {
+                "chrom": "chr15",
+                "start": 40983004,
+                "end": 40983060,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "ATGCCAGCTGCAGGACGTGGTCACTCAGCCCGAAGCCGAGGCCGCCCCAAAGGTTCA"
+    },
+    {
+        "protein": "P20290",
+        "prot_region": [
+            7,
+            26
+        ],
+        "prot_seq": "PAQADSRGRGRARGGCPGGE",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 73498686,
+                "end": 73498745,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CCCGCTCAGGCTGACTCTCGGGGGCGAGGTCGAGCCAGGGGCGGCTGCCCTGGGGGCGAG"
+    },
+    {
+        "protein": "P20290",
+        "prot_region": [
+            29,
+            44
+        ],
+        "prot_seq": "LSQPPPRGGTRGQEPQ",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 73498752,
+                "end": 73498799,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CTGTCTCAACCTCCACCTCGCGGCGGAACCCGAGGACAGGAGCCTCAG"
+    },
+    {
+        "protein": "Q12906",
+        "prot_region": [
+            634,
+            660
+        ],
+        "prot_seq": "PPPPNLRGRGRGGSIRGRGRGRGFGGA",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 10683684,
+                "end": 10683764,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 80
+            }
+        ],
+        "dna": "CCCCCACCCCCCAACCTTCGAGGGCGGGGAAGAGGCGGGAGCATCCGGGGACGAGGGCGCGGGCGAGGATTTGGTGGCGCC"
+    },
+    {
+        "protein": "Q99729",
+        "prot_region": [
+            238,
+            259
+        ],
+        "prot_seq": "QQYGSGGRGNRNRGNRGSGGGG",
+        "intervals": [
+            {
+                "chrom": "chr5",
+                "start": 178209372,
+                "end": 178209437,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "CAGCAGTATGGCTCTGGGGGCCGTGGAAACCGCAACCGAGGGAACCGAGGCAGCGGAGGTGGTGGT"
+    },
+    {
+        "protein": "Q9BRL6",
+        "prot_region": [
+            100,
+            117
+        ],
+        "prot_seq": "SRQGEPRGRSRGGGYGRR",
+        "intervals": [
+            {
+                "chrom": "chr11",
+                "start": 95067524,
+                "end": 95067577,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "AGCCGCCAGGGAGAGCCACGCGGCAGGTCCAGAGGCGGCGGCTACGGACGGCGG"
+    },
+    {
+        "protein": "P22087",
+        "prot_region": [
+            2,
+            84
+        ],
+        "prot_seq": "KPGFSPRGGGFGGRGGFGDRGGRGGRGGFGGGRGRGGGFRGRGRGGGGGGGGGGGGGRGGGGFHSGGNRGRGRGGKRGNQSGK",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 39846291,
+                "end": 39846297,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 6
+            },
+            {
+                "chrom": "chr19",
+                "start": 39840617,
+                "end": 39840787,
+                "strand": "-",
+                "merged_start": 7,
+                "merged_end": 177
+            },
+            {
+                "chrom": "chr19",
+                "start": 39840445,
+                "end": 39840515,
+                "strand": "-",
+                "merged_start": 178,
+                "merged_end": 248
+            }
+        ],
+        "dna": "AAGCCAGGATTCAGTCCCCGTGGGGGTGGCTTTGGCGGCCGAGGGGGCTTTGGTGACCGTGGTGGTCGTGGAGGCCGAGGGGGCTTTGGCGGGGGCCGAGGTCGAGGCGGAGGCTTTAGAGGTCGTGGACGAGGAGGAGGTGGAGGCGGCGGCGGCGGTGGAGGAGGAGGAAGAGGTGGTGGAGGCTTCCATTCTGGTGGCAACCGGGGTCGTGGTCGGGGAGGAAAAAGAGGAAACCAGTCGGGGAAG"
+    },
+    {
+        "protein": "Q8WYB5",
+        "prot_region": [
+            363,
+            380
+        ],
+        "prot_seq": "MNAFTGRGSPGRGQKTKV",
+        "intervals": [
+            {
+                "chrom": "chr10",
+                "start": 74975424,
+                "end": 74975477,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "ATGAATGCATTCACAGGAAGGGGGTCACCTGGTAGGGGTCAAAAGACTAAAGTC"
+    },
+    {
+        "protein": "Q9Y6K1",
+        "prot_region": [
+            160,
+            178
+        ],
+        "prot_seq": "SMKMEGSRGRLRGGLGWES",
+        "intervals": [
+            {
+                "chrom": "chr2",
+                "start": 25275500,
+                "end": 25275514,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 14
+            },
+            {
+                "chrom": "chr2",
+                "start": 25275046,
+                "end": 25275087,
+                "strand": "-",
+                "merged_start": 15,
+                "merged_end": 56
+            }
+        ],
+        "dna": "TCCATGAAAATGGAGGGCTCCCGGGGCCGGCTGCGGGGTGGCTTGGGCTGGGAGTCC"
+    },
+    {
+        "protein": "Q5BKZ1",
+        "prot_region": [
+            166,
+            181
+        ],
+        "prot_seq": "KPAPVGSRGRGTPAYP",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 90007631,
+                "end": 90007678,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "AAGCCTGCACCTGTAGGCTCTCGGGGGAGAGGAACGCCTGCTTATCCT"
+    },
+    {
+        "protein": "Q14781",
+        "prot_region": [
+            66,
+            83
+        ],
+        "prot_seq": "EVQNRKRGKRPRGRPRKL",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 79781709,
+                "end": 79781762,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "GAGGTGCAGAACCGGAAGAGAGGCAAGAGGCCGAGAGGCCGGCCAAGGAAGCTC"
+    },
+    {
+        "protein": "Q14781",
+        "prot_region": [
+            126,
+            141
+        ],
+        "prot_seq": "SDLDAKRGPRGRETHP",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 79783819,
+                "end": 79783866,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "AGTGACTTAGATGCTAAGAGGGGTCCCCGGGGCCGCGAGACCCACCCA"
+    },
+    {
+        "protein": "P51608",
+        "prot_region": [
+            180,
+            194
+        ],
+        "prot_seq": "KAPGTGRGRGRPKGS",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 154031246,
+                "end": 154031290,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "AAAGCTCCAGGAACTGGCAGAGGCCGGGGACGCCCCAAAGGGAGC"
+    },
+    {
+        "protein": "Q15056",
+        "prot_region": [
+            11,
+            28
+        ],
+        "prot_seq": "AYSSFGGGRGSRGSAGGH",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 74174414,
+                "end": 74174442,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 28
+            },
+            {
+                "chrom": "chr7",
+                "start": 74187611,
+                "end": 74187635,
+                "strand": "+",
+                "merged_start": 29,
+                "merged_end": 53
+            }
+        ],
+        "dna": "GCCTACAGCAGCTTCGGCGGCGGCAGAGGGTCCCGCGGCAGTGCTGGTGGCCAT"
+    },
+    {
+        "protein": "Q5JSZ5",
+        "prot_region": [
+            1103,
+            1116
+        ],
+        "prot_seq": "SQRSGRGRGLREFA",
+        "intervals": [
+            {
+                "chrom": "chr9",
+                "start": 131475436,
+                "end": 131475477,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 41
+            }
+        ],
+        "dna": "AGTCAGCGCAGCGGCCGTGGCCGGGGCCTGCGAGAGTTTGCG"
+    },
+    {
+        "protein": "Q14151",
+        "prot_region": [
+            829,
+            849
+        ],
+        "prot_seq": "KRLSEGRGLPPPPRGGRDWGE",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 5590278,
+                "end": 5590318,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 40
+            },
+            {
+                "chrom": "chr19",
+                "start": 5587959,
+                "end": 5587980,
+                "strand": "-",
+                "merged_start": 41,
+                "merged_end": 62
+            }
+        ],
+        "dna": "AAGAGGCTGAGTGAAGGCCGGGGGCTGCCCCCTCCCCCCAGGGGTGGCCGTGACTGGGGAGAG"
+    },
+    {
+        "protein": "Q14151",
+        "prot_region": [
+            891,
+            910
+        ],
+        "prot_seq": "PGHMASRGGVAGRGGFAQGG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 5587701,
+                "end": 5587735,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 34
+            },
+            {
+                "chrom": "chr19",
+                "start": 5587375,
+                "end": 5587399,
+                "strand": "-",
+                "merged_start": 35,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CCGGGGCACATGGCAAGCCGCGGTGGAGTGGCGGGGCGAGGCGGCTTTGCACAAGGTGGA"
+    },
+    {
+        "protein": "A0A1W2PRP0",
+        "prot_region": [
+            126,
+            146
+        ],
+        "prot_seq": "RRRRRRRGPKREGPRGPRAGG",
+        "intervals": [
+            {
+                "chrom": "chr7",
+                "start": 291162,
+                "end": 291224,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 62
+            }
+        ],
+        "dna": "CGGCGGCGGCGGCGGCGGCGCGGCCCCAAGCGCGAGGGGCCGAGGGGTCCGCGCGCGGGGGGC"
+    },
+    {
+        "protein": "Q96JG9",
+        "prot_region": [
+            909,
+            927
+        ],
+        "prot_seq": "QTPRPGDRGCPARGRPKTR",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 88430195,
+                "end": 88430251,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "CAAACCCCCCGCCCTGGGGACAGGGGCTGCCCAGCCCGAGGCAGGCCCAAAACGCGT"
+    },
+    {
+        "protein": "Q96JG9",
+        "prot_region": [
+            1073,
+            1095
+        ],
+        "prot_seq": "GSLAAGRPRPGAEDRRLREYDFA",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 88430687,
+                "end": 88430755,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 68
+            }
+        ],
+        "dna": "GGCTCCCTGGCGGCGGGGAGGCCCCGGCCCGGAGCTGAGGACCGCAGGCTCCGCGAGTACGACTTCGCC"
+    },
+    {
+        "protein": "Q96JG9",
+        "prot_region": [
+            2601,
+            2617
+        ],
+        "prot_seq": "ELHPKQAEKREGRRWRR",
+        "intervals": [
+            {
+                "chrom": "chr16",
+                "start": 88435271,
+                "end": 88435321,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GAGCTGCATCCCAAACAGGCAGAAAAAAGAGAAGGCCGGAGGTGGCGCCGA"
+    },
+    {
+        "protein": "O60885",
+        "prot_region": [
+            173,
+            187
+        ],
+        "prot_seq": "IVQAKGRGRGRKETG",
+        "intervals": [
+            {
+                "chrom": "chr19",
+                "start": 15267416,
+                "end": 15267458,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 42
+            },
+            {
+                "chrom": "chr19",
+                "start": 15265642,
+                "end": 15265643,
+                "strand": "-",
+                "merged_start": 43,
+                "merged_end": 44
+            }
+        ],
+        "dna": "ATAGTCCAGGCAAAAGGAAGAGGACGTGGGAGGAAAGAAACAGGG"
+    },
+    {
+        "protein": "P56182",
+        "prot_region": [
+            417,
+            434
+        ],
+        "prot_seq": "LLRDQPRGRGQRGARQRR",
+        "intervals": [
+            {
+                "chrom": "chr21",
+                "start": 43803637,
+                "end": 43803690,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "CTGCTCCGAGATCAGCCCAGGGGCCGTGGCCAGAGAGGGGCTCGCCAGAGAAGG"
+    },
+    {
+        "protein": "Q9UBX2",
+        "prot_region": [
+            10,
+            24
+        ],
+        "prot_seq": "TLPAEARGRGRRRRL",
+        "intervals": [
+            {
+                "chrom": "chr4",
+                "start": 190173801,
+                "end": 190173845,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 44
+            }
+        ],
+        "dna": "ACCCTCCCCGCGGAAGCCCGGGGACGAGGACGGCGACGGAGACTC"
+    },
+    {
+        "protein": "P12270",
+        "prot_region": [
+            2330,
+            2363
+        ],
+        "prot_seq": "TTLRQGVRGRQFNRQRGVSHAMGGRGGINRGNIN",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 186314629,
+                "end": 186314677,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 48
+            },
+            {
+                "chrom": "chr1",
+                "start": 186313974,
+                "end": 186314026,
+                "strand": "-",
+                "merged_start": 49,
+                "merged_end": 101
+            }
+        ],
+        "dna": "ACAACATTGAGACAAGGTGTCCGTGGTCGTCAGTTTAACAGACAGAGAGGTGTGAGCCATGCAATGGGAGGGAGAGGAGGAATAAACAGAGGAAATATTAAT"
+    },
+    {
+        "protein": "Q9H2U1",
+        "prot_region": [
+            38,
+            56
+        ],
+        "prot_seq": "GGGGGGGGGRGGRGRHPGH",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 154324249,
+                "end": 154324305,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 56
+            }
+        ],
+        "dna": "GGAGGCGGCGGCGGCGGAGGGGGTGGTCGAGGCGGCAGGGGCCGGCATCCCGGGCAC"
+    },
+    {
+        "protein": "P61978",
+        "prot_region": [
+            250,
+            265
+        ],
+        "prot_seq": "PVGFPMRGRGGFDRMP",
+        "intervals": [
+            {
+                "chrom": "chr9",
+                "start": 83972040,
+                "end": 83972087,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CCAGTGGGATTTCCCATGCGGGGAAGAGGTGGTTTTGACAGAATGCCT"
+    },
+    {
+        "protein": "P61978",
+        "prot_region": [
+            290,
+            306
+        ],
+        "prot_seq": "PPPPPGRGGRGGSRARN",
+        "intervals": [
+            {
+                "chrom": "chr9",
+                "start": 83971917,
+                "end": 83971967,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "CCTCCCCCTCCTCCCGGACGAGGCGGCCGGGGTGGTAGCAGAGCTCGGAAT"
+    },
+    {
+        "protein": "Q5T200",
+        "prot_region": [
+            569,
+            585
+        ],
+        "prot_seq": "ELPEKGSRGSRGSQIDS",
+        "intervals": [
+            {
+                "chrom": "chr13",
+                "start": 45985297,
+                "end": 45985312,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 15
+            },
+            {
+                "chrom": "chr13",
+                "start": 45979970,
+                "end": 45980004,
+                "strand": "-",
+                "merged_start": 16,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GAGTTACCTGAAAAGGGAAGTCGAGGCTCAAGAGGTTCTCAAATTGATAGT"
+    },
+    {
+        "protein": "Q9Y5S9",
+        "prot_region": [
+            147,
+            167
+        ],
+        "prot_seq": "DWCFVRGPPKGKRRGGRRRSR",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 145926041,
+                "end": 145926081,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 40
+            },
+            {
+                "chrom": "chr1",
+                "start": 145925906,
+                "end": 145925927,
+                "strand": "-",
+                "merged_start": 41,
+                "merged_end": 62
+            }
+        ],
+        "dna": "GACTGGTGTTTTGTTCGGGGTCCACCAAAAGGCAAGAGGAGAGGTGGCCGAAGACGCAGCAGA"
+    },
+    {
+        "protein": "Q08170",
+        "prot_region": [
+            308,
+            325
+        ],
+        "prot_seq": "RVEEEKRGSVSRGRSQEK",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 29148920,
+                "end": 29148973,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 53
+            }
+        ],
+        "dna": "AGAGTGGAGGAGGAGAAGCGAGGGAGTGTGAGCAGGGGCAGGAGCCAGGAGAAG"
+    },
+    {
+        "protein": "Q15427",
+        "prot_region": [
+            409,
+            424
+        ],
+        "prot_seq": "RPPVPPRGPLRGPLPQ",
+        "intervals": [
+            {
+                "chrom": "chr1",
+                "start": 149923545,
+                "end": 149923592,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 47
+            }
+        ],
+        "dna": "CGGCCACCAGTTCCCCCTCGAGGCCCACTTCGAGGCCCTCTCCCTCAG"
+    },
+    {
+        "protein": "P33240",
+        "prot_region": [
+            359,
+            380
+        ],
+        "prot_seq": "VPGHESRGPPPHELRGGPLPEP",
+        "intervals": [
+            {
+                "chrom": "chrX",
+                "start": 100832777,
+                "end": 100832842,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 65
+            }
+        ],
+        "dna": "GTCCCTGGCCATGAGAGCCGAGGACCACCCCCACATGAACTGAGGGGAGGGCCATTACCCGAGCCC"
+    },
+    {
+        "protein": "Q92841",
+        "prot_region": [
+            88,
+            107
+        ],
+        "prot_seq": "RDRDRDRGGFGARGGGGLPP",
+        "intervals": [
+            {
+                "chrom": "chr22",
+                "start": 38505951,
+                "end": 38505976,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 25
+            },
+            {
+                "chrom": "chr22",
+                "start": 38501247,
+                "end": 38501280,
+                "strand": "-",
+                "merged_start": 26,
+                "merged_end": 59
+            }
+        ],
+        "dna": "CGGGACCGGGATCGTGACCGTGGAGGATTTGGAGCAAGAGGTGGTGGTGGCCTTCCCCCG"
+    },
+    {
+        "protein": "Q9P1Z0",
+        "prot_region": [
+            253,
+            269
+        ],
+        "prot_seq": "EAQCRRGASTRGSTGLG",
+        "intervals": [
+            {
+                "chrom": "chr17",
+                "start": 7465995,
+                "end": 7466045,
+                "strand": "-",
+                "merged_start": 0,
+                "merged_end": 50
+            }
+        ],
+        "dna": "GAGGCCCAGTGCCGACGAGGGGCCAGCACGCGGGGGTCTACAGGGCTGGGA"
+    },
+    {
+        "protein": "P55201",
+        "prot_region": [
+            1019,
+            1038
+        ],
+        "prot_seq": "TPSKQGRGKPSFSRGTFPED",
+        "intervals": [
+            {
+                "chrom": "chr3",
+                "start": 9745577,
+                "end": 9745636,
+                "strand": "+",
+                "merged_start": 0,
+                "merged_end": 59
+            }
+        ],
+        "dna": "ACGCCCTCAAAACAAGGCCGGGGCAAACCCTCCTTCTCTCGGGGCACTTTCCCAGAGGAC"
+    }
+]

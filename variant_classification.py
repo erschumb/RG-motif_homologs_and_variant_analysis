@@ -248,7 +248,7 @@ def get_physchem_metrics(before_aa: str, after_aa: str, category: str):
     # print(before_aa)
     # print(after_aa)
     # print(category)
-    if category == "nonsense" or before_aa is None or after_aa is None or '*' in after_aa or after_aa == "":
+    if category == "nonsense" or before_aa is None or after_aa is None or '*' in after_aa or  '*' in before_aa or after_aa == "":
         return {
         "NCPR_change": None,
         "FCR_change": None,
@@ -286,6 +286,30 @@ def get_physchem_metrics(before_aa: str, after_aa: str, category: str):
         "aromaticity_change": aromaticity_change
     }
 
+def get_physchem_metrics_opt(before_aa: str, after_aa: str, category: str):
+    if category == "nonsense" or before_aa is None or after_aa is None or '*' in after_aa or '*' in before_aa or after_aa == "":
+        return {
+            "NCPR_change": None, "FCR_change": None, "hydropathy_change": None,
+            "kappa_change": None, "pos_count_change": None, "neg_count_change": None,
+            "aromaticity_change": None
+        }
+    
+    sp_before = SeqParams(before_aa)
+    sp_after  = SeqParams(after_aa)
+
+    frac_before = sp_before.get_amino_acid_fractions()
+    frac_after  = sp_after.get_amino_acid_fractions()
+
+    return {
+        "NCPR_change":       sp_after.get_NCPR()           - sp_before.get_NCPR(),
+        "FCR_change":        sp_after.get_FCR()            - sp_before.get_FCR(),
+        "hydropathy_change": sp_after.get_mean_hydropathy()- sp_before.get_mean_hydropathy(),
+        "kappa_change":      sp_after.get_kappa()          - sp_before.get_kappa(),
+        "pos_count_change":  sp_after.get_countPos()       - sp_before.get_countPos(),
+        "neg_count_change":  sp_after.get_countNeg()       - sp_before.get_countNeg(),
+        "aromaticity_change": sum(frac_after[aa]  for aa in "YFW") -
+                              sum(frac_before[aa] for aa in "YFW"),
+    }
 
 def count_RG_positions(seq):
     """Return all start positions of 'RG' motifs (0-based)."""

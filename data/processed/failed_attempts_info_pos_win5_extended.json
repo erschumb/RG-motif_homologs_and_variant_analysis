@@ -1,0 +1,98 @@
+[
+    {
+        "protein": "P0CJ87",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CJ86",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CJ90",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CJ89",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CJ85",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0DJD4",
+        "region": [
+            107,
+            126
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0DJD4",
+        "region": [
+            139,
+            158
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CJ88",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q6RFH8",
+        "region": [
+            10,
+            24
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q86V81",
+        "region": [
+            14,
+            45
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A6NNA2",
+        "region": [
+            143,
+            158
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q8N7U7",
+        "region": [
+            30,
+            45
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    }
+]

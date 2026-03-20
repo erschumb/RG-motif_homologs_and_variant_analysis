@@ -1,0 +1,210 @@
+[
+    {
+        "protein": "Q9P1D8",
+        "region": [
+            0,
+            37
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A4D2B8",
+        "region": [
+            162,
+            215
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q86UK7",
+        "region": [
+            310,
+            352
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q86UK7",
+        "region": [
+            360,
+            408
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A0A0G2JQZ4",
+        "region": [
+            24,
+            57
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q8N7Y1",
+        "region": [
+            17,
+            59
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q86UX2",
+        "region": [
+            206,
+            228
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CAT3",
+        "region": [
+            94,
+            122
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q8NFD4",
+        "region": [
+            19,
+            47
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q96MR7",
+        "region": [
+            117,
+            158
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0CZ25",
+        "region": [
+            113,
+            163
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q9H8W2",
+        "region": [
+            12,
+            56
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q8N9L7",
+        "region": [
+            92,
+            120
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A6NFC9",
+        "region": [
+            288,
+            320
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q8IYB0",
+        "region": [
+            72,
+            100
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A0A2R8YFR7",
+        "region": [
+            838,
+            888
+        ],
+        "reason": "only_ALT_chromosomes_found"
+    },
+    {
+        "protein": "Q5T4H9",
+        "region": [
+            0,
+            51
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A4D250",
+        "region": [
+            63,
+            88
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "A8MTW9",
+        "region": [
+            21,
+            71
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0DP75",
+        "region": [
+            34,
+            82
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q6U949",
+        "region": [
+            0,
+            31
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q6U949",
+        "region": [
+            42,
+            89
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q71F78",
+        "region": [
+            3,
+            53
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q66K80",
+        "region": [
+            0,
+            44
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "P0C879",
+        "region": [
+            45,
+            94
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    },
+    {
+        "protein": "Q8N8E1",
+        "region": [
+            10,
+            54
+        ],
+        "reason": "uniprot_lookup_failed_and_ensembl_xref_failed"
+    }
+]

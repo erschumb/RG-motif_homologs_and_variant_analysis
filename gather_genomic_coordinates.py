@@ -143,7 +143,7 @@ def _translation_check(dna: str, prot_seq: Optional[str], aa_start: int, aa_end:
     expected = prot_seq[aa_start - 1: aa_end]
 
     if trans != expected:
-        logger.warning(f"Translation mismatch for {protein_id} ({aa_start}-{aa_end})")
+        logger.warning(f"Translation mismatch for {protein_id}  (expected:{expected}, got:{trans}) ({aa_start}-{aa_end})")
 
     return trans
 
