@@ -7,5 +7,5 @@ __pycache__/
 *.pptx
 RG_motif_overview_Enrique_251103.csv
 RG_motif_overview_Enrique_extended_251103.csv
-notebooks/
+# notebooks/
 _archived/
